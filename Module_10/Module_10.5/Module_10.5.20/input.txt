@@ -1,33 +1,33 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 generator = card_deck('пик')
 
 print(next(generator))
 print(next(generator))
 print(next(generator))
 
-TEST_2:
+# TEST_2:
 generator = card_deck('треф')
 cards = [next(generator) for _ in range(40)]
 
 print(*cards)
 
-TEST_3:
+# TEST_3:
 generator = card_deck('бубен')
 
 cards = [next(generator) for _ in range(50)]
 
 print(*cards)
 
-TEST_4:
+# TEST_4:
 generator = card_deck('червей')
 
 cards = [next(generator) for _ in range(60)]
 
 print(*cards)
 
-TEST_5:
+# TEST_5:
 generator = card_deck('пик')
 
 cards = [next(generator) for _ in range(80)]

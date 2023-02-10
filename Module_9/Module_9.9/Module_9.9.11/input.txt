@@ -1,51 +1,51 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print(to_Timur('когда курс?'))
 
-TEST_2:
+# TEST_2:
 print(to_Timur('Тимур, привет, я на егэ, помоги решить 13 задачу'))
 
-TEST_3:
+# TEST_3:
 print(to_Timur('хочу курс по искусственным интеллектам и криптовалютам бесплатно и завтра'))
 
-TEST_4:
+# TEST_4:
 try:
     to_Timur()
 except:
     print('ok')
 
-TEST_5:
+# TEST_5:
 try:
     to_Timur('первое', 'второе')
 except:
     print('ok')
 
-TEST_6:
+# TEST_6:
 try:
     to_Timur('первое', 'второе', 'третье')
 except:
     print('ok')
 
-TEST_7:
+# TEST_7:
 try:
     to_Timur('beegeek')
     print('ok')
 except:
     print('ne ok')
 
-TEST_8:
+# TEST_8:
 print(send_an_invitation("Тимур", "timyrik20@beegeek.ru"))
 
-TEST_9:
+# TEST_9:
 try:
     print(send_an_invitation("Тимур"))
 except:
     print("Ошибка, и где же? Хм-м-м")
 
-TEST_10:
+# TEST_10:
 print(to_Timur('Здравствуйте! Я Таня из компании Орифлэйм. Хочу предложить вам новую линейку курсов от Поколения Python'))
 
-TEST_11:
+# TEST_11:
 print(to_Timur('This is... Requiem. What you are seeing is indeed the truth.'))
 

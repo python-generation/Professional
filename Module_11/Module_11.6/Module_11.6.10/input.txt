@@ -1,16 +1,16 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 _123abc_
 _1abc_
 123abc
 _abc123
 
-TEST_2:
+# TEST_2:
 _1
 _1_
 
-TEST_3:
+# TEST_3:
 _1b
 _2e_
 _0A
@@ -23,7 +23,7 @@ _6STEPIK_
 _7BeeGeek
 _8BeeGeek_
 
-TEST_4:
+# TEST_4:
 _47234623487234jhajfhasfashj
 _47234623487234jhajfhasfashj_
 _1738123DHFDJHFjkshgffdg
@@ -35,7 +35,7 @@ _1239123DJASJDJASJDJASJD
 _57345834FSJDHFDSJFHJSDHGK_
 _967654353
 
-TEST_5:
+# TEST_5:
 47234623487234jhajfhasfashj
 47234623487234jhajfhasfashj_
 1738123DHFDJHFjkshgffdg
@@ -47,7 +47,7 @@ TEST_5:
 967654353_
 _0
 
-TEST_6:
+# TEST_6:
 _1
 _jhajfhasfashj
 _jhajfhasfashj_

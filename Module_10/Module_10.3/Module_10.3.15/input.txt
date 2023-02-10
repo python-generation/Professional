@@ -1,39 +1,39 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print(is_iterator([1, 2, 3, 4, 5]))
 
-TEST_2:
+# TEST_2:
 beegeek = map(str.upper, 'beegeek')
 
 print(is_iterator(beegeek))
 
-TEST_3:
+# TEST_3:
 beegeek = filter(None, [0, 0, 1, 1, 0, 1])
 
 print(is_iterator(beegeek))
 
-TEST_4:
+# TEST_4:
 beegeek = zip([1, 2, 3], [3, 4, 5])
 
 print(is_iterator(beegeek))
 
-TEST_5:
+# TEST_5:
 beegeek = enumerate('beegeek', start=1)
 
 print(is_iterator(beegeek))
 
-TEST_6:
+# TEST_6:
 beegeek = 'beegeek'
 
 print(is_iterator(beegeek))
 
-TEST_7:
+# TEST_7:
 beegeek = 199999111199991919191
 
 print(is_iterator(beegeek))
 
-TEST_8:
+# TEST_8:
 beegeek = iter('199999111199991919191')
 
 print(is_iterator(beegeek))

@@ -1,20 +1,20 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print(convert(15))
 
-TEST_2:
+# TEST_2:
 print(convert(-24))
 
-TEST_3:
+# TEST_3:
 print(convert(1))
 
-TEST_4:
+# TEST_4:
 print(convert(0))
 
-TEST_5:
+# TEST_5:
 print(convert(-132))
 
-TEST_6:
+# TEST_6:
 print(convert(78))
 

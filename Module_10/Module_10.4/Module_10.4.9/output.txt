@@ -1,22 +1,22 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 1
 4
 
-TEST_2:
+# TEST_2:
 [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
 
-TEST_3:
+# TEST_3:
 [1]
 
-TEST_4:
+# TEST_4:
 Error
 
-TEST_5:
+# TEST_5:
 1 4 9 16 25 36 49 64 81
 
-TEST_6:
+# TEST_6:
 1
 4
 Error

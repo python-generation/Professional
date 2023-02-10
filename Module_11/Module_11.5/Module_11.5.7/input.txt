@@ -1,32 +1,32 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 Correct name is beegeekbeegeek
 
-TEST_2:
+# TEST_2:
 hello beegeek_cyber_school
 
-TEST_3:
+# TEST_3:
 beebeegeekgeekgeekbee
 
-TEST_4:
+# TEST_4:
 no no no geekbee not matches
 
-TEST_5:
+# TEST_5:
 beebee
 
-TEST_6:
+# TEST_6:
 bee_geek
 
-TEST_7:
+# TEST_7:
 beegeekgeekgeekgeekbee
 
-TEST_8:
+# TEST_8:
 mimi beebeebeebee geekgeekgeek
 
-TEST_9:
+# TEST_9:
 beegeekbeebeegeek
 
-TEST_10:
+# TEST_10:
 beegeekgeekbeegeekgeekbeegeekgeek
 

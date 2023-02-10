@@ -1,26 +1,26 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 pairs = [(1, 3), (2, 5), (6, 4)]
 
 print(*starmap(lambda a, b: a + b, pairs))
 
-TEST_2:
+# TEST_2:
 points = [(1, 1, 1), (1, 1, 2), (2, 2, 3)]
 
 print(*starmap(lambda x, y, z: x * y * z, points))
 
-TEST_3:
+# TEST_3:
 points = [(1, 1, 1, 0), (1, 1, 2, 0), (2, 2, 3, 10)]
 
 print(*starmap(lambda x, y, z, t: x + y + z + t, points))
 
-TEST_4:
+# TEST_4:
 points = [[10], [-9], [2]]
 
 print(*starmap(lambda x: x ** 2, points))
 
-TEST_5:
+# TEST_5:
 points = [(1, 1, 1, 0, 90),
           (1, 1, 2, 0, 67),
           (2, 2, 3, 10, -56),

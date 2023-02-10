@@ -1,18 +1,18 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 existing pessimist optimist this is
 is
 
-TEST_2:
+# TEST_2:
 I love Python very much, what about me hahah
 ha
 
-TEST_3:
+# TEST_3:
 thdbakru rubabadjso babadirnid iehedba  ibebibeb duabafbf
 ba
 
-TEST_4:
+# TEST_4:
 qwErty12 fierkus geEReRhsh erpuenrpRuner fEERRhherhsero 1e2e2e3e9elefrerkd kerfierd
 er
 

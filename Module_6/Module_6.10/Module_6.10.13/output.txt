@@ -1,23 +1,23 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 Arthur Timur
 
-TEST_2:
+# TEST_2:
 set()
 
-TEST_3:
+# TEST_3:
 Anri Arthur Timur
 
-TEST_4:
+# TEST_4:
 20 29
 
-TEST_5:
+# TEST_5:
 Moscow
 
-TEST_6:
+# TEST_6:
 set()
 
-TEST_7:
+# TEST_7:
 Almetyevsk Moscow
 

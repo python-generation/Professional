@@ -1,29 +1,29 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 [[1, 2], [3, 4], [5, 6]]
 
-TEST_2:
+# TEST_2:
 {'Arthur', 'Timur', 'Anri', 'Ruslan', 'Dima'}
 
-TEST_3:
+# TEST_3:
 ('black', 'blue', 'red', 'orange', 'green', 'gray')
 
-TEST_4:
+# TEST_4:
 set()
 
-TEST_5:
+# TEST_5:
 [[1], [3, 4, 2, 'python is awesome'], True, False, {'dict': 1, 'set': 2}]
 
-TEST_6:
+# TEST_6:
 [[1], [3, 4, 2, 'python is awesome'], True, False, {'dict', 'set'}, []]
 
-TEST_7:
+# TEST_7:
 ('first', 'second', 'third', 'thorth', 'fiveth', 'sixth', 'game_over')
 
-TEST_8:
+# TEST_8:
 [10]
 
-TEST_9:
+# TEST_9:
 (10,)
 

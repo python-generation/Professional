@@ -1,22 +1,22 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 squares = Square(2)
 
 print(next(squares))
 print(next(squares))
 
-TEST_2:
+# TEST_2:
 squares = Square(10)
 
 print(list(squares))
 
-TEST_3:
+# TEST_3:
 squares = Square(1)
 
 print(list(squares))
 
-TEST_4:
+# TEST_4:
 squares = Square(5)
 
 next(squares)
@@ -30,12 +30,12 @@ try:
 except StopIteration:
     print('Error')
 
-TEST_5:
+# TEST_5:
 squares = Square(9)
 
 print(*squares)
 
-TEST_6:
+# TEST_6:
 squares = Square(2)
 
 try:

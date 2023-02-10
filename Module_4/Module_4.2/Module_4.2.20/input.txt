@@ -1,6 +1,6 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 text = '''01,Title,Ran So Hard the Sun Went Down
 02,Title,Honky Tonk Heroes (Like Me)'''
 
@@ -12,7 +12,7 @@ condense_csv('data.csv', id_name='ID')
 with open('condensed.csv', encoding='utf-8') as file:
     print(file.read().strip())
 
-TEST_2:
+# TEST_2:
 text = '''01,Artist,Otis Taylor
 01,Title,Ran So Hard the Sun Went Down
 01,Time,3:52
@@ -28,7 +28,7 @@ condense_csv('data.csv', id_name='ID')
 with open('condensed.csv', encoding='utf-8') as file:
     print(file.read().strip())
 
-TEST_3:
+# TEST_3:
 text = '''01,Artist,Otis Taylor
 01,Title,Ran So Hard the Sun Went Down
 01,Time,3:52
@@ -47,7 +47,7 @@ condense_csv('data.csv', id_name='Position')
 with open('condensed.csv', encoding='utf-8') as file:
     print(file.read().strip())
 
-TEST_4:
+# TEST_4:
 text = '''ball,color,purple
 ball,size,4
 ball,notes,it's round

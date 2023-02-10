@@ -1,29 +1,29 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print(recursive_sum(10, 22))
 
-TEST_2:
+# TEST_2:
 print(recursive_sum(99, 0))
 
-TEST_3:
+# TEST_3:
 print(recursive_sum(0, 0))
 
-TEST_4:
+# TEST_4:
 print(recursive_sum(1, 1))
 
-TEST_5:
+# TEST_5:
 print(recursive_sum(0, 78))
 
-TEST_6:
+# TEST_6:
 print(recursive_sum(13, 27))
 
-TEST_7:
+# TEST_7:
 print(recursive_sum(74, 11))
 
-TEST_8:
+# TEST_8:
 print(recursive_sum(91, 92))
 
-TEST_9:
+# TEST_9:
 print(recursive_sum(62, 62))
 

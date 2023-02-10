@@ -1,46 +1,46 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 numbers = [-3, -2, -1, 0, 1, 2, 3]
 
 print(*drop_while_negative(numbers))
 
-TEST_2:
+# TEST_2:
 iterator = iter([-3, -2, -1, 0, 1, 2, 3, -4, -5, -6])
 
 print(*drop_while_negative(iterator))
 
-TEST_3:
+# TEST_3:
 iterator = iter([-3, -2, -1, -4, -5, -6])
 
 print(list(drop_while_negative(iterator)))
 
-TEST_4:
+# TEST_4:
 iterator = iter([0, 1, 2, 3, 4, 5, 6, 7])
 
 print(list(drop_while_negative(iterator)))
 
-TEST_5:
+# TEST_5:
 iterator = iter([-1, -2, -3, -4, -5, -6, 7])
 
 print(*drop_while_negative(iterator))
 
-TEST_6:
+# TEST_6:
 iterator = iter([-1, 2, 3, 4, 5, 6, 7, 8])
 
 print(*drop_while_negative(iterator))
 
-TEST_7:
+# TEST_7:
 iterator = iter([1])
 
 print(*drop_while_negative(iterator))
 
-TEST_8:
+# TEST_8:
 iterator = iter([-1])
 
 print(list(drop_while_negative(iterator)))
 
-TEST_9:
+# TEST_9:
 iterator = iter([])
 
 print(list(drop_while_negative(iterator)))

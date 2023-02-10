@@ -1,38 +1,38 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 15
 
-TEST_2:
+# TEST_2:
 Магазин не работает
 
-TEST_3:
+# TEST_3:
 480
 
-TEST_4:
+# TEST_4:
 Магазин не работает
 
-TEST_5:
+# TEST_5:
 Магазин не работает
 
-TEST_6:
+# TEST_6:
 Магазин не работает
 
-TEST_7:
+# TEST_7:
 492
 
-TEST_8:
+# TEST_8:
 366
 
-TEST_9:
+# TEST_9:
 Магазин не работает
 
-TEST_10:
+# TEST_10:
 Магазин не работает
 
-TEST_11:
+# TEST_11:
 Магазин не работает
 
-TEST_12:
+# TEST_12:
 720
 

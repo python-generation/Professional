@@ -1,26 +1,26 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print(tribonacci(1))
 
-TEST_2:
+# TEST_2:
 print(tribonacci(7))
 
-TEST_3:
+# TEST_3:
 print(tribonacci(4))
 
-TEST_4:
+# TEST_4:
 print(tribonacci(3))
 
-TEST_5:
+# TEST_5:
 print(tribonacci(10))
 
-TEST_6:
+# TEST_6:
 print(tribonacci(2))
 
-TEST_7:
+# TEST_7:
 print(tribonacci(300))
 
-TEST_8:
+# TEST_8:
 print(tribonacci(100))
 

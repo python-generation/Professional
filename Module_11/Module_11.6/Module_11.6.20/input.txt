@@ -1,15 +1,15 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 Люблю курсы BEEGEEK!
 Когда курс по ООП? @beegeek
 BEEGEEK, спасибо за курсы, вы лучшие! #python #BeeGeek
 
-TEST_2:
+# TEST_2:
 Нельзя быть дружелюбным соседом, если соседей нет
 @everyone, посоветуйте курсы по программированию
 
-TEST_3:
+# TEST_3:
 beegeekabc
 beegeek123
 BeeGeeK^&*
@@ -19,7 +19,7 @@ abcBeegeek
 abcdbeeGeekbcdfg
 12345beeGeek123456
 
-TEST_4:
+# TEST_4:
 beegeek
 Beegeek
 BEEGEEK

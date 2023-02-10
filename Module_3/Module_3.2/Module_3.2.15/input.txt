@@ -1,14 +1,14 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print(is_correct(31, 12, 2021))
 
-TEST_2:
+# TEST_2:
 print(is_correct(31, 13, 2021))
 
-TEST_3:
+# TEST_3:
 print(is_correct(32, 10, 2021))
 
-TEST_4:
+# TEST_4:
 print(is_correct(99, 99, 2021))
 

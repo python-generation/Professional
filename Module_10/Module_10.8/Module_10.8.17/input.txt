@@ -1,16 +1,16 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 alnum = alnum_sequence()
 
 print(*(next(alnum) for _ in range(55)))
 
-TEST_2:
+# TEST_2:
 alnum = alnum_sequence()
 
 print(*(next(alnum) for _ in range(100)))
 
-TEST_3:
+# TEST_3:
 alnum = alnum_sequence()
 
 print(next(alnum))
@@ -18,7 +18,7 @@ print(next(alnum))
 print(next(alnum))
 print(next(alnum))
 
-TEST_4:
+# TEST_4:
 alnum = alnum_sequence()
 
 for _ in range(10_000):
@@ -29,7 +29,7 @@ print(next(alnum))
 print(next(alnum))
 print(next(alnum))
 
-TEST_5:
+# TEST_5:
 alnum = alnum_sequence()
 
 for _ in range(100_000):

@@ -1,48 +1,48 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 messages = ['Hi, Linda', 'Hi, Sam', 'How are you doing?']
 senders = ['Sam Fisher', 'Linda', 'Sam Fisher']
 
 print(best_sender(messages, senders))
 
-TEST_2:
+# TEST_2:
 messages = ['How is Stepik for everyone', 'Stepik is useful for practice']
 senders = ['Bob', 'Charlie']
 
 print(best_sender(messages, senders))
 
-TEST_3:
+# TEST_3:
 messages = ['Hello userTwooo', 'Hi userThree', 'Wonderful day Alice', 'Nice day userThree']
 senders = ['Alice', 'userTwo', 'userThree', 'Alice']
 
 print(best_sender(messages, senders))
 
-TEST_4:
+# TEST_4:
 messages = ['thanks', 'Stepik is useful for', 'thanks', 'np ur welcome', 'practice']
 senders = ['Bob', 'Charlie', 'Bob', 'Bob', 'Charlie']
 
 print(best_sender(messages, senders))
 
-TEST_5:
+# TEST_5:
 messages = ['hi', 'hello', 'how r u', 'i am okay', 'how r u', 'i am okay too thanks']
 senders = ['Anri', 'Dima', 'Anri', 'Dima', 'Dima', 'Anri']
 
 print(best_sender(messages, senders))
 
-TEST_6:
+# TEST_6:
 messages = ['bu bu bu', 'bu bu bu bu bu', 'bu bu', 'bu bu bu bu', 'bu bu bu bu bu bu', 'bu']
 senders = ['timur', 'anri', 'dima', 'dima', 'dima', 'dima']
 
 print(best_sender(messages, senders))
 
-TEST_7:
+# TEST_7:
 messages = ['bu bu', 'bu bu', 'bu bu', 'bu bu bu', 'bu bu bu', 'bu']
 senders = ['dima', 'dima', 'dima', 'dima', 'dima', 'dima']
 
 print(best_sender(messages, senders))
 
-TEST_8:
+# TEST_8:
 messages = ['bu bu da', 'bu bu da', 'bu bu da', 'bu bu da', 'bu bu da', 'bu bu net']
 senders = ['dima', 'anri', 'timur', 'timur', 'anri', 'dima']
 

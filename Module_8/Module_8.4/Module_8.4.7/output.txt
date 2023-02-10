@@ -1,21 +1,21 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 4 5
 
-TEST_2:
+# TEST_2:
 math videogames
 
-TEST_3:
+# TEST_3:
 0
 
-TEST_4:
+# TEST_4:
 CS TV math videogames
 
-TEST_5:
+# TEST_5:
 14
 
-TEST_6:
+# TEST_6:
 4 5
 <class 'set'>
 math videogames

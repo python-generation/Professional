@@ -1,17 +1,17 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 beebee bee
 beegeek
 bee geek bee
 
-TEST_2:
+# TEST_2:
 abigail alex
 clint dwarf
 emily
 gil
 
-TEST_3:
+# TEST_3:
 bee one bee two
 abee beeb
 abeeb bee
@@ -20,12 +20,12 @@ bee
 geek geek geek
 one geek two geek
 
-TEST_4:
+# TEST_4:
 geekbeegeekbee
 ageek geekb ageekb
 _geek_ _geek geek_
 
-TEST_5:
+# TEST_5:
 _b_e_e_b_e_e_
 BeeBeeBee
 BEEBEEBEE

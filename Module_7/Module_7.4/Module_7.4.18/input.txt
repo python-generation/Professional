@@ -1,23 +1,23 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print(get_weekday(1))
 
-TEST_2:
+# TEST_2:
 try:
     print(get_weekday('hello'))
 except Exception as err:
     print(err)
     print(type(err))
 
-TEST_3:
+# TEST_3:
 try:
     print(get_weekday(8))
 except ValueError as err:
     print(err)
     print(type(err))
 
-TEST_4:
+# TEST_4:
 try:
     print(get_weekday(7))
 except Exception as err:
@@ -26,74 +26,74 @@ except Exception as err:
 else:
     print('Без ошибок')
 
-TEST_5:
+# TEST_5:
 print(get_weekday(2))
 
-TEST_6:
+# TEST_6:
 print(get_weekday(3))
 
-TEST_7:
+# TEST_7:
 print(get_weekday(4))
 
-TEST_8:
+# TEST_8:
 print(get_weekday(5))
 
-TEST_9:
+# TEST_9:
 print(get_weekday(6))
 
-TEST_10:
+# TEST_10:
 print(get_weekday(7))
 
-TEST_11:
+# TEST_11:
 try:
     print(get_weekday(4.0))
 except Exception as err:
     print(err)
     print(type(err))
 
-TEST_12:
+# TEST_12:
 try:
     print(get_weekday('4'))
 except Exception as err:
     print(err)
     print(type(err))
 
-TEST_13:
+# TEST_13:
 try:
     print(get_weekday(0))
 except ValueError as err:
     print(err)
     print(type(err))
 
-TEST_14:
+# TEST_14:
 try:
     print(get_weekday(-5))
 except ValueError as err:
     print(err)
     print(type(err))
 
-TEST_15:
+# TEST_15:
 try:
     print(get_weekday([]))
 except Exception as err:
     print(err)
     print(type(err))
 
-TEST_16:
+# TEST_16:
 try:
     print(get_weekday((1, 2)))
 except Exception as err:
     print(err)
     print(type(err))
 
-TEST_17:
+# TEST_17:
 try:
     print(get_weekday({}))
 except Exception as err:
     print(err)
     print(type(err))
 
-TEST_18:
+# TEST_18:
 try:
     print(get_weekday(set()))
 except Exception as err:

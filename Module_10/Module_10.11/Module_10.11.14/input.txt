@@ -1,36 +1,36 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 groups = group_anagrams(['evil', 'father', 'live', 'levi', 'book', 'afther', 'boko'])
 
 print(*groups)
 
-TEST_2:
+# TEST_2:
 groups = group_anagrams(['evil', 'father', 'book', 'stepik', 'beegeek'])
 
 print(*groups)
 
-TEST_3:
+# TEST_3:
 groups = group_anagrams(['крона', 'сеточка', 'тесачок', 'лучик', 'стоечка', 'норка', 'чулки'])
 
 print(*groups)
 
-TEST_4:
+# TEST_4:
 groups = group_anagrams(['чулки', 'чулки', 'чулки', 'чулки', 'чулки', 'чулки', 'чулки'])
 
 print(*groups)
 
-TEST_5:
+# TEST_5:
 groups = group_anagrams(['beegeek'])
 
 print(*groups)
 
-TEST_6:
+# TEST_6:
 groups = group_anagrams(['клоун', 'отсечка', 'кулон', 'уклон', 'чесотка', 'чулки', 'яяя', 'чулки', 'чесотка', 'яяя'])
 
 print(*groups)
 
-TEST_7:
+# TEST_7:
 groups = group_anagrams(['клоун', 'яяя', 'жжж', 'бббб', 'кулон'])
 
 print(*groups)

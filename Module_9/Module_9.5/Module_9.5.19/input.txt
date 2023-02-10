@@ -1,31 +1,31 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 date_ru = date_formatter('ru')
 today = date(2022, 1, 25)
 print(date_ru(today))
 
-TEST_2:
+# TEST_2:
 date_ru = date_formatter('us')
 today = date(2025, 1, 5)
 print(date_ru(today))
 
-TEST_3:
+# TEST_3:
 date_ru = date_formatter('ca')
 today = date(2015, 12, 7)
 print(date_ru(today))
 
-TEST_4:
+# TEST_4:
 date_ru = date_formatter('br')
 today = date(1992, 1, 7)
 print(date_ru(today))
 
-TEST_5:
+# TEST_5:
 date_ru = date_formatter('fr')
 today = date(2025, 1, 5)
 print(date_ru(today))
 
-TEST_6:
+# TEST_6:
 date_ru = date_formatter('pt')
 today = date(2025, 1, 5)
 print(date_ru(today))

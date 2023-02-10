@@ -1,13 +1,13 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 @returns(int)
 def add(a, b):
     return a + b
 
 print(add(10, 5))
 
-TEST_2:
+# TEST_2:
 @returns(int)
 def add(a, b):
     return a + b
@@ -17,7 +17,7 @@ try:
 except TypeError as e:
     print(type(e))
 
-TEST_3:
+# TEST_3:
 @returns(list)
 def beegeek():
     '''beegeek docs'''
@@ -31,7 +31,7 @@ try:
 except TypeError as e:
     print(type(e))
 
-TEST_4:
+# TEST_4:
 @returns(list)
 def append_this(li, elem):
     '''append_this docs'''
@@ -41,7 +41,7 @@ print(append_this.__name__)
 print(append_this.__doc__)
 print(append_this([1, 2, 3], elem=4))
 
-TEST_5:
+# TEST_5:
 @returns(tuple)
 def append_this(li, elem):
     '''append_this docs'''
@@ -55,7 +55,7 @@ try:
 except TypeError as e:
     print(type(e))
 
-TEST_6:
+# TEST_6:
 @returns(int)
 def add(a, b):
     return a + b

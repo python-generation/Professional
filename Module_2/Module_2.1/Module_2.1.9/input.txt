@@ -1,30 +1,30 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 word = 'abba'
 anagrams = ['aabb', 'abcd', 'bbaa', 'dada']
 
 print(filter_anagrams(word, anagrams))
 
-TEST_2:
+# TEST_2:
 print(filter_anagrams('отсечка', ['сеточка', 'стоечка', 'тесачок', 'чесотка']))
 
-TEST_3:
+# TEST_3:
 print(filter_anagrams('tommarvoloriddle', ['iamlordvoldemort', 'iamdevolremort', 'mortmortmortmort', 'remortvolremort']))
 
-TEST_4:
+# TEST_4:
 print(filter_anagrams('стекло', []))
 
-TEST_5:
+# TEST_5:
 print(filter_anagrams('крона', ['кротко', 'укроп', 'норка']))
 
-TEST_6:
+# TEST_6:
 print(filter_anagrams('чулки', ['лучик', 'чутко', 'кочка']))
 
-TEST_7:
+# TEST_7:
 print(filter_anagrams('клоун', ['колдун', 'кулон', 'уклон', 'кол']))
 
-TEST_8:
+# TEST_8:
 word = 'abba'
 anagrams = ['aaab', 'dbcd', 'bdaa', 'badb']
 print(filter_anagrams(word, anagrams))

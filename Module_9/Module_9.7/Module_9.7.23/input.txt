@@ -1,39 +1,39 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 @exception_decorator
 def f(x):
     return x**2 + 2*x + 1
     
 print(f(7))
 
-TEST_2:
+# TEST_2:
 sum = exception_decorator(sum)
 
 print(sum(['199', '1', 187]))
 
-TEST_3:
+# TEST_3:
 @exception_decorator
 def f(x, y):
     return x * y
     
 print(f('stepik', 10))
 
-TEST_4:
+# TEST_4:
 @exception_decorator
 def f(x, y):
     return x * y
     
 print(f('stepik', 'stepik'))
 
-TEST_5:
+# TEST_5:
 @exception_decorator
 def f(*args, **kwargs):
     return sum(args) + sum(kwargs.values())
     
 print(f(1, 2, 3, param1=4, param2=10))
 
-TEST_6:
+# TEST_6:
 @exception_decorator
 def f(*args, **kwargs):
     return sum(args) + sum(kwargs.values())

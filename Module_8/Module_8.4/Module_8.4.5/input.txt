@@ -1,46 +1,46 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 my_list = [3, [4], [5, [6, [7, 8]]]]
 
 print(linear(my_list))
 
-TEST_2:
+# TEST_2:
 my_list = [10, 20, 30, 40, 50]
 
 print(linear(my_list))
 
-TEST_3:
+# TEST_3:
 my_list = [[1], [2], [3], [4, 5], 6, 7]
 
 print(linear(my_list))
 
-TEST_4:
+# TEST_4:
 my_list = [[123], 23, 43, 65, 754, 3, 1, 2]
 
 print(linear(my_list))
 
-TEST_5:
+# TEST_5:
 my_list = [3123, 424, 5343, 11, 1, 23, 43, 65, 754, 3, 1, [2]]
 
 print(linear(my_list))
 
-TEST_6:
+# TEST_6:
 my_list = [[3, 2, 5345, 65, 7, 777, 0, 43, 65, 754, 3, 1, 2]]
 
 print(linear(my_list))
 
-TEST_7:
+# TEST_7:
 my_list = [34534, [656, [7867, [[234, [123, 34534, [758, 978]]]], 667, [4546]]], [2324, [234234, [7656]], 9879, 55]]
 
 print(linear(my_list))
 
-TEST_8:
+# TEST_8:
 my_list = [12, [13, [53, [632, [6, [2342341, [98, [3123], [2432], [4324]]]]]]]]
 
 print(linear(my_list))
 
-TEST_9:
+# TEST_9:
 my_list = [3, [4], [5, [6, [7, 8]]]]
 print(linear(my_list))
 

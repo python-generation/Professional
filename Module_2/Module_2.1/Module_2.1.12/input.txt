@@ -1,33 +1,33 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 words = ['россия', 'Австрия', 'австралия', 'РумыниЯ', 'Украина', 'КИТай', 'УЗБЕКИСТАН']
 
 print(spell(*words))
 
-TEST_2:
+# TEST_2:
 print(spell('Математика', 'История', 'химия', 'биология', 'Информатика'))
 
-TEST_3:
+# TEST_3:
 words = ['fruit', 'football', 'February', 'forest', 'Family']
 print(spell(*words))
 
-TEST_4:
+# TEST_4:
 print(spell())
 
-TEST_5:
+# TEST_5:
 words = ['a', 'aa', 'aaa', 'aaaa', 'aaaaa']
 print(spell(*words))
 
-TEST_6:
+# TEST_6:
 words = ['aaaaa', 'aaaaa', 'aaaaa', 'aaaaa', 'aaaaa']
 print(spell(*words))
 
-TEST_7:
+# TEST_7:
 words = ['a']
 print(spell(*words))
 
-TEST_8:
+# TEST_8:
 words = ['a', 'ab', 'abc', 'abcd', 'ба', 'аб', 'абвгдеЁёёЁЁжбБбБввВ', 'ёёё', 'Ёаaа']
 print(spell(*words))
 

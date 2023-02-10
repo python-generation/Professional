@@ -1,26 +1,26 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 Sam Fisher
 
-TEST_2:
+# TEST_2:
 Charlie
 
-TEST_3:
+# TEST_3:
 Alice
 
-TEST_4:
+# TEST_4:
 Charlie
 
-TEST_5:
+# TEST_5:
 Anri
 
-TEST_6:
+# TEST_6:
 dima
 
-TEST_7:
+# TEST_7:
 dima
 
-TEST_8:
+# TEST_8:
 timur
 

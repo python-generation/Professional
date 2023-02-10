@@ -1,15 +1,15 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 1
 1
 
-TEST_2:
+# TEST_2:
 True
 True
 True
 
-TEST_3:
+# TEST_3:
 True
 True
 True
@@ -24,26 +24,6 @@ True
 True
 True
 True
-True
-True
-True
-True
-True
-True
-True
-True
-True
-True
-
-TEST_4:
-5
-5
-5
-5
-5
-5
-
-TEST_5:
 True
 True
 True
@@ -55,7 +35,27 @@ True
 True
 True
 
-TEST_6:
+# TEST_4:
+5
+5
+5
+5
+5
+5
+
+# TEST_5:
+True
+True
+True
+True
+True
+True
+True
+True
+True
+True
+
+# TEST_6:
 True
 True
 True

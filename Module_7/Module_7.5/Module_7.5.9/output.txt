@@ -1,29 +1,29 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 LengthError
 DigitError
 LetterError
 Success!
 
-TEST_2:
+# TEST_2:
 LengthError
 Success!
 
-TEST_3:
+# TEST_3:
 LengthError
 LengthError
 LengthError
 Success!
 
-TEST_4:
+# TEST_4:
 DigitError
 DigitError
 DigitError
 DigitError
 Success!
 
-TEST_5:
+# TEST_5:
 LetterError
 LetterError
 LetterError
@@ -33,16 +33,16 @@ LetterError
 LetterError
 Success!
 
-TEST_6:
+# TEST_6:
 Success!
 
-TEST_7:
+# TEST_7:
 Success!
 
-TEST_8:
+# TEST_8:
 Success!
 
-TEST_9:
+# TEST_9:
 LetterError
 DigitError
 LengthError
@@ -53,7 +53,7 @@ LetterError
 LetterError
 Success!
 
-TEST_10:
+# TEST_10:
 LengthError
 LengthError
 LetterError

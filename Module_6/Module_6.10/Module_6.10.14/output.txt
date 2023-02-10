@@ -1,20 +1,20 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 ChainMap({'city': 'Moscow'}, {'name': 'Dima'}, {'name': 'Dima'})
 
-TEST_2:
+# TEST_2:
 ChainMap({'name': 'Arthur', 'age': 20}, {'name': 'Timur'})
 
-TEST_3:
+# TEST_3:
 ChainMap({'city': 'Moscow'})
 
-TEST_4:
+# TEST_4:
 ChainMap({'name': 'Arthur'}, {'name': 'Timur', 'age': 29}, {'name': 'Anri', 'age': 29}, {'name': 'Dima', 'age': 29})
 
-TEST_5:
+# TEST_5:
 None
 
-TEST_6:
+# TEST_6:
 ChainMap({'name': 'Dima'}, {'name': 'Dima'}, {'name': 'Dima'})
 

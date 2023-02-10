@@ -1,12 +1,12 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 bee = BoundedRepeater('bee', 2)
 
 print(next(bee))
 print(next(bee))
 
-TEST_2:
+# TEST_2:
 geek = BoundedRepeater('geek', 3)
 
 print(next(geek))
@@ -18,7 +18,7 @@ try:
 except StopIteration:
     print('Error')
 
-TEST_3:
+# TEST_3:
 repeater = BoundedRepeater(['bee', 'geek'], 10)
 
 for _ in range(9):
@@ -31,7 +31,7 @@ try:
 except StopIteration:
     print('Error')
 
-TEST_4:
+# TEST_4:
 repeater = BoundedRepeater(9999, 1)
 
 try:
@@ -40,7 +40,7 @@ try:
 except StopIteration:
     print('Error')
 
-TEST_5:
+# TEST_5:
 repeater = BoundedRepeater((1, 2, 3, 4), 15)
 
 for _ in range(10):
@@ -57,13 +57,13 @@ try:
 except StopIteration:
     print('Error')
 
-TEST_6:
+# TEST_6:
 repeater = BoundedRepeater({'bee': 'geek'}, 55)
 
 for elem in repeater:
     print(elem)
 
-TEST_7:
+# TEST_7:
 repeater = BoundedRepeater(1, 10)
 
 print(list(repeater))

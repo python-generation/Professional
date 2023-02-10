@@ -1,30 +1,30 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 bee = Repeater('bee')
 
 print(next(bee))
 
-TEST_2:
+# TEST_2:
 geek = Repeater('geek')
 
 print(next(geek))
 print(next(geek))
 print(next(geek))
 
-TEST_3:
+# TEST_3:
 repeater = Repeater(1234)
 
 for _ in range(100):
     print(next(repeater))
 
-TEST_4:
+# TEST_4:
 repeater = Repeater((1, 2, 3, 4))
 
 for _ in range(55):
     print(next(repeater))
 
-TEST_5:
+# TEST_5:
 repeater = Repeater(['bee', 'geek'])
 
 for _ in range(22):

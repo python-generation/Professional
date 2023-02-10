@@ -1,15 +1,15 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 (1, 'A') (2, 'B') (3, 'C')
 
-TEST_2:
+# TEST_2:
 (1, 1) (2, 4) (3, 9) (4, 16) (5, 25) (6, 36) (7, 49)
 
-TEST_3:
+# TEST_3:
 [('Arthur', 100), ('Timur', 100), ('Dima', 100), ('Anri', 101), ('Roma', 99), ('German', 98)]
 
-TEST_4:
+# TEST_4:
 ('Arthur', [100, 5])
 ('Timur', [100, 6])
 ('Dima', [100, 7, 8])
@@ -17,7 +17,7 @@ TEST_4:
 ('Roma', [99])
 Error
 
-TEST_5:
+# TEST_5:
 (('a', 1), ('b', 2), ('c', 3), ('d', 4), ('e', 5), ('f', 6), ('g', 7))
 Error
 

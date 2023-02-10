@@ -1,23 +1,23 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 hi never here my blue
 
-TEST_2:
+# TEST_2:
 hello beegeek stepik python
 
-TEST_3:
+# TEST_3:
 went outside to the well it looked rather tatty but tried to comince myself it could be magical
 
-TEST_4:
+# TEST_4:
 a a a a a a a a a a a a a
 
-TEST_5:
+# TEST_5:
 a aa aaa aaaa aaaaa aaaaaa aaaaaaa
 
-TEST_6:
+# TEST_6:
 pw kowyegmsihl lnqw tkzladgrfvhpsw bsxnqd oydntwae zygcpxh z pqycrviultoek yfn vxnjwmpoahzludq spuzkvdah seztmhqnpkgfur bxros uczkfqdve hl rdfaypquviwgtsc vchmyuqbp wnxdsuepbvia bhol ihlsnoxfzywvarg gjeabyqkocsixv dqjsriht tgcwe feralzuowhpcxq ztw mlsuy aqgmsuziyxpdtj dcos ypdoejks uynti ebkxaqm xvmft dzqlxmhfkpbvgua erkjdctoqglpb ubdofz hgrfewbctmnv anz wkhbqlatdex x pucrf oxpgsivqrlmj lab gvri dmwpohciqlatf hmyciukvb f furgibvs xcr xvijrlcgdmopf
 
-TEST_7:
+# TEST_7:
 qizutanpgf embokhvsxpjd ynwqkfgtj gltmwavcksqhpzfejnoribyd maoprjbivlgz yuzbqwvxckjernpisoaftlhgm psuxavl feryju qgtkipfdh arsmkzydnhflqijgt lwzprie strhfulywjegn zxtkhrmpgiu nwdmrapihkoytuqxbczev uhcvzmtwiprxbgeqjofnl jibdxnolfpygtch dhskgbrwfpc lrfisqgyu fuhmneizj gzawytcijpem yjfelwdspmc mguztlp enwxhblfcrkduzmsjpto lsgterh uyxfrzohkai uwqsdnhvk lpyr wyikvqtrhzlcpnujagdombf jhnfstmvgxiy ghuspnjvfcqldiotwmkzayxber qdoznhyul lnzjvo vaqmohyerxtlibjfwzdpk pco yuvfgwpxoraetl coepsl pgbxrwun lmsvucjqthgzfdneix yg gbqij azjvrtnqsdmfluy uiea gmfbakdhrxv kzowibjmtrvndcqfyhu fbtmivc dj ztwahcijuvnqyoplgr bdgtvrw wv rnogcb hcnpywxvtzqldkioab zukayjlnspqbdvgfx golyibvnjexqthcukrpafmzwd ul rfuavdoqxgjsbpmzhenitl arvfpgjncolyzbxhiqdku oipmeqdcgsbxfn kbjlhqaxrswpenfvyimz owialx lhpcy rsvlaxkfen v tuirfkoplbn vtyick uqbmlpizorfkdhyntajgx lfhgodvwq iqoezkfucwvgxpbsylahjrmntd bvitgrejnklxopa pmwzits ipbxoretdsvcy wjtpgaexufkvihyqmrobzdsnlc haitsrdqfzukopcwjx hixg kmvdjwzuygr qs aoglcdnuqvswbxm yfgrdaozp vmjfrlagyetcd mbrpxuochlvwqjakydszfg idwayrplkuen ovzlkfxqagmewn lpeyntxmagdqucfbh goful xozjihwmgqyctulsnvpkfreb fhpu a nqjhrtlyaxoukgvescmpibwfd ugjhxnzfq kiptxcorheasjfwbnzg nzckjdimsbptyq fhqutmbcogy jpsrtlbimxgevz dtnbjaemzxk kzowrmexusdvynfiahgbcpl fbvpohzurasqcdwl ziclgeywfmqhsxvpborunjtda hytpigj kznhdjymwgvxtqfolbrp yjlc mtdvejxbrluagzcsnoh
 

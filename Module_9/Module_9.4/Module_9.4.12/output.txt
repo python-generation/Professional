@@ -1,23 +1,23 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 BEEGEEK [1, 2, 3] 4
 
-TEST_2:
+# TEST_2:
 BEE AND GEEK WOW
 
-TEST_3:
+# TEST_3:
 BLACK TO WHITE TO GREY TO BLACK-1 TO WHITE-1 TO PYTHON LOVE
 
-TEST_4:
+# TEST_4:
 ['black', 'white', 'grey', 'black-1', 'white-1', 'python'] LOVE
 
-TEST_5:
+# TEST_5:
 A 2 B 3 ['1a', '2a', '3a', '4a'] 5A True 8.763 ('python', 'c++')
 
-TEST_6:
+# TEST_6:
 A 2 B 3 ['1a', '2a', '3a', '4a'] 5A True 8.763 ('python', 'c++') FINISH
 
-TEST_7:
+# TEST_7:
 A,F 2,F B,F 3,F ['1a', '2a', '3a', '4a'],F 5A,F True,F 8.763,F ('python', 'c++') FINISH
 

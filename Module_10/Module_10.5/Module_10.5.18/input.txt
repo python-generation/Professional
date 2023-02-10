@@ -1,15 +1,15 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print(*reverse([1, 2, 3, 4, 5]))
 
-TEST_2:
+# TEST_2:
 generator = reverse('beegeek')
 
 print(type(generator))
 print(*generator)
 
-TEST_3:
+# TEST_3:
 generator = reverse('stepik')
 
 print(type(generator))
@@ -25,13 +25,13 @@ try:
 except StopIteration:
     print('Error')
 
-TEST_4:
+# TEST_4:
 generator = reverse(list(range(123, 5453, 3)))
 
 print(type(generator))
 print(*generator)
 
-TEST_5:
+# TEST_5:
 generator = reverse(tuple('HFJDHFjdhfjhfdJSHFJDHF'))
 
 print(type(generator))
@@ -68,18 +68,18 @@ try:
 except StopIteration:
     print('Error')
 
-TEST_6:
+# TEST_6:
 generator = reverse(list('HFJDHFjd23423i942313223hfjhfdJSHFJD656754964HF'))
 
 print(type(generator))
 print(*generator)
 
-TEST_7:
+# TEST_7:
 generator = reverse([1])
 
 print(type(generator))
 print(*generator)
 
-TEST_8:
+# TEST_8:
 print(list(reverse([])))
 

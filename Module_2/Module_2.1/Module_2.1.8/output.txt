@@ -1,35 +1,35 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 beegeek
 
-TEST_2:
+# TEST_2:
 PYTHON
 
-TEST_3:
+# TEST_3:
 pi31415!
 
-TEST_4:
+# TEST_4:
 ABCDEF
 
-TEST_5:
+# TEST_5:
 abcdef
 
-TEST_6:
+# TEST_6:
 12345!?
 
-TEST_7:
+# TEST_7:
 PI31415!
 
-TEST_8:
+# TEST_8:
 abcdef
 
-TEST_9:
+# TEST_9:
 abcdef123
 
-TEST_10:
+# TEST_10:
 abcdef12345
 
-TEST_11:
+# TEST_11:
 defabc
 

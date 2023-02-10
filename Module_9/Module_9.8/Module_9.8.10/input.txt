@@ -1,13 +1,13 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 @returns_string
 def beegeek():
     return 'beegeek'
     
 print(beegeek())
 
-TEST_2:
+# TEST_2:
 @returns_string
 def add(a, b):
     return a + b
@@ -17,7 +17,7 @@ try:
 except TypeError as e:
     print(type(e))
 
-TEST_3:
+# TEST_3:
 @returns_string
 def beegeek():
     '''documentation'''
@@ -26,7 +26,7 @@ def beegeek():
 print(beegeek.__name__)
 print(beegeek.__doc__)
 
-TEST_4:
+# TEST_4:
 @returns_string
 def nothing():
     return
@@ -39,7 +39,7 @@ try:
 except TypeError as e:
     print(type(e))
 
-TEST_5:
+# TEST_5:
 @returns_string
 def add(a, b):
     '''docs'''
@@ -53,7 +53,7 @@ try:
 except TypeError as e:
     print(type(e))
 
-TEST_6:
+# TEST_6:
 @returns_string
 def concat(a, b):
     '''concat two strings'''
@@ -63,7 +63,7 @@ print(concat.__name__)
 print(concat.__doc__)
 print(concat('10', b='20'))
 
-TEST_7:
+# TEST_7:
 @returns_string
 def concat(*args, **kwargs):
     return "".join([*args, *kwargs.values()])

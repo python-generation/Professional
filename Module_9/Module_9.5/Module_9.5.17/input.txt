@@ -1,25 +1,25 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 f = generator_square_polynom(1, 2, 1)
 print(f(5))
 
-TEST_2:
+# TEST_2:
 print(generator_square_polynom(9, 52, 64)(8))
 
-TEST_3:
+# TEST_3:
 f = generator_square_polynom(26, 83, 22)
 print(f(55))
 
-TEST_4:
+# TEST_4:
 print(generator_square_polynom(26, 83, 22)(0))
 
-TEST_5:
+# TEST_5:
 print(generator_square_polynom(26.17, 83.33, 22.3)(0.1))
 
-TEST_6:
+# TEST_6:
 print(generator_square_polynom(26.17, 83.33, 22.3)(-1))
 
-TEST_7:
+# TEST_7:
 print(generator_square_polynom(0, 0, 0)(126484.38483))
 

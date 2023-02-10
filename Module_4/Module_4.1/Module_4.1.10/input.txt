@@ -1,17 +1,17 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 Take all of my dreams
 Take off both your wings
 And set them on fire
 Set them on fire
 
-TEST_2:
+# TEST_2:
 finn
 jake
 marceline
 
-TEST_3:
+# TEST_3:
 a
 b
 c
@@ -20,18 +20,18 @@ e
 f
 g
 
-TEST_4:
+# TEST_4:
 qwerty 12345
 
-TEST_5:
+# TEST_5:
 
 
-TEST_6:
+# TEST_6:
 12345
 abcd
 po
 
-TEST_7:
+# TEST_7:
 deed
 nun
 level

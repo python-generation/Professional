@@ -1,44 +1,44 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 <class '__main__.LengthError'>
 
-TEST_2:
+# TEST_2:
 True
 
-TEST_3:
+# TEST_3:
 <class '__main__.LetterError'>
 
-TEST_4:
+# TEST_4:
 True
 
-TEST_5:
+# TEST_5:
 <class '__main__.LengthError'>
 
-TEST_6:
+# TEST_6:
 True
 
-TEST_7:
+# TEST_7:
 True
 
-TEST_8:
+# TEST_8:
 <class '__main__.LetterError'>
 
-TEST_9:
+# TEST_9:
 <class '__main__.LetterError'>
 
-TEST_10:
+# TEST_10:
 <class '__main__.DigitError'>
 
-TEST_11:
+# TEST_11:
 <class '__main__.LetterError'>
 
-TEST_12:
+# TEST_12:
 <class '__main__.LetterError'>
 
-TEST_13:
+# TEST_13:
 <class '__main__.LetterError'>
 
-TEST_14:
+# TEST_14:
 <class '__main__.LetterError'>
 

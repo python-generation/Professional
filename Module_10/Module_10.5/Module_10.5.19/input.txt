@@ -1,23 +1,23 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 generator = dates(date(2022, 3, 8))
 
 print(next(generator))
 print(next(generator))
 print(next(generator))
 
-TEST_2:
+# TEST_2:
 generator = dates(date(2022, 3, 8), 5)
 
 print(*generator)
 
-TEST_3:
+# TEST_3:
 generator = dates(date(2025, 9, 11), 99)
 
 print(*generator)
 
-TEST_4:
+# TEST_4:
 generator = dates(date(2024, 9, 13), 1)
 
 try:
@@ -28,7 +28,7 @@ try:
 except StopIteration:
     print('Error')
 
-TEST_5:
+# TEST_5:
 generator = dates(date(2049, 1, 7))
 
 for _ in range(10_000):
@@ -46,7 +46,7 @@ print(next(generator))
 print(next(generator))
 print(next(generator))
 
-TEST_6:
+# TEST_6:
 generator = dates(date(9999, 1, 7))
 
 for _ in range(348):

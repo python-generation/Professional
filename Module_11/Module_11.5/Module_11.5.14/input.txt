@@ -1,20 +1,20 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 What is palindrome? Examples: -._.-._.-, rotavator, abba, deleveled, 123454321
 
-TEST_2:
+# TEST_2:
 a1.-B-.1a
 
-TEST_3:
+# TEST_3:
 atri_c_irtjfien
 
-TEST_4:
+# TEST_4:
 f0O+m+O1f
 
-TEST_5:
+# TEST_5:
 Hy robot #f0O+m+O0f, I'm glad to see u, mem
 
-TEST_6:
+# TEST_6:
 it's too small palindrome f0+m+0fc(
 

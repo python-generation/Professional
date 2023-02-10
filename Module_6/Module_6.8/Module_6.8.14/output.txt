@@ -1,29 +1,29 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 арбуз
 
-TEST_2:
+# TEST_2:
 малина
 
-TEST_3:
+# TEST_3:
 малина
 
-TEST_4:
+# TEST_4:
 черешня
 
-TEST_5:
+# TEST_5:
 черешня
 
-TEST_6:
+# TEST_6:
 малина
 
-TEST_7:
+# TEST_7:
 клубника
 
-TEST_8:
+# TEST_8:
 арбуз
 
-TEST_9:
+# TEST_9:
 арбуз
 

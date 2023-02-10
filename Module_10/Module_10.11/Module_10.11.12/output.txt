@@ -1,16 +1,16 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 2 -> hi, my
 4 -> blue, here
 5 -> never
 
-TEST_2:
+# TEST_2:
 5 -> hello
 6 -> python, stepik
 7 -> beegeek
 
-TEST_3:
+# TEST_3:
 2 -> be, it, it, to, to
 3 -> but, the
 4 -> well, went
@@ -18,10 +18,10 @@ TEST_3:
 6 -> looked, myself, rather
 7 -> comince, magical, outside
 
-TEST_4:
+# TEST_4:
 1 -> a, a, a, a, a, a, a, a, a, a, a, a, a
 
-TEST_5:
+# TEST_5:
 1 -> a
 2 -> aa
 3 -> aaa
@@ -30,7 +30,7 @@ TEST_5:
 6 -> aaaaaa
 7 -> aaaaaaa
 
-TEST_6:
+# TEST_6:
 1 -> f, x, z
 2 -> hl, pw
 3 -> anz, lab, xcr, yfn, ztw
@@ -46,7 +46,7 @@ TEST_6:
 14 -> aqgmsuziyxpdtj, feralzuowhpcxq, gjeabyqkocsixv, seztmhqnpkgfur, tkzladgrfvhpsw
 15 -> dzqlxmhfkpbvgua, ihlsnoxfzywvarg, rdfaypquviwgtsc, vxnjwmpoahzludq
 
-TEST_7:
+# TEST_7:
 1 -> a, v
 2 -> dj, qs, ul, wv, yg
 3 -> pco

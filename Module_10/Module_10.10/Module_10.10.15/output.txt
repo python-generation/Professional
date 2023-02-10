@@ -1,26 +1,26 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 10
 
-TEST_2:
+# TEST_2:
 9
 
-TEST_3:
+# TEST_3:
 0
 
-TEST_4:
+# TEST_4:
 21
 
-TEST_5:
+# TEST_5:
 11
 
-TEST_6:
+# TEST_6:
 20
 
-TEST_7:
+# TEST_7:
 112
 
-TEST_8:
+# TEST_8:
 120
 

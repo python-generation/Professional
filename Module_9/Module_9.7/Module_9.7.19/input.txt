@@ -1,20 +1,20 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 @sandwich
 def add_ingredients(ingredients):
     print(' | '.join(ingredients))
 
 add_ingredients(['томат', 'салат', 'сыр', 'бекон'])
 
-TEST_2:
+# TEST_2:
 @sandwich
 def beegeek():
     return 'beegeek'
     
 print(beegeek())
 
-TEST_3:
+# TEST_3:
 @sandwich
 def add_ingredients(ingredients):
     for ing in ingredients:
@@ -23,7 +23,7 @@ def add_ingredients(ingredients):
 
 add_ingredients(['томат', 'салат', 'сыр', 'бекон'])
 
-TEST_4:
+# TEST_4:
 @sandwich
 def counter():
     for i in range(17):
@@ -31,7 +31,7 @@ def counter():
 
 counter()
 
-TEST_5:
+# TEST_5:
 @sandwich
 def counter(*args, **kwargs):
     for i in args + tuple(kwargs.keys()) + tuple(kwargs.values()):

@@ -1,6 +1,6 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 @repeat(3)
 def say_beegeek():
     '''documentation'''
@@ -8,7 +8,7 @@ def say_beegeek():
     
 say_beegeek()
 
-TEST_2:
+# TEST_2:
 @repeat(4)
 def say_beegeek():
     '''documentation'''
@@ -17,7 +17,7 @@ def say_beegeek():
 print(say_beegeek.__name__)
 print(say_beegeek.__doc__)
 
-TEST_3:
+# TEST_3:
 @repeat(1)
 def beegeek():
     '''beegeek docs'''
@@ -27,7 +27,7 @@ print(beegeek.__name__)
 print(beegeek.__doc__)
 beegeek()
 
-TEST_4:
+# TEST_4:
 @repeat(10)
 def beegeek():
     '''beegeek docs'''
@@ -37,7 +37,7 @@ print(beegeek.__name__)
 print(beegeek.__doc__)
 beegeek()
 
-TEST_5:
+# TEST_5:
 @repeat(10)
 def add(a, b):
     '''sum of two numbers'''
@@ -47,7 +47,7 @@ print(add.__name__)
 print(add.__doc__)
 print(add(10, b=20))
 
-TEST_6:
+# TEST_6:
 counter = 0
 
 @repeat(11)
@@ -61,7 +61,7 @@ print(change_counter.__doc__)
 change_counter()
 print(counter)
 
-TEST_7:
+# TEST_7:
 @repeat(5)
 def say(word):
     print(word)

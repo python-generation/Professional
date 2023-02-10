@@ -1,26 +1,26 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 9
 
-TEST_2:
+# TEST_2:
 meloncherryapple
 
-TEST_3:
+# TEST_3:
 14
 
-TEST_4:
+# TEST_4:
 0
 
-TEST_5:
+# TEST_5:
 ZeroDivisionError
 
-TEST_6:
+# TEST_6:
 10
 
-TEST_7:
+# TEST_7:
 ZeroDivisionError
 
-TEST_8:
+# TEST_8:
 -69
 

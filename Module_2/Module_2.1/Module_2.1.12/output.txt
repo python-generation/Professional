@@ -1,26 +1,26 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 {'р': 7, 'а': 9, 'у': 10, 'к': 5}
 
-TEST_2:
+# TEST_2:
 {'м': 10, 'и': 11, 'х': 5, 'б': 8}
 
-TEST_3:
+# TEST_3:
 {'f': 8}
 
-TEST_4:
+# TEST_4:
 {}
 
-TEST_5:
+# TEST_5:
 {'a': 5}
 
-TEST_6:
+# TEST_6:
 {'a': 5}
 
-TEST_7:
+# TEST_7:
 {'a': 1}
 
-TEST_8:
+# TEST_8:
 {'a': 4, 'б': 2, 'а': 19, 'ё': 4}
 

@@ -1,6 +1,6 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 text = '''movie,year,rating
 Machete,2010,72
 Marvin's Room,1996,80
@@ -92,7 +92,7 @@ with open('deniro.csv', 'w') as file:
 
 print(csv_columns('deniro.csv'))
 
-TEST_2:
+# TEST_2:
 text = '''name,grade
 Timur,5
 Arthur,4

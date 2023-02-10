@@ -1,19 +1,19 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 1
 2
 3
 4
 5
 
-TEST_2:
+# TEST_2:
 2
 4
 8
 16
 
-TEST_3:
+# TEST_3:
 1
 9
 1
@@ -21,7 +21,7 @@ TEST_3:
 4
 5
 
-TEST_4:
+# TEST_4:
 16
 4
 1
@@ -29,7 +29,7 @@ TEST_4:
 16
 8
 
-TEST_5:
+# TEST_5:
 1
 2
 4
@@ -37,7 +37,7 @@ TEST_5:
 16
 16
 
-TEST_6:
+# TEST_6:
 15
 30
 60
@@ -47,14 +47,14 @@ TEST_6:
 960
 1920
 
-TEST_7:
+# TEST_7:
 1
 2
 3 
 3
 5
 
-TEST_8:
+# TEST_8:
 4
 12
 36

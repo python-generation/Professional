@@ -1,20 +1,20 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print('hi', 'there', end='!')
 
-TEST_2:
+# TEST_2:
 print('are you in trouble?')
 
-TEST_3:
+# TEST_3:
 print(111, 222, 333, sep='xxx')
 
-TEST_4:
+# TEST_4:
 print(111, 222, 333, sep='xxx', end='python')
 print(111, 222, 333, sep='--', end='\n')
 print(111, 222, 333, sep='qqq', end='!')
 
-TEST_5:
+# TEST_5:
 print('aaa', 'bbb', 'CCC', sep='xxx', end='stepik')
 print('aaa', 'bbb', 'CCC', sep='--', end='python')
 print('aaa', 'bbb', 'CCC', sep='qqq', end='!')

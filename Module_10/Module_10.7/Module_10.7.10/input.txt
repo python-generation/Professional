@@ -1,6 +1,6 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 lines = nonempty_lines('file1.txt')
 
 print(next(lines))
@@ -8,15 +8,15 @@ print(next(lines))
 print(next(lines))
 print(next(lines))
 
-TEST_2:
+# TEST_2:
 print(*nonempty_lines('file2.txt'))
 
-TEST_3:
+# TEST_3:
 print(*nonempty_lines('file3.txt'))
 
-TEST_4:
+# TEST_4:
 print(*nonempty_lines('file4.txt'))
 
-TEST_5:
+# TEST_5:
 print(*nonempty_lines('file5.txt'))
 

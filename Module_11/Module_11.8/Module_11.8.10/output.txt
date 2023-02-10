@@ -1,47 +1,47 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 AAAA A AAAA
 
-TEST_2:
+# TEST_2:
 Тут нет лишних пробелов
 
-TEST_3:
+# TEST_3:
 Тут н е т л и шних пробелов 
 
-TEST_4:
+# TEST_4:
 K L L O I! ! I OP PPPppdj O P
 
-TEST_5:
+# TEST_5:
  
 
-TEST_6:
+# TEST_6:
 aaaaaaaaaaaaaaaaaaaaaaaaaa
 
-TEST_7:
+# TEST_7:
 Раз два три четыре пять шесть
 
-TEST_8:
+# TEST_8:
  Шесть-----пять четыре***три два+один
 
-TEST_9:
+# TEST_9:
 1 9 2 8 3 7 6 5
 
-TEST_10:
+# TEST_10:
 Проб.елов,нетв-этом:очень\длинно*мслове
 
-TEST_11:
+# TEST_11:
 
 
-TEST_12:
+# TEST_12:
  
 
-TEST_13:
+# TEST_13:
 There are no unnecessary gaps.
 
-TEST_14:
+# TEST_14:
 . , ; : " ( ) 
 
-TEST_15:
+# TEST_15:
 111111111111 2222222222222 333333333333
 

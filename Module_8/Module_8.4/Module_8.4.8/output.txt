@@ -1,32 +1,32 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 a: 1
 b.a: 10
 b.b: 20
 b.c: 30
 
-TEST_2:
+# TEST_2:
 a: 100
 b.a: 10
 b.b: 20
 b.c: 30
 d: 1
 
-TEST_3:
+# TEST_3:
 b.a: 10
 b.b.d: 40
 b.b.e: 50
 b.c: 30
 
-TEST_4:
+# TEST_4:
 birthday.day: 24
 birthday.month: March
 birthday.year: 1974
 firstname: Alyson
 lastname: Hannigan
 
-TEST_5:
+# TEST_5:
 address.city.cityname: Москва
 address.city.region: Московская область
 address.city.type: город

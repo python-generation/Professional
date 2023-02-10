@@ -1,47 +1,47 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 ['beegeek', 'python', 'stepik']
 
-TEST_2:
+# TEST_2:
 ['Timur', 'Arthur', 'Dima', 'Anri']
 
-TEST_3:
+# TEST_3:
 ['timur', 'arthur', 'dima', 'anri', 'roma', 'ruslan']
 
-TEST_4:
+# TEST_4:
 ['stepik', 'python-dima', 'roma', 'jenya-timur', '', 'arthur']
 
-TEST_5:
+# TEST_5:
 ['stepik', 'python', 'dima', 'roma', 'jenya', 'timur', 'arthur', 'bee']
 
-TEST_6:
+# TEST_6:
 ['stepik', 'python', 'regular', 'expressions', 'split']
 
-TEST_7:
+# TEST_7:
 ['stepikpythonregularexpressionssplit']
 
-TEST_8:
+# TEST_8:
 ['stepik', 'python', 'regular', 'expressions', 'split']
 
-TEST_9:
+# TEST_9:
 ['stepik', 'python', 'regular', 'expressions', 'split']
 
-TEST_10:
+# TEST_10:
 ['ivan', 'ivanov', 'company', 'com']
 
-TEST_11:
+# TEST_11:
 ['beegeek', 'python', 'stepik', 'test']
 
-TEST_12:
+# TEST_12:
 ['“There', 'was', 'an', 'Old', 'Man', 'with', 'a', 'beard"']
 
-TEST_13:
+# TEST_13:
 ['“There', 'was', 'an', 'Old', 'Man', 'with', 'a', 'beard"']
 
-TEST_14:
+# TEST_14:
 ['Two', 'Owls', 'and', 'a', 'Hen']
 
-TEST_15:
+# TEST_15:
 ['There', 'was', 'a', 'small', 'boy', 'of', 'Quebec']
 

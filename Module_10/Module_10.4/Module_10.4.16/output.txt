@@ -1,14 +1,14 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 а
 б
 в
 
-TEST_2:
+# TEST_2:
 a b c d e f g h i j k l m n o p q r s t u v w x y z a b
 
-TEST_3:
+# TEST_3:
 a
 b
 c
@@ -110,13 +110,13 @@ t
 u
 v
 
-TEST_4:
+# TEST_4:
 m
 
-TEST_5:
+# TEST_5:
 и
 
-TEST_6:
+# TEST_6:
 а
 б
 в
@@ -168,9 +168,9 @@ TEST_6:
 р
 с
 
-TEST_7:
+# TEST_7:
 ш
 
-TEST_8:
+# TEST_8:
 q
 

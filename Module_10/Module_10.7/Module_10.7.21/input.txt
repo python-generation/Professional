@@ -1,31 +1,31 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 numbers = [1, 2, 3, 4, 5]
 
 print(*with_previous(numbers))
 
-TEST_2:
+# TEST_2:
 iterator = iter('stepik')
 
 print(*with_previous(iterator))
 
-TEST_3:
+# TEST_3:
 print(*with_previous(map(abs, range(-100, 100))))
 
-TEST_4:
+# TEST_4:
 print(*with_previous(map(str.upper, 'jhfjgshgkjfdjsgriyteryowpqerkelfsldfmnmnbmvcnmlgqweootiyoeytkldjhmvxcmkasd')))
 
-TEST_5:
+# TEST_5:
 print(*with_previous('JSKFJSDIFjejfkdjKJFIOJfkgkSDJGIEJGsklGDnvmmcvlwoqeriwjndSKF'))
 
-TEST_6:
+# TEST_6:
 print(*with_previous('A'))
 
-TEST_7:
+# TEST_7:
 print(*with_previous('AB'))
 
-TEST_8:
+# TEST_8:
 gen = with_previous(['bee', 'geek', 'stepik', 'python'])
 
 print(next(gen))
@@ -33,6 +33,6 @@ print(next(gen))
 print(next(gen))
 print(next(gen))
 
-TEST_9:
+# TEST_9:
 print(list(with_previous('')))
 

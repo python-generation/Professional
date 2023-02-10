@@ -1,6 +1,6 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 cycle = Cycle('be')
 
 print(next(cycle))
@@ -8,18 +8,18 @@ print(next(cycle))
 print(next(cycle))
 print(next(cycle))
 
-TEST_2:
+# TEST_2:
 cycle = Cycle([1])
 
 print(next(cycle) + next(cycle) + next(cycle))
 
-TEST_3:
+# TEST_3:
 cycle = Cycle(range(100_000_000))
 
 print(next(cycle))
 print(next(cycle))
 
-TEST_4:
+# TEST_4:
 cycle = Cycle(range(10_000_000))
 
 for _ in range(1000):
@@ -27,7 +27,7 @@ for _ in range(1000):
 
 print(next(cycle))
 
-TEST_5:
+# TEST_5:
 cycle = Cycle('beegeek')
 
 for _ in range(1000):
@@ -40,7 +40,7 @@ print(next(cycle))
 print(next(cycle))
 print(next(cycle))
 
-TEST_6:
+# TEST_6:
 cycle = Cycle((0, 9, 8, 7, 6, 5, 5, 4, 3, 2, 1, 1, 2, 3, 4, 0, 9, 8, 87, 5666666))
 
 for _ in range(2000):
@@ -59,7 +59,7 @@ print(next(cycle))
 print(next(cycle))
 print(next(cycle))
 
-TEST_7:
+# TEST_7:
 cycle = Cycle((0,))
 
 for _ in range(2000):
@@ -78,7 +78,7 @@ print(next(cycle))
 print(next(cycle))
 print(next(cycle))
 
-TEST_8:
+# TEST_8:
 cycle = Cycle('B')
 
 for _ in range(500):
@@ -93,7 +93,7 @@ print(next(cycle))
 print(next(cycle))
 print(next(cycle))
 
-TEST_9:
+# TEST_9:
 cycle = Cycle('AJFHKJSDHFWIEFJIOFKDKSVNCVNJVDJSFNdfkdsjfiwej943257438j2j123')
 
 for _ in range(666):
@@ -101,7 +101,7 @@ for _ in range(666):
 
 print(next(cycle))
 
-TEST_10:
+# TEST_10:
 cycle = Cycle([1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
 
 for _ in range(100):

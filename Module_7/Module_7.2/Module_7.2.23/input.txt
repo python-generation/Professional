@@ -1,6 +1,6 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 100
 i'm number!
 10
@@ -8,16 +8,16 @@ i'm number!
 1.1
 {'math', 'physics'}
 
-TEST_2:
+# TEST_2:
 10
 10
 
-TEST_3:
+# TEST_3:
 abc
 cda
 xyz
 
-TEST_4:
+# TEST_4:
 [][das]d[as[d
 af[a[f[a[
 43n 2r akfasdas
@@ -31,7 +31,7 @@ aspdpasdk10i1
 3
 asdasd
 
-TEST_5:
+# TEST_5:
 asd asd
  asdas141
  345 fsdf sdf

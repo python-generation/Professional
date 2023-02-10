@@ -1,17 +1,17 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print_digits(12345)
 
-TEST_2:
+# TEST_2:
 print_digits(2077)
 
-TEST_3:
+# TEST_3:
 print_digits(8)
 
-TEST_4:
+# TEST_4:
 print_digits(84293825)
 
-TEST_5:
+# TEST_5:
 print_digits(9999999999)
 

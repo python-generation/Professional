@@ -1,31 +1,31 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 Исключение ZeroDivisionError обработано
 
-TEST_2:
+# TEST_2:
 <class 'TypeError'>
 
-TEST_3:
+# TEST_3:
 <class 'ValueError'>
 
-TEST_4:
+# TEST_4:
 <class 'ValueError'>
 
-TEST_5:
+# TEST_5:
 func
 func docs
 Исключение ValueError обработано
 
-TEST_6:
+# TEST_6:
 Исключение NameError обработано
 
-TEST_7:
+# TEST_7:
 Исключение ZeroDivisionError обработано
 
-TEST_8:
+# TEST_8:
 Исключение NameError обработано
 
-TEST_9:
+# TEST_9:
 beegeek
 

@@ -1,32 +1,32 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 Digits from 0 to 7: 01234567
 
-TEST_2:
+# TEST_2:
 Digits from 1 to 8 by groups: 12-34-56-78
 
-TEST_3:
+# TEST_3:
 Digits from 1 to 8 by groups: 1234-5678
 
-TEST_4:
+# TEST_4:
 phone number 01-000-01-00
 
-TEST_5:
+# TEST_5:
 phone number 01-00-23-099
 
-TEST_6:
+# TEST_6:
 phone987-28-58-29 is available
 
-TEST_7:
+# TEST_7:
 use this number 43-10-291-00-21 is dangerous
 
-TEST_8:
+# TEST_8:
 sheo woend 30-18=19-78-19-00
 
-TEST_9:
+# TEST_9:
 30=18-90-1900
 
-TEST_10:
+# TEST_10:
 89-1a-84-00009090
 

@@ -1,50 +1,50 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 TRACE: вызов say() с аргументами: ('Jane', 'Hello, World'), {}
 TRACE: возвращаемое значение say(): 'Jane: Hello, World'
 
-TEST_2:
+# TEST_2:
 sub
 прекрасная функция
 TRACE: вызов sub() с аргументами: (20, 5), {'c': 10}
 TRACE: возвращаемое значение sub(): 25
 
-TEST_3:
+# TEST_3:
 TRACE: вызов beegeek() с аргументами: (), {}
 TRACE: возвращаемое значение beegeek(): 'beegeek'
 beegeek
 beegeek
 beegeek docs
 
-TEST_4:
+# TEST_4:
 TRACE: вызов add() с аргументами: (1, 2, 3), {}
 TRACE: возвращаемое значение add(): 6
 6
 add
 docs
 
-TEST_5:
+# TEST_5:
 TRACE: вызов add() с аргументами: (), {'b': 3, 'c': 3, 'a': 3}
 TRACE: возвращаемое значение add(): 9
 9
 add
 docs
 
-TEST_6:
+# TEST_6:
 TRACE: вызов concat() с аргументами: ('bee',), {'b': 'geek'}
 TRACE: возвращаемое значение concat(): 'beegeek'
 beegeek
 concat
 concat two strings
 
-TEST_7:
+# TEST_7:
 func
 прекрасная функция
 TRACE: вызов func() с аргументами: ([1, 2, 3, 4, 5, 6],), {}
 TRACE: возвращаемое значение func(): [1, 4, 9, 16, 25, 36]
 
-TEST_8:
+# TEST_8:
 func
 прекрасная функция
 TRACE: вызов func() с аргументами: ([1, 2, 3, 4, 5, 6],), {'degree': 5}

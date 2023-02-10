@@ -1,32 +1,32 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 16
 
-TEST_2:
+# TEST_2:
 10
 
-TEST_3:
+# TEST_3:
 1
 
-TEST_4:
+# TEST_4:
 5
 
-TEST_5:
+# TEST_5:
 100
 
-TEST_6:
+# TEST_6:
 51
 
-TEST_7:
+# TEST_7:
 37
 
-TEST_8:
+# TEST_8:
 6
 
-TEST_9:
+# TEST_9:
 3
 
-TEST_10:
+# TEST_10:
 73
 

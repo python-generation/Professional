@@ -1,47 +1,47 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 stepik.jpg
 
-TEST_2:
+# TEST_2:
 mountains.jpg
 
-TEST_3:
+# TEST_3:
 windows11.jpg
 
-TEST_4:
+# TEST_4:
 jepg_file.jpg
 
-TEST_5:
+# TEST_5:
 file_jepg.jpg
 
-TEST_6:
+# TEST_6:
 file.jepg.jpg
 
-TEST_7:
+# TEST_7:
 filename.jpg.jpg
 
-TEST_8:
+# TEST_8:
 stepik.jpeg.jpg
 
-TEST_9:
+# TEST_9:
 stepik.jpg.jpg
 
-TEST_10:
+# TEST_10:
 stepik.jpeg.jpg
 
-TEST_11:
+# TEST_11:
 beegeek.jpg
 
-TEST_12:
+# TEST_12:
 нарусском.jpg
 
-TEST_13:
+# TEST_13:
 на русском языке.jpg
 
-TEST_14:
+# TEST_14:
 jpg.jPg.Jpg.jpg
 
-TEST_15:
+# TEST_15:
 Это тест.jpg
 

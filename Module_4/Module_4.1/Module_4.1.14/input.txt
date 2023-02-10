@@ -1,6 +1,6 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 s = str(input())
 k = 0
 #подсчитываем количество цифр
@@ -10,7 +10,7 @@ for i in range(len(s)):
         k += 1
 print(k)
 
-TEST_2:
+# TEST_2:
 n = int(input())
 l = [input() for _ in range(n)]
 k = int(input())
@@ -26,7 +26,7 @@ for i in l:
         output.append(i)   #никто меня не остановит #вообще
 print(*output, sep = '\n') #никогда
 
-TEST_3:
+# TEST_3:
 n = int(input())
 s = []
 z = []
@@ -46,7 +46,7 @@ for i in range(len(s)):
     if count == len(z):
         print(s[i])
 
-TEST_4:
+# TEST_4:
 s = [input() for _ in range(int(input()))] #never gonna
 d = [input() for _ in range(int(input()))]    #give you
 for i in s:   #up
@@ -56,7 +56,7 @@ for i in s:   #up
     else:
         print(i)
 
-TEST_5:
+# TEST_5:
 #да, я действительно
 #вместо кода
 #написал три #комментария

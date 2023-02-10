@@ -1,32 +1,32 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print(index_of_nearest([], 17))
 
-TEST_2:
+# TEST_2:
 print(index_of_nearest([7, 13, 3, 5, 18], 0))
 
-TEST_3:
+# TEST_3:
 print(index_of_nearest([9, 5, 3, 2, 11], 4))
 
-TEST_4:
+# TEST_4:
 print(index_of_nearest([7, 5, 4, 4, 3], 4))
 
-TEST_5:
+# TEST_5:
 print(index_of_nearest([6, 100, 101, 2], 4))
 
-TEST_6:
+# TEST_6:
 print(index_of_nearest([734234423423423, 5343423423546463423, 934234423423423423, -1], 0))
 
-TEST_7:
+# TEST_7:
 print(index_of_nearest([1, 14, 100, 65, 6], 5))
 
-TEST_8:
+# TEST_8:
 print(index_of_nearest([10, 164, 100, 265, 16], 8))
 
-TEST_9:
+# TEST_9:
 print(index_of_nearest([10, 99, 0, -12, 16], -9))
 
-TEST_10:
+# TEST_10:
 print(index_of_nearest([1, 1, 1, 1, 1], 1))
 

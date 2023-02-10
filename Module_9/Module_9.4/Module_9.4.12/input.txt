@@ -1,29 +1,29 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print('beegeek', [1, 2, 3], 4)
 
-TEST_2:
+# TEST_2:
 print('bee', 'geek', sep=' and ', end=' wow')
 
-TEST_3:
+# TEST_3:
 words = ('black', 'white', 'grey', 'black-1', 'white-1', 'python')
 print(*words, sep=' to ', end=' LOVE')
 
-TEST_4:
+# TEST_4:
 words = [['black', 'white', 'grey', 'black-1', 'white-1', 'python']]
 print(*words, sep=' to ', end=' LOVE')
 
-TEST_5:
+# TEST_5:
 words = ['a', 2, 'b', 3, ['1a', '2a', '3a', '4a'], '5A', True, 8.763, ('python', 'c++')]
 print(*words)
 
-TEST_6:
+# TEST_6:
 words = ['a', 2, 'b', 3, ['1a', '2a', '3a', '4a'], '5A', True, 8.763, ('python', 'c++')]
 kwarg = {'sep' : ' ', 'end' : ' Finish'}
 print(*words, **kwarg)
 
-TEST_7:
+# TEST_7:
 words = ['a', 2, 'b', 3, ['1a', '2a', '3a', '4a'], '5A', True, 8.763, ('python', 'c++')]
 kwarg = {'sep' : ',f ', 'end' : ' Finish'}
 print(*words, **kwarg)

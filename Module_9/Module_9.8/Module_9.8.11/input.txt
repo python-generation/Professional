@@ -1,13 +1,13 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 @trace
 def say(name, line):
     return f'{name}: {line}'
     
 say('Jane', 'Hello, World')
 
-TEST_2:
+# TEST_2:
 @trace
 def sub(a, b, c):
     '''прекрасная функция'''
@@ -17,7 +17,7 @@ print(sub.__name__)
 print(sub.__doc__)
 sub(20, 5, c=10)
 
-TEST_3:
+# TEST_3:
 @trace
 def beegeek():
     '''beegeek docs'''
@@ -27,7 +27,7 @@ print(beegeek())
 print(beegeek.__name__)
 print(beegeek.__doc__)
 
-TEST_4:
+# TEST_4:
 @trace
 def add(a, b, c):
     '''docs'''
@@ -37,7 +37,7 @@ print(add(1, 2, 3))
 print(add.__name__)
 print(add.__doc__)
 
-TEST_5:
+# TEST_5:
 @trace
 def add(a, b, c):
     '''docs'''
@@ -47,7 +47,7 @@ print(add(b=3, c=3, a=3))
 print(add.__name__)
 print(add.__doc__)
 
-TEST_6:
+# TEST_6:
 @trace
 def concat(a, b):
     '''concat two strings'''
@@ -57,7 +57,7 @@ print(concat('bee', b='geek'))
 print(concat.__name__)
 print(concat.__doc__)
 
-TEST_7:
+# TEST_7:
 @trace
 def func(nums):
     '''прекрасная функция'''
@@ -67,7 +67,7 @@ print(func.__name__)
 print(func.__doc__)
 func([1, 2, 3, 4, 5, 6])
 
-TEST_8:
+# TEST_8:
 @trace
 def func(nums, degree=3):
     '''прекрасная функция'''

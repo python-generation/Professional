@@ -1,20 +1,20 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 (64, 'Функция выполнилась без ошибок')
 
-TEST_2:
+# TEST_2:
 (None, 'При вызове функции произошла ошибка')
 
-TEST_3:
+# TEST_3:
 ('stepikstepikstepikstepikstepikstepikstepikstepikstepikstepik', 'Функция выполнилась без ошибок')
 
-TEST_4:
+# TEST_4:
 (None, 'При вызове функции произошла ошибка')
 
-TEST_5:
+# TEST_5:
 (20, 'Функция выполнилась без ошибок')
 
-TEST_6:
+# TEST_6:
 (None, 'При вызове функции произошла ошибка')
 

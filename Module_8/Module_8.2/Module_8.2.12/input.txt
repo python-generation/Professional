@@ -1,14 +1,14 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print_digits(12345)
 
-TEST_2:
+# TEST_2:
 print_digits(7)
 
-TEST_3:
+# TEST_3:
 print_digits(4868569493888292933)
 
-TEST_4:
+# TEST_4:
 print_digits(9999999999)
 

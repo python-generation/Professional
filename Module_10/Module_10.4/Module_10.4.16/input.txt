@@ -1,26 +1,26 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 ru_alpha = Alphabet('ru')
 
 print(next(ru_alpha))
 print(next(ru_alpha))
 print(next(ru_alpha))
 
-TEST_2:
+# TEST_2:
 en_alpha = Alphabet('en')
 
 letters = [next(en_alpha) for _ in range(28)]
 
 print(*letters)
 
-TEST_3:
+# TEST_3:
 en_alpha = Alphabet('en')
 
 for _ in range(100):
     print(next(en_alpha))
 
-TEST_4:
+# TEST_4:
 en_alpha = Alphabet('en')
 
 for _ in range(1000):
@@ -28,7 +28,7 @@ for _ in range(1000):
 
 print(next(en_alpha))
 
-TEST_5:
+# TEST_5:
 ru_alpha = Alphabet('ru')
 
 for _ in range(1000):
@@ -36,13 +36,13 @@ for _ in range(1000):
 
 print(next(ru_alpha))
 
-TEST_6:
+# TEST_6:
 ru_alpha = Alphabet('ru')
 
 for _ in range(50):
     print(next(ru_alpha))
 
-TEST_7:
+# TEST_7:
 ru_alpha = Alphabet('ru')
 
 for _ in range(40):
@@ -56,7 +56,7 @@ for _ in range(40):
 
 print(next(ru_alpha))
 
-TEST_8:
+# TEST_8:
 en_alpha = Alphabet('en')
 
 for _ in range(40):

@@ -1,35 +1,35 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print(my_pow(139))
 
-TEST_2:
+# TEST_2:
 print(my_pow(123))
 
-TEST_3:
+# TEST_3:
 print(my_pow(0))
 
-TEST_4:
+# TEST_4:
 print(my_pow(3))
 
-TEST_5:
+# TEST_5:
 print(my_pow(300))
 
-TEST_6:
+# TEST_6:
 print(my_pow(303))
 
-TEST_7:
+# TEST_7:
 print(my_pow(111111111110))
 
-TEST_8:
+# TEST_8:
 print(my_pow(647261692820638))
 
-TEST_9:
+# TEST_9:
 print(my_pow(731440986702623))
 
-TEST_10:
+# TEST_10:
 print(my_pow(1526270350334812228722339330891))
 
-TEST_11:
+# TEST_11:
 print(my_pow(18840319785267520308377717669342841669142909996233135477350544225498705446511087615620050455428843384))
 

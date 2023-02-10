@@ -1,17 +1,17 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 llo.How
 
-TEST_2:
+# TEST_2:
 ter.Sto  up.Sat own.Pon ute.The
 
-TEST_3:
+# TEST_3:
 123.456 xxx.xxx abc.123 WWW.OOO
 
-TEST_4:
+# TEST_4:
 ???.??? 1!+.aA@ ....... aaa.bbb aaa.fff
 
-TEST_5:
+# TEST_5:
 abc.... .....bc    .   
 

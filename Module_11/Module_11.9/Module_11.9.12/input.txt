@@ -1,47 +1,47 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print(multiple_split('beegeek-python.stepik', ['.', '-']))
 
-TEST_2:
+# TEST_2:
 print(multiple_split('Timur---Arthur+++Dima****Anri', ['---', '+++', '****']))
 
-TEST_3:
+# TEST_3:
 print(multiple_split('timur.^[+arthur.^[+dima.^[+anri.^[+roma.^[+ruslan', ['.^[+']))
 
-TEST_4:
+# TEST_4:
 print(multiple_split('stepik_python-dima*roma*jenya-timur__arthur', ['_', '*', '#', '@']))
 
-TEST_5:
+# TEST_5:
 print(multiple_split('stepik__python@dima*roma*jenya----timur###arthur###bee', ['----', '__', '*', '###', '@']))
 
-TEST_6:
+# TEST_6:
 print(multiple_split('stepik.python.regular.expressions.split', ['.']))
 
-TEST_7:
+# TEST_7:
 print(multiple_split('stepikpythonregularexpressionssplit', ['.']))
 
-TEST_8:
+# TEST_8:
 print(multiple_split('stepik.python,regular*expressions+split', ['.', ',', '*', '+']))
 
-TEST_9:
+# TEST_9:
 print(multiple_split('stepik python regular expressions split', [' ']))
 
-TEST_10:
+# TEST_10:
 print(multiple_split('ivan_ivanov@company.com', ['.', '@', '_']))
 
-TEST_11:
+# TEST_11:
 print(multiple_split('beegeek[python(stepik^test', ['[', '(', '^']))
 
-TEST_12:
+# TEST_12:
 print(multiple_split('“There/was+an*Old:Man-with;a.beard"', ['/', '*', '+', ':', '-', '.', ';']))
 
-TEST_13:
+# TEST_13:
 print(multiple_split('“There//was++an**Old::Man--with;;a..beard"', ['//', '**', '++', '::', '--', '..', ';;']))
 
-TEST_14:
+# TEST_14:
 print(multiple_split('Two@Owls@and@a@Hen', ['@', '*', '+', ':', '-', '.', ';']))
 
-TEST_15:
+# TEST_15:
 print(multiple_split('There"was/a"small/boy"of/Quebec', ['/', '"']))
 

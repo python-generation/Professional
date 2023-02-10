@@ -1,35 +1,35 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 chainmap = ChainMap({'city': 'Moscow'}, {'name': 'Arthur'}, {'name': 'Timur'})
 deep_update(chainmap, 'name', 'Dima')
 
 print(chainmap)
 
-TEST_2:
+# TEST_2:
 chainmap = ChainMap({'name': 'Arthur'}, {'name': 'Timur'})
 deep_update(chainmap, 'age', 20)
 
 print(chainmap)
 
-TEST_3:
+# TEST_3:
 chainmap = ChainMap({})
 deep_update(chainmap, 'city', 'Moscow')
 
 print(chainmap)
 
-TEST_4:
+# TEST_4:
 chainmap = ChainMap({'name': 'Arthur'}, {'name': 'Timur', 'age': 29}, {'name': 'Anri', 'age': 20}, {'name': 'Dima', 'age': 20})
 deep_update(chainmap, 'age', 29)
 
 print(chainmap)
 
-TEST_5:
+# TEST_5:
 chainmap = ChainMap({})
 
 print(deep_update(chainmap, 'city', 'Moscow'))
 
-TEST_6:
+# TEST_6:
 chainmap = ChainMap({'name': 'Tanya'}, {'name': 'Arthur'}, {'name': 'Timur'})
 
 deep_update(chainmap, 'name', 'Dima')

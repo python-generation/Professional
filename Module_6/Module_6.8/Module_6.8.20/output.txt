@@ -1,12 +1,12 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 e |++++
 b |+
 g |+
 k |+
 
-TEST_2:
+# TEST_2:
 java      |####
 C++       |###
 pascal    |##
@@ -14,7 +14,7 @@ python    |#
 assembler |#
 C         |#
 
-TEST_3:
+# TEST_3:
 s |+++
 t |+++
 e |+++
@@ -22,20 +22,20 @@ p |+++
 i |+++
 k |+++
 
-TEST_4:
+# TEST_4:
 bbb   |####
 e     |###
 kkkkk |###
 gggg  |##
 
-TEST_5:
+# TEST_5:
 MMMMM |#####
 rrrr  |####
 TTT   |###
 uu    |##
 i     |#
 
-TEST_6:
+# TEST_6:
 Черешня  |@@
 арбуз    |@@
 Малина   |@
@@ -45,7 +45,7 @@ TEST_6:
 Вишня    |@
 клубника |@
 
-TEST_7:
+# TEST_7:
 арбуз    |@@@@
 Малина   |@@@@
 Клубника |@@@

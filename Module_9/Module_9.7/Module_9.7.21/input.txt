@@ -1,27 +1,27 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 @do_twice
 def beegeek():
     print('beegeek')
     
 beegeek()
 
-TEST_2:
+# TEST_2:
 @do_twice
 def beegeek():
     print('beegeek')
     
 print(beegeek())
 
-TEST_3:
+# TEST_3:
 @do_twice
 def beegeek():
     return 'beegeek'
     
 print(beegeek())
 
-TEST_4:
+# TEST_4:
 @do_twice
 def beegeek():
     print('beegeek')
@@ -30,14 +30,14 @@ beegeek()
 beegeek()
 beegeek()
 
-TEST_5:
+# TEST_5:
 @do_twice
 def beegeek(a, b, sep):
     print(a + b + sep)
     
 beegeek(1, 2, sep=10)
 
-TEST_6:
+# TEST_6:
 @do_twice
 def beegeek(*args, **kwargs):
     print('beegeek' * sum(args + tuple(kwargs.values())))

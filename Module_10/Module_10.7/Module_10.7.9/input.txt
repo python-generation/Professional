@@ -1,6 +1,6 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 dates = years_days(2022)
 
 print(next(dates))
@@ -8,17 +8,17 @@ print(next(dates))
 print(next(dates))
 print(next(dates))
 
-TEST_2:
+# TEST_2:
 dates = years_days(2077)
 
 print(*dates)
 
-TEST_3:
+# TEST_3:
 dates = years_days(2000)
 
 print(*dates)
 
-TEST_4:
+# TEST_4:
 dates = years_days(1900)
 
 print(*dates)

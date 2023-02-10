@@ -1,32 +1,32 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 objects = [0, 1, True, False, 17, []]
 
 print(*filterfalse(None, objects))
 
-TEST_2:
+# TEST_2:
 numbers = (1, 2, 3, 4, 5)
 
 print(*filterfalse(lambda x: x % 2 == 0, numbers))
 
-TEST_3:
+# TEST_3:
 numbers = [1, 2, 3, 4, 5]
 
 print(*filterfalse(lambda x: x >= 3, numbers))
 
-TEST_4:
+# TEST_4:
 numbers = range(1, 150, 8)
 result = filterfalse(lambda num: num % 8 == 3, numbers)
 print(*result)
 
-TEST_5:
+# TEST_5:
 import string
 letters = string.ascii_letters
 result = filterfalse(lambda char: ord(char) > 75, letters)
 print(*result, sep=',')
 
-TEST_6:
+# TEST_6:
 objects = [0, 0, 0, True, False, 1788, [], {}, set(), (), '', 0.0, None, 'stepik', dict()]
 
 print(*filterfalse(None, objects))

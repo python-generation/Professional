@@ -1,21 +1,21 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print(data.sorted_values(reverse=True))
 
-TEST_2:
+# TEST_2:
 print(data.sorted_keys())
 
-TEST_3:
+# TEST_3:
 print(data.sorted_values())
 
-TEST_4:
+# TEST_4:
 data.clear()
 data['Arthur'] = 1
 
 print(data.sorted_keys())
 print(data.sorted_values())
 
-TEST_5:
+# TEST_5:
 print(data.sorted_keys(reverse=True))
 

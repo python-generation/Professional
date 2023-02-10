@@ -1,19 +1,19 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 arr1
 Arrrrrrrrrrr
 arrrrrrrrrrrrrrr1
 Arrrrrrr1
 
-TEST_2:
+# TEST_2:
 beegeek
 Beegeek123
 Beegeek2022
 Beegeek2023
 Beegeek2024
 
-TEST_3:
+# TEST_3:
 Short7
 Short71
 Short712
@@ -24,14 +24,14 @@ Stepik22222222222222
 Short7
 Short7
 
-TEST_4:
+# TEST_4:
 BeegeekBeegeek
 BeegeekBeegeekB
 BeegeekBeegeekBe
 BeegeekBeegeekBee
 BeegeekBeegeekBee1
 
-TEST_5:
+# TEST_5:
 423847238534743875834
 8457834573948574385
 345783475dfsdf834753
@@ -41,7 +41,7 @@ TEST_5:
 sdfsd8935349058349kjfsdkfsd
 DDDDDDaaaaaaaaaaa777
 
-TEST_6:
+# TEST_6:
 Stepik22222222222222
 Stepik22222222222222
 Stepik22222222222222
@@ -49,17 +49,17 @@ Stepik22222222222222
 Stepik22222222222222
 Stepik22222222222222
 
-TEST_7:
+# TEST_7:
 Asdsfdfdfsdf123
 JHjhjjfgdf425
 KLLKfngjdfg3123
 KJKSGJjfgkkdfg4234
 jgkfdjKKdkfgjdf999
 
-TEST_8:
+# TEST_8:
 BEEgeek123123
 
-TEST_9:
+# TEST_9:
 дафвоалдывоаолывао
 фаываывАААААыВ
 фВ1
@@ -75,7 +75,7 @@ TEST_9:
 4
 JFDJFSKDFdjfjdjdjd999999
 
-TEST_10:
+# TEST_10:
 1111АААа
 123Ab
 31892931dasd239

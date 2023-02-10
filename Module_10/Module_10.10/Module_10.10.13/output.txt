@@ -1,17 +1,17 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 20
 
-TEST_2:
+# TEST_2:
 46
 
-TEST_3:
+# TEST_3:
 45
 
-TEST_4:
+# TEST_4:
 100
 
-TEST_5:
+# TEST_5:
 2000000
 

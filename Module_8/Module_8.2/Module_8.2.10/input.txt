@@ -1,11 +1,11 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 triangle(3)
 
-TEST_2:
+# TEST_2:
 triangle(5)
 
-TEST_3:
+# TEST_3:
 triangle(18)
 

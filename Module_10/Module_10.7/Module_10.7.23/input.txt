@@ -1,16 +1,16 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 numbers = [1, 2, 3, 4, 5]
 
 print(*around(numbers))
 
-TEST_2:
+# TEST_2:
 iterator = iter('hey')
 
 print(*around(iterator))
 
-TEST_3:
+# TEST_3:
 iterator = around(iter('beegeek'))
 
 print(next(iterator))
@@ -18,38 +18,38 @@ print(next(iterator))
 print(next(iterator))
 print(next(iterator))
 
-TEST_4:
+# TEST_4:
 data = map(abs, range(-100, 100))
 
 print(*around(data))
 
-TEST_5:
+# TEST_5:
 data = map(str.upper, 'jhfjgshgkjfdjsgriyteryowpqerkelfsldfmnmnbmvcnmlgqweootiyoeytkldjhmvxcmkasd')
 
 print(*around(data))
 
-TEST_6:
+# TEST_6:
 data = map(str.upper, 'y')
 
 iterator = around(data)
 
 print(next(iterator))
 
-TEST_7:
+# TEST_7:
 data = map(str.upper, 'yt')
 
 print(*around(data))
 
-TEST_8:
+# TEST_8:
 data = map(str.upper, 'ytu')
 
 print(*around(data))
 
-TEST_9:
+# TEST_9:
 data = ['bee', 'geek', 'stepik', 'python']
 
 print(*around(data))
 
-TEST_10:
+# TEST_10:
 print(list(around([])))
 

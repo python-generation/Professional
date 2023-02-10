@@ -1,47 +1,47 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 a and b or c
 
-TEST_2:
+# TEST_2:
 x   &   y   |   z
 
-TEST_3:
+# TEST_3:
 X&Y|Z&W
 
-TEST_4:
+# TEST_4:
 a and n and d
 
-TEST_5:
+# TEST_5:
 o or r or a or n or d
 
-TEST_6:
+# TEST_6:
 a | b & c     |d|e& f|r&y&w
 
-TEST_7:
+# TEST_7:
 a       and b and           c             and d or e and f and g   and   w
 
-TEST_8:
+# TEST_8:
 a |                  b |              c
 
-TEST_9:
+# TEST_9:
 x &              y&z
 
-TEST_10:
+# TEST_10:
 a and b and c or d or e
 
-TEST_11:
+# TEST_11:
 a&c|e
 
-TEST_12:
+# TEST_12:
 a & b | c & d
 
-TEST_13:
+# TEST_13:
 Two Owls and a Hen
 
-TEST_14:
+# TEST_14:
 Two or Owls and a Hen
 
-TEST_15:
+# TEST_15:
 Two & Owls | a Hen
 

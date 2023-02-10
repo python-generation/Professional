@@ -1,13 +1,13 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 @takes(int, str)
 def repeat_string(string, times):
     return string * times
 
 print(repeat_string('bee', 3))
 
-TEST_2:
+# TEST_2:
 @takes(list, bool, float, int)
 def repeat_string(string, times):
     return string * times
@@ -17,7 +17,7 @@ try:
 except TypeError as e:
     print(type(e))
 
-TEST_3:
+# TEST_3:
 @takes(list)
 def append_this(li, elem):
     '''append_this docs'''
@@ -31,7 +31,7 @@ try:
 except TypeError as e:
     print(type(e))
 
-TEST_4:
+# TEST_4:
 @takes(list)
 def append_this(li, elem):
     '''append_this docs'''
@@ -45,7 +45,7 @@ try:
 except TypeError as e:
     print(type(e))
 
-TEST_5:
+# TEST_5:
 @takes(str, int, list)
 def add(a, b):
     '''add docs'''
@@ -59,7 +59,7 @@ try:
 except TypeError as e:
     print(type(e))
 
-TEST_6:
+# TEST_6:
 @takes(list, int, tuple, str)
 def add(a, b):
     '''add docs'''
@@ -73,7 +73,7 @@ try:
 except TypeError as e:
     print(type(e))
 
-TEST_7:
+# TEST_7:
 @takes(list, int, tuple, str)
 def add(a, b):
     '''add docs'''
@@ -87,7 +87,7 @@ try:
 except TypeError as e:
     print(type(e))
 
-TEST_8:
+# TEST_8:
 @takes(list, int, float, str)
 def add(a, b):
     '''add docs'''
@@ -101,7 +101,7 @@ try:
 except TypeError as e:
     print(type(e))
 
-TEST_9:
+# TEST_9:
 @takes()
 def beegeek():
     '''beegeek docs'''
@@ -109,7 +109,7 @@ def beegeek():
     
 print(beegeek())
 
-TEST_10:
+# TEST_10:
 @takes(str)
 def beegeek(word):
     return word
@@ -117,7 +117,7 @@ def beegeek(word):
 print(beegeek(word="beegeek"))
 
 
-TEST_11:
+# TEST_11:
 @takes(str)
 def beegeek(word, repeat):
     return word * repeat

@@ -1,47 +1,47 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 hTis si yPthon
 
-TEST_2:
+# TEST_2:
 iH, veeryone. eLts tsart a elsson!
 
-TEST_3:
+# TEST_3:
 hJn FHUEUF   ieebuu KJG11f ifnei QQP pPpppp
 
-TEST_4:
+# TEST_4:
 oT eb, ro ont ot eb, htat si hte uqestion
 
-TEST_5:
+# TEST_5:
 А! У! О! фУ... аД еНт
 
-TEST_6:
+# TEST_6:
 оМй яддя асмых ечстных рпавил, окгда ен в уштку азнемог
 
-TEST_7:
+# TEST_7:
 a b c d e f g h i j k l m n o p q r s t u v w x y z
 
-TEST_8:
+# TEST_8:
 чОеньдлинноеслово
 
-TEST_9:
+# TEST_9:
 213 546 879
 
-TEST_10:
+# TEST_10:
 еН лсышны в асду адже ошрохи, све дзесь азмерло од тура.
 
-TEST_11:
+# TEST_11:
 nOe-wTo_Three
 
-TEST_12:
+# TEST_12:
 аРз,вда,рти,ечтыре,япть,ывшел_зайчик_погулять
 
-TEST_13:
+# TEST_13:
 двруг:хоотник%ывбегает*рпямовзайчика$тсреляет
 
-TEST_14:
+# TEST_14:
 ипф"апф@йоойой'муирает!азйчик,омй
 
-TEST_15:
+# TEST_15:
 hTere aws na lOd aMn iwth a ebard
 

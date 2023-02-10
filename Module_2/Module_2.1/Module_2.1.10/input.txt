@@ -1,27 +1,27 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print(likes(['Дима', 'Алиса']))
 
-TEST_2:
+# TEST_2:
 print(likes(['Эндрю', 'Тоби', 'Том']))
 
-TEST_3:
+# TEST_3:
 print(likes([]))
 
-TEST_4:
+# TEST_4:
 print(likes(['Том']))
 
-TEST_5:
+# TEST_5:
 print(likes(['Эндрю', 'Тоби', 'Том', 'Артур']))
 
-TEST_6:
+# TEST_6:
 print(likes(['Эндрю', 'Тоби', 'Том', 'Артур', 'Тимур']))
 
-TEST_7:
+# TEST_7:
 print(likes(['Артур', 'Тимур', 'Руслан', 'Анри', 'Дима', 'Алиса']))
 
-TEST_8:
+# TEST_8:
 names = [str(i) * 3 for i in range(100)]
 print(likes(names))
 

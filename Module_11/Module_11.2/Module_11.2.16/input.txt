@@ -1,17 +1,17 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 Order 1: B938274, Order 2: T8372, Order 3: g883929
 
-TEST_2:
+# TEST_2:
 is valid number A123(-), a123(-), B12345(+), b12345(+)
 
-TEST_3:
+# TEST_3:
 check 123A123, - 5739bb1234b4 -, BOM999_19
 
-TEST_4:
+# TEST_4:
 Baker Street 221B, Baker Street2221B, bakstR8800553535
 
-TEST_5:
+# TEST_5:
 B1234z900D9000Z
 

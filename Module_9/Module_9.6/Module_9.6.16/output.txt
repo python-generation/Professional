@@ -1,36 +1,36 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 [5, 1, 2, 3, 4]
 
-TEST_2:
+# TEST_2:
 [3, 4, 5, 1, 2]
 
-TEST_3:
+# TEST_3:
 [1, 2.0, 3, 4.0, 5.5]
 
-TEST_4:
+# TEST_4:
 None
 <class 'int'>
 
-TEST_5:
+# TEST_5:
 list[int | float] <class 'int'> None
 
-TEST_6:
+# TEST_6:
 [75, 34, 1, 3, 6, 3, 3, 234, 33, 4, 6, 2, 4]
 
-TEST_7:
+# TEST_7:
 [3, 3, 2, 54, 65, 7, 8, 9, 234, 33, 4, 6, 2, 4, 75, 34, 1, 3, 6]
 
-TEST_8:
+# TEST_8:
 [234]
 
-TEST_9:
+# TEST_9:
 [234]
 
-TEST_10:
+# TEST_10:
 [235, 234]
 
-TEST_11:
+# TEST_11:
 [234, 235]
 

@@ -1,67 +1,67 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 Понедельник
 
-TEST_2:
+# TEST_2:
 Аргумент не является целым числом
 <class 'TypeError'>
 
-TEST_3:
+# TEST_3:
 Аргумент не принадлежит требуемому диапазону
 <class 'ValueError'>
 
-TEST_4:
+# TEST_4:
 Воскресенье
 Без ошибок
 
-TEST_5:
+# TEST_5:
 Вторник
 
-TEST_6:
+# TEST_6:
 Среда
 
-TEST_7:
+# TEST_7:
 Четверг
 
-TEST_8:
+# TEST_8:
 Пятница
 
-TEST_9:
+# TEST_9:
 Суббота
 
-TEST_10:
+# TEST_10:
 Воскресенье
 
-TEST_11:
+# TEST_11:
 Аргумент не является целым числом
 <class 'TypeError'>
 
-TEST_12:
+# TEST_12:
 Аргумент не является целым числом
 <class 'TypeError'>
 
-TEST_13:
+# TEST_13:
 Аргумент не принадлежит требуемому диапазону
 <class 'ValueError'>
 
-TEST_14:
+# TEST_14:
 Аргумент не принадлежит требуемому диапазону
 <class 'ValueError'>
 
-TEST_15:
+# TEST_15:
 Аргумент не является целым числом
 <class 'TypeError'>
 
-TEST_16:
+# TEST_16:
 Аргумент не является целым числом
 <class 'TypeError'>
 
-TEST_17:
+# TEST_17:
 Аргумент не является целым числом
 <class 'TypeError'>
 
-TEST_18:
+# TEST_18:
 Аргумент не является целым числом
 <class 'TypeError'>
 

@@ -1,14 +1,14 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 I have one apple, one banana and one strawberry
 
-TEST_2:
+# TEST_2:
 Priveeeet my dear friend 
 
-TEST_3:
+# TEST_3:
 fuisopf gheos, geisslp
 
-TEST_4:
+# TEST_4:
 qwertt, qwerty...
 

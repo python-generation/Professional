@@ -1,13 +1,13 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 https://stepik.org, Stepik
 https://beegeek.ru, <b>BEEGEEK</b>
 
-TEST_2:
+# TEST_2:
 http://browsehappy.com/, upgrade to a different browser
 
-TEST_3:
+# TEST_3:
 https://wiki.python.org/moin/BeginnersGuide, Beginner&#39;s Guide
 https://devguide.python.org/, Developer&#39;s Guide
 https://docs.python.org/faq/, FAQ
@@ -15,10 +15,10 @@ http://wiki.python.org/moin/Languages, Non-English Docs
 http://python.org/dev/peps/, PEP Index
 https://wiki.python.org/moin/PythonBooks, Python Books
 
-TEST_4:
+# TEST_4:
 https://docs.python.org, <b><h2>docs.python.org</h2></b>
 
-TEST_5:
+# TEST_5:
 /success-stories/, More
 /success-stories/saving-the-world-with-open-data-and-python/, When an Open Data standard is created and promoted, it’s important to think why - what change is this trying to drive? What will people do with this data that they couldn’t do before?
 

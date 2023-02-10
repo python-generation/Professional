@@ -1,17 +1,17 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print(number_of_frogs(2))
 
-TEST_2:
+# TEST_2:
 print(number_of_frogs(10))
 
-TEST_3:
+# TEST_3:
 print(number_of_frogs(1))
 
-TEST_4:
+# TEST_4:
 print(number_of_frogs(7))
 
-TEST_5:
+# TEST_5:
 print(number_of_frogs(5))
 

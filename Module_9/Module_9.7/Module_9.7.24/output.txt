@@ -1,41 +1,41 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 55
 
-TEST_2:
+# TEST_2:
 <class 'ValueError'>
 
-TEST_3:
+# TEST_3:
 <class 'TypeError'>
 
-TEST_4:
+# TEST_4:
 <class 'TypeError'>
 
-TEST_5:
+# TEST_5:
 <class 'TypeError'>
 
-TEST_6:
+# TEST_6:
 4905
 
-TEST_7:
+# TEST_7:
 <class 'ValueError'>
 
-TEST_8:
+# TEST_8:
 <class 'ValueError'>
 
-TEST_9:
+# TEST_9:
 60
 
-TEST_10:
+# TEST_10:
 <class 'ValueError'>
 
-TEST_11:
+# TEST_11:
 <class 'TypeError'>
 
-TEST_12:
+# TEST_12:
 <class 'TypeError'>
 
-TEST_13:
+# TEST_13:
 <class 'TypeError'>
 

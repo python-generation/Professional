@@ -1,43 +1,43 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 chainmap = ChainMap({'name': 'Arthur'}, {'name': 'Timur'})
 result = get_all_values(chainmap, 'name')
 
 print(*sorted(result))
 
-TEST_2:
+# TEST_2:
 chainmap = ChainMap({'name': 'Arthur'}, {'name': 'Timur'})
 result = get_all_values(chainmap, 'age')
 
 print(result)
 
-TEST_3:
+# TEST_3:
 chainmap = ChainMap({'name': 'Anri', 'age': 20}, {'name': 'Arthur', 'age': 20}, {'name': 'Timur', 'age': 29})
 result = get_all_values(chainmap, 'name')
 
 print(*sorted(result))
 
-TEST_4:
+# TEST_4:
 chainmap = ChainMap({'name': 'Anri'}, {'name': 'Arthur', 'age': 20}, {'name': 'Timur', 'age': 29})
 result = get_all_values(chainmap, 'age')
 
 print(*sorted(result))
 
-TEST_5:
+# TEST_5:
 chainmap = ChainMap({'name': 'Anri', 'city': 'Moscow'}, {'name': 'Arthur', 'city': 'Moscow'}, {'name': 'Timur', 'age': 29, 'city': 'Moscow'})
 
 result = get_all_values(chainmap, 'city')
 
 print(*sorted(result))
 
-TEST_6:
+# TEST_6:
 chainmap = ChainMap({'name': 'Anri', 'city': 'Moscow'}, {'name': 'Arthur', 'city': 'Moscow'}, {'name': 'Timur', 'age': 29, 'city': 'Moscow'})
 result = get_all_values(chainmap, 'sex')
 
 print(result)
 
-TEST_7:
+# TEST_7:
 chainmap = ChainMap({'name': 'Anri'}, {'name': 'Arthur', 'city': 'Almetyevsk'}, {'name': 'Timur', 'age': 29, 'city': 'Moscow'})
 result = get_all_values(chainmap, 'city')
 

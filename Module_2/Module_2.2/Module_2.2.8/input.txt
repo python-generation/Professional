@@ -1,6 +1,6 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 6
 ivan-petrov@beegeek.bzz
 petr-ivanov@beegeek.bzz
@@ -13,7 +13,7 @@ ivan-ivanov
 petr-petrov
 petr-ivanov
 
-TEST_2:
+# TEST_2:
 2
 timyr-guev2@beegeek.bzz
 anri-tabuev@beegeek.bzz
@@ -22,7 +22,7 @@ timyr-guev
 timyr-guev
 anri-tabuev
 
-TEST_3:
+# TEST_3:
 3
 timyr-guev2@beegeek.bzz
 ruslan-chaniev1@beegeek.bzz
@@ -34,7 +34,7 @@ timyr-guev
 ruslan-chaniev
 ruslan-chaniev
 
-TEST_4:
+# TEST_4:
 1
 timyr-guev@beegeek.bzz
 5
@@ -44,7 +44,7 @@ timyr-guev
 timyr-guev
 timyr-guev
 
-TEST_5:
+# TEST_5:
 3
 timyr-guev1@beegeek.bzz
 anri-tabuev@beegeek.bzz
@@ -56,7 +56,7 @@ ivan-petrov
 timyr-guev
 timyr-guev
 
-TEST_6:
+# TEST_6:
 2
 anri-tabuev1@beegeek.bzz
 arthur-kharisov3@beegeek.bzz
@@ -69,7 +69,7 @@ arthur-kharisov
 arthur-kharisov
 arthur-kharisov
 
-TEST_7:
+# TEST_7:
 2
 anri-tabuev1@beegeek.bzz
 arthur-kharisov3@beegeek.bzz

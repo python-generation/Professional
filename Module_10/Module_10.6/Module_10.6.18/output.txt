@@ -1,20 +1,20 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 0 1 2 b e e 1 3 5 2 4 6
 
-TEST_2:
+# TEST_2:
 1 2 3 (0, 0) (1, 1) geek
 
-TEST_3:
+# TEST_3:
 []
 
-TEST_4:
+# TEST_4:
 b e e [1, 2] [3, 4] [5, 6] geek bee
 
-TEST_5:
+# TEST_5:
 B E E G E E K g e e k ('b', '1') ('e', '2') ('e', '3')
 
-TEST_6:
+# TEST_6:
 S T E P I K b e e ('z', '3') ('i', '2') ('p', '1') 4 3 2 1 (0, 'b') (1, 'e') (2, 'e')
 

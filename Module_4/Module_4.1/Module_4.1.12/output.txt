@@ -1,23 +1,23 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 Анри
 
-TEST_2:
+# TEST_2:
 Дима
 
-TEST_3:
+# TEST_3:
 Анри
 
-TEST_4:
+# TEST_4:
 Анри
 
-TEST_5:
+# TEST_5:
 Дима
 
-TEST_6:
+# TEST_6:
 Дима
 
-TEST_7:
+# TEST_7:
 Дима
 

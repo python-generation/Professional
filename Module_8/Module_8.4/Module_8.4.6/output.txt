@@ -1,35 +1,35 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 Москва
 
-TEST_2:
+# TEST_2:
 {'day': 24, 'month': 'March', 'year': 1974}
 
-TEST_3:
+# TEST_3:
 24
 
-TEST_4:
+# TEST_4:
 Тимур
 
-TEST_5:
+# TEST_5:
 Часовая 25, кв. 127
 
-TEST_6:
+# TEST_6:
 125315
 
-TEST_7:
+# TEST_7:
 11
 
-TEST_8:
+# TEST_8:
 34
 
-TEST_9:
+# TEST_9:
 609
 
-TEST_10:
+# TEST_10:
 100
 
-TEST_11:
+# TEST_11:
 5
 

@@ -1,22 +1,22 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 generator = alternating_sequence()
 
 print(next(generator))
 print(next(generator))
 
-TEST_2:
+# TEST_2:
 generator = alternating_sequence(10)
 
 print(*generator)
 
-TEST_3:
+# TEST_3:
 generator = alternating_sequence(100)
 
 print(*generator)
 
-TEST_4:
+# TEST_4:
 generator = alternating_sequence(50)
 
 for _ in generator:
@@ -27,7 +27,7 @@ try:
 except StopIteration:
     print('Error')
 
-TEST_5:
+# TEST_5:
 generator = alternating_sequence()
 
 for _ in range(10_000):
@@ -44,7 +44,7 @@ print(next(generator))
 print(next(generator))
 print(next(generator))
 
-TEST_6:
+# TEST_6:
 generator = alternating_sequence()
 
 for _ in range(10_124_421):
@@ -61,7 +61,7 @@ print(next(generator))
 print(next(generator))
 print(next(generator))
 
-TEST_7:
+# TEST_7:
 generator = alternating_sequence(1)
 
 try:

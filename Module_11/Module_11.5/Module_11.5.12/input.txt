@@ -1,14 +1,14 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 Hello, User211, your verification number: z5Az5A
 
-TEST_2:
+# TEST_2:
 Let's check case: 40H40H (not correct), 40Ha0H (not correct),  a_Ab_A (not correct), abCAbc (not correct), a0Aa0A (correct)
 
-TEST_3:
+# TEST_3:
 j1Pj0p, jYOjQO, v-Ev-E, lsXl2X, m.Wm.W, m.Zm2Z, h0Nh0N 
 
-TEST_4:
+# TEST_4:
 r1Or1o, r10r10, r10r1F, r1Fr10, uOKuOK
 

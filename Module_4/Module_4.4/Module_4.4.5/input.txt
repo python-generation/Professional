@@ -1,14 +1,14 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 data = '{"name": "Barsik", "age": 7, "meal": "Wiskas"}'
 
 print(is_correct_json(data))
 
-TEST_2:
+# TEST_2:
 print(is_correct_json('number = 17'))
 
-TEST_3:
+# TEST_3:
 data = '''{
         "beegeek": 2018,
         "stepik": 2013
@@ -16,7 +16,7 @@ data = '''{
 
 print(is_correct_json(data))
 
-TEST_4:
+# TEST_4:
 data = '''{
         "beegeek": 2018,
         ("Timur", "Guev"): 29,
@@ -26,10 +26,10 @@ data = '''{
 
 print(is_correct_json(data))
 
-TEST_5:
+# TEST_5:
 print(is_correct_json('99999'))
 
-TEST_6:
+# TEST_6:
 data = '''{
         'beegeek': 2018,
         ('Timur', 'Guev'): 29,
@@ -39,7 +39,7 @@ data = '''{
 
 print(is_correct_json(data))
 
-TEST_7:
+# TEST_7:
 data = '''{
         'beegeek': 2018,
         'stepik': 2013
@@ -47,12 +47,12 @@ data = '''{
 
 print(is_correct_json(data))
 
-TEST_8:
+# TEST_8:
 print(is_correct_json('"beegeek"'))
 
-TEST_9:
+# TEST_9:
 print(is_correct_json('beegeek'))
 
-TEST_10:
+# TEST_10:
 print(is_correct_json('["beegeek", 1, 2, 3]'))
 

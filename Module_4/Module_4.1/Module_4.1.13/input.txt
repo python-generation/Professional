@@ -1,16 +1,16 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 185
 170
 190
 155
 175
 
-TEST_2:
+# TEST_2:
 
 
-TEST_3:
+# TEST_3:
 150
 150
 150
@@ -22,7 +22,7 @@ TEST_3:
 150
 150
 
-TEST_4:
+# TEST_4:
 150
 160
 170
@@ -31,7 +31,7 @@ TEST_4:
 200
 210
 
-TEST_5:
+# TEST_5:
 190
 180
 200

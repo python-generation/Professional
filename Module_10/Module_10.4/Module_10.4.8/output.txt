@@ -1,27 +1,27 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 bee
 bee
 
-TEST_2:
+# TEST_2:
 geek
 geek
 geek
 Error
 
-TEST_3:
+# TEST_3:
 ['bee', 'geek']
 Error
 
-TEST_4:
+# TEST_4:
 9999
 Error
 
-TEST_5:
+# TEST_5:
 Error
 
-TEST_6:
+# TEST_6:
 {'bee': 'geek'}
 {'bee': 'geek'}
 {'bee': 'geek'}
@@ -78,6 +78,6 @@ TEST_6:
 {'bee': 'geek'}
 {'bee': 'geek'}
 
-TEST_7:
+# TEST_7:
 [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
 

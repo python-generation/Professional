@@ -1,56 +1,56 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 Р
 О
 А
 
-TEST_2:
+# TEST_2:
 o
 K
 M
 
-TEST_3:
+# TEST_3:
 T
 а
 B
 
-TEST_4:
+# TEST_4:
 а
 К
 о
 
-TEST_5:
+# TEST_5:
 E
 c
 T
 
-TEST_6:
+# TEST_6:
 H
 Н
 B
 
-TEST_7:
+# TEST_7:
 H
 p
 T
 
-TEST_8:
+# TEST_8:
 Н
 р
 Т
 
-TEST_9:
+# TEST_9:
 р
 р
 p
 
-TEST_10:
+# TEST_10:
 а
 а
 а
 
-TEST_11:
+# TEST_11:
 x
 x
 x

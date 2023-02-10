@@ -1,26 +1,26 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print(get_pow(5, 2))
 
-TEST_2:
+# TEST_2:
 print(get_pow(99, 0))
 
-TEST_3:
+# TEST_3:
 print(get_pow(2, 10))
 
-TEST_4:
+# TEST_4:
 print(get_pow(99999, 1))
 
-TEST_5:
+# TEST_5:
 print(get_pow(8, 4))
 
-TEST_6:
+# TEST_6:
 print(get_pow(7, 7))
 
-TEST_7:
+# TEST_7:
 print(get_pow(10, 4))
 
-TEST_8:
+# TEST_8:
 print(get_pow(11, 12))
 

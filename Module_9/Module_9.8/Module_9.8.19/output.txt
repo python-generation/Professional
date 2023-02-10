@@ -1,20 +1,20 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 beegeek
 beegeek
 beegeek
 
-TEST_2:
+# TEST_2:
 say_beegeek
 documentation
 
-TEST_3:
+# TEST_3:
 beegeek
 beegeek docs
 beegeek
 
-TEST_4:
+# TEST_4:
 beegeek
 beegeek docs
 beegeek
@@ -28,12 +28,12 @@ beegeek
 beegeek
 beegeek
 
-TEST_5:
+# TEST_5:
 add
 sum of two numbers
 30
 
-TEST_6:
+# TEST_6:
 change_counter
 None
 1
@@ -49,7 +49,7 @@ None
 11
 11
 
-TEST_7:
+# TEST_7:
 Hey!
 Hey!
 Hey!

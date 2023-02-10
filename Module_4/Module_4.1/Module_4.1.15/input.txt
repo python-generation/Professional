@@ -1,6 +1,6 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 digit = int(input())
 s = input()
 for i in s:
@@ -14,7 +14,7 @@ for i in s:
         temp = ord(i) - digit
         print(chr(temp), end='')
 
-TEST_2:
+# TEST_2:
 import sys
 from datetime import date
 
@@ -27,13 +27,13 @@ elif new_lis == lis[::-1]:
 else:
     print("MIX")
 
-TEST_3:
+# TEST_3:
 import sys
 for line in sys.stdin:
     if (line.lstrip(' ')[0] != '#'):
         print(line.rstrip('\n'))#
 
-TEST_4:
+# TEST_4:
 import sys
 for line in sys.stdin:
     #keksiki#

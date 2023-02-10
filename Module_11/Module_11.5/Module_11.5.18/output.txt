@@ -1,23 +1,23 @@
-OUTPUT DATA:
+# OUTPUT DATA:
 
-TEST_1:
+# TEST_1:
 can can only  only is   is
 
-TEST_2:
+# TEST_2:
 fa fa
 
-TEST_3:
+# TEST_3:
 
 
-TEST_4:
+# TEST_4:
 want      want
 
-TEST_5:
+# TEST_5:
 sik   sik
 
-TEST_6:
+# TEST_6:
 ups      ups
 
-TEST_7:
+# TEST_7:
 a a b  b c   c g g
 

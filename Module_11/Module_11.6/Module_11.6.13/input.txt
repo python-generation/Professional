@@ -1,17 +1,17 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 hi, beegeek
 beegeek is an awesome place for programmers
 beegeek rocks, rocks beegeek
 i think beegeek is a great place to hangout
 
-TEST_2:
+# TEST_2:
 good morning everyone
 i am going to school
 and it is raining
 
-TEST_3:
+# TEST_3:
 beegeekabcdbeegeek
 beegeek green apple beegeek
 beegeekbeegeek
@@ -21,7 +21,7 @@ beegeek beegeek
 beegeek     beegeek
 beegeekbeegeekbeegeek
 
-TEST_4:
+# TEST_4:
 beegeekabcd
 abcdfgbeegeek
 12345beegeek
@@ -30,21 +30,21 @@ __beegeek
 beegeek__
      beegeek
 
-TEST_5:
+# TEST_5:
 abcbeegeekab
 ___beegeek___
 456beegeek789
 beegeekbeegeekbeegeek
 !?*beegeek^$%
 
-TEST_6:
+# TEST_6:
 beegekbeegekbeegek
 begeekbegeekbegeek
 BEEGEEKBEEGEEKBEEGEEK
 BeegeekBeeGeekbEEgEEK
 bbeeggeekk
 
-TEST_7:
+# TEST_7:
 beegeek school, online school beegeek
 beegeek is glad to see you
 welcome to beegeek

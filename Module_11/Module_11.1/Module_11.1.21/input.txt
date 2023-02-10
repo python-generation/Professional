@@ -1,23 +1,23 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 We work really hard in Beegeek =) #python #stepik #beegeek
 
-TEST_2:
+# TEST_2:
 Beegek beegeek BEEGEEK bEeGeEk beegeek
 
-TEST_3:
+# TEST_3:
 beegeek stepik python
 
-TEST_4:
+# TEST_4:
 12345beegeek54321abcbeegeekbca
 
-TEST_5:
+# TEST_5:
 beegeek54321abcbeegeek
 
-TEST_6:
+# TEST_6:
 geekbeegeekgeek
 
-TEST_7:
+# TEST_7:
 __begek__beegekk__begeek__beegek__
 

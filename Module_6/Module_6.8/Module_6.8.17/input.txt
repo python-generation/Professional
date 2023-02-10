@@ -1,12 +1,12 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 print(data.max_values())
 
-TEST_2:
+# TEST_2:
 print(data.min_values())
 
-TEST_3:
+# TEST_3:
 data['t'] += 1
 
 clue = [('b', 2), ('c', 2), ('n', 2), ('t', 2)]
@@ -15,7 +15,7 @@ reply = data.min_values()
 print(type(reply))
 print(set(reply) == set(clue))
 
-TEST_4:
+# TEST_4:
 data.clear()
 
 data['a'] = 1

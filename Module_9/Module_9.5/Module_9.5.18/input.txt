@@ -1,26 +1,26 @@
-INPUT DATA:
+# INPUT DATA:
 
-TEST_1:
+# TEST_1:
 url = 'https://beegeek.ru'
 load = sourcetemplate(url)
 print(load(name='timur'))
 
-TEST_2:
+# TEST_2:
 url = 'https://stepik.org/lesson/651459/step/14'
 load = sourcetemplate(url)
 print(load(thread='solutions', unit=648165))
 
-TEST_3:
+# TEST_3:
 url = 'https://beegeek.ru'
 load = sourcetemplate(url)
 print(load())
 
-TEST_4:
+# TEST_4:
 url = 'https://all_for_comfort_life.com'
 load = sourcetemplate(url)
 print(load(smartphone='iPhone', notebook='huawei', sale=True))
 
-TEST_5:
+# TEST_5:
 url = 'https://hide_and_seek.harvard'
 load = sourcetemplate(url)
 print(load(wizard='Dambldor', magic_wand='elderberry', thief='Volandemord'))
