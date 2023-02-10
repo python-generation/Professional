@@ -1,0 +1,28 @@
+OUTPUT DATA:
+
+TEST_1:
+100
+
+TEST_2:
+4
+add
+прекрасная функция
+
+TEST_3:
+9801
+beegeek
+beegeek docs
+
+TEST_4:
+262144
+func
+classic f(x)
+
+TEST_5:
+225
+add
+None
+
+TEST_6:
+2500
+

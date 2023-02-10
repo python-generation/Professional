@@ -1,0 +1,14 @@
+INPUT DATA:
+
+TEST_1:
+print(abbreviate('javaScript object notation'))
+
+TEST_2:
+print(abbreviate('frequently asked questions'))
+
+TEST_3:
+print(abbreviate('JS game sec'))
+
+TEST_4:
+print(abbreviate('gaveOver GameStarted happyEnd happyend'))
+

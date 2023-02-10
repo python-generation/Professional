@@ -1,0 +1,20 @@
+OUTPUT DATA:
+
+TEST_1:
+bee
+geek
+stepik
+aaaaaaaaaaaaaaaaaaaaaaaaa
+
+TEST_2:
+short line another short line ... end of file
+
+TEST_3:
+... ... ... ... ... ...
+
+TEST_4:
+... ... ... ... ... end
+
+TEST_5:
+hi hey ... hey hey hi hi hi ... ok ... bye
+

@@ -1,0 +1,57 @@
+INPUT DATA:
+
+TEST_1:
+my_list = [1, [4, 4], 2, [1, [2, 10]]]
+
+print(recursive_sum(my_list))
+
+TEST_2:
+my_list = []
+
+print(recursive_sum(my_list))
+
+TEST_3:
+my_list = [[12, 3232, 123, 24, 54, 6, 7, 28, 39, 1110]]
+
+print(recursive_sum(my_list))
+
+TEST_4:
+my_list = [[12], 13, 53, 632, 6, 2342341, 534, 76, 87, 87, 98]
+
+print(recursive_sum(my_list))
+
+TEST_5:
+my_list = [12, 13, 53, 632, 6, 2342341, [98]]
+
+print(recursive_sum(my_list))
+
+TEST_6:
+my_list = [12, [13, [53, [632, [6, [2342341, [98, [3123], [2432], [4324]]]]]]]]
+
+print(recursive_sum(my_list))
+
+TEST_7:
+my_list = [12, [13, [53, 632], 6], [2342341, [98, 3123, [2432, [1, 1, 2, 3, [4, 4]], 4324]]]]
+
+print(recursive_sum(my_list))
+
+TEST_8:
+my_list = [[12], [13], [53], [632], [6], [2342341]]
+
+print(recursive_sum(my_list))
+
+TEST_9:
+my_list = [0, 0, [0, 0, 0, [0, 0], [0, 0]], 0, [0], [0, 0]]
+
+print(recursive_sum(my_list))
+
+TEST_10:
+my_list = [[[[-11, 99], -7], [35, [-50, -59, 3]], [-63, -89], 36, [0]]]
+
+print(recursive_sum(my_list))
+
+TEST_11:
+my_list = [-94, -54, 43, -67, -49, 90, -3, 0, 9, 34]
+
+print(recursive_sum(my_list))
+

@@ -1,0 +1,21 @@
+OUTPUT DATA:
+
+TEST_1:
+False
+
+TEST_2:
+True
+
+TEST_3:
+True
+False
+True
+
+TEST_4:
+34 iterable:  False
+[4, 5] iterable:  True
+(4, 5) iterable:  True
+{'a': 4} iterable:  True
+dfsdf iterable:  True
+4.5 iterable:  False
+

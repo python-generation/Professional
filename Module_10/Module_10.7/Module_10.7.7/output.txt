@@ -1,0 +1,38 @@
+OUTPUT DATA:
+
+TEST_1:
+Timur Arthur Arina
+
+TEST_2:
+Dima Arthur Arina German Ruslan
+
+TEST_3:
+
+
+TEST_4:
+Arthur Anri Arina Albert Angel Ariel
+
+TEST_5:
+
+
+TEST_6:
+Arthur
+
+TEST_7:
+
+
+TEST_8:
+
+
+TEST_9:
+Dima
+
+TEST_10:
+Ruslan
+
+TEST_11:
+[]
+
+TEST_12:
+Dima Timur German Ruslan Jenya
+

@@ -1,0 +1,47 @@
+INPUT DATA:
+
+TEST_1:
+@make_html('del')
+def get_text(text):
+    return text
+    
+print(get_text('Python'))
+
+TEST_2:
+@make_html('i')
+@make_html('del')
+def get_text(text):
+    return text
+    
+print(get_text(text='decorators are so cool!'))
+
+TEST_3:
+@make_html('small')
+@make_html('mark')
+@make_html('i')
+@make_html('del')
+def get_text(text):
+    return text
+    
+print(get_text('ANRIANRIANRI'))
+
+TEST_4:
+@make_html('mark')
+@make_html('mark')
+def get_text(text):
+    return text * 2
+    
+print(get_text(text='doubleit'))
+
+TEST_5:
+@make_html('mark')
+@make_html('mark')
+@make_html('mark')
+def beegeek():
+    '''beegeek docs'''
+    return 'beegeek'
+    
+print(beegeek())
+print(beegeek.__name__)
+print(beegeek.__doc__)
+

@@ -1,0 +1,26 @@
+INPUT DATA:
+
+TEST_1:
+numbers = factorials(6)
+
+print(*numbers)
+
+TEST_2:
+numbers = factorials(2)
+
+print(next(numbers))
+print(next(numbers))
+
+TEST_3:
+numbers = factorials(100)
+
+print(*numbers)
+
+TEST_4:
+numbers = factorials(1001)
+
+for _ in range(1000):
+    next(numbers)
+
+print(next(numbers))
+

@@ -1,0 +1,26 @@
+INPUT DATA:
+
+TEST_1:
+aab
+
+TEST_2:
+abc
+
+TEST_3:
+ab
+
+TEST_4:
+a
+
+TEST_5:
+aa
+
+TEST_6:
+stepik
+
+TEST_7:
+beegeek
+
+TEST_8:
+aaaaabbbbb
+

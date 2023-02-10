@@ -1,0 +1,76 @@
+OUTPUT DATA:
+
+TEST_1:
+size: 36
+style: bold
+name: text1
+alignment: center
+
+TEST_2:
+type: donut
+name: Cake
+tastes: chocolate, cream, strawberry
+
+TEST_3:
+type: chocolate, cream, strawberry
+name: chocolate, cream, strawberry
+tastes: chocolate, cream, strawberry
+
+TEST_4:
+type: chocolate
+name: chocolate
+tastes: chocolate
+
+TEST_5:
+src: Images/Sun.png
+name: sun1
+hOffset: 250
+vOffset: 250
+alignment: center
+
+TEST_6:
+src: Images/Sun.png
+name: sun1
+hOffset: 250
+AAA: ABC, 123, 123, XYZ
+vOffset: 250
+alignment: center
+key: 1, 2, 3, 4, 5
+another_key: a, b, c
+
+TEST_7:
+another_key1: a, b, c
+AAA: ABC, 123, 123, XYZ
+another_key2: a, b, c, g
+another_key3: a, b, c, 10
+another_key4: 9, 8, pog, a, b, c
+key: 1, 2, 3, 4, 5
+another_key5: a, b, c
+
+TEST_8:
+another_key1: b
+AAA: ABC
+another_key2: g
+another_key3: 0
+another_key4: pog
+key: [1, 2, 3, 4, 5]
+another_key5: c
+
+TEST_9:
+another_key1: b
+AAA: ABC
+another_key2: g
+anoth756er_key3: 0
+anothe645r_key5: cdfg
+anoth645er_key5: fhc
+anothe53r_key5: cfgh
+another_key5: chfg
+another_k234ey5: gfc
+anothe123r_key5: sdfc
+anotqwefdsher_key5: cfsd
+
+TEST_10:
+another_key1: 1
+AAA: 2
+another_key2: 3
+

@@ -1,0 +1,29 @@
+OUTPUT DATA:
+
+TEST_1:
+{'name': 'Timur', 'top_grade': 99}
+
+TEST_2:
+{'name': 'Ruslan', 'top_grade': 86}
+
+TEST_3:
+dict[str, str | list[int]]
+
+TEST_4:
+{'name': 'Artur', 'top_grade': 100}
+
+TEST_5:
+{'name': 'Dima', 'top_grade': 99}
+
+TEST_6:
+{'name': 'Vlad', 'top_grade': 66}
+
+TEST_7:
+{'name': 'Egor', 'top_grade': 64}
+
+TEST_8:
+dict[str, str | list[int]] dict[str, str | int]
+
+TEST_9:
+{'name': 'Roman', 'top_grade': 40}
+

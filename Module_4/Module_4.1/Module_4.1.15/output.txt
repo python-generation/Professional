@@ -1,0 +1,40 @@
+OUTPUT DATA:
+
+TEST_1:
+digit = int(input())
+s = input()
+for i in s:
+
+    if 97 > ord(i) - digit:
+        temp = ord(i) - digit + 26
+        print(chr(temp), end='')   #вывод
+    else:
+        temp = ord(i) - digit
+        print(chr(temp), end='')
+
+TEST_2:
+import sys
+from datetime import date
+
+lis = [date(int(data.split('.')[2]), int(data.split('.')[1]), int(data.split('.')[0])) for data in sys.stdin]
+new_lis = sorted(lis, key=lambda d: d.toordinal())
+if new_lis == lis:
+    print("###")
+elif new_lis == lis[::-1]:
+    print("DESC")
+else:
+    print("MIX")
+
+TEST_3:
+import sys
+for line in sys.stdin:
+    if (line.lstrip(' ')[0] != '#'):
+        print(line.rstrip('\n'))#
+
+TEST_4:
+import sys
+for line in sys.stdin:
+    if (line.lstrip(' ')[0] != '#'):
+        print(line.rstrip('\n'))#
+print('#')
+

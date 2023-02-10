@@ -1,0 +1,63 @@
+INPUT DATA:
+
+TEST_1:
+s = str(input())
+k = 0
+#подсчитываем количество цифр
+for i in range(len(s)):
+    #проверяем каждый символ
+    if s[i] in '0123456789': #проверяем, является ли элемент строки цифрой
+        k += 1
+print(k)
+
+TEST_2:
+n = int(input())
+l = [input() for _ in range(n)]
+k = int(input())
+search = [input() for _ in range(k)]
+output = []
+#в этих комментариях #нет смысла #спасите
+for i in l:
+    flag = True #могу закомментировать это
+    for j in search:  #и это
+        if j.lower() not in i.lower():
+            flag = False #и даже это
+    if flag:
+        output.append(i)   #никто меня не остановит #вообще
+print(*output, sep = '\n') #никогда
+
+TEST_3:
+n = int(input())
+s = []
+z = []
+count = 0
+for i in range(n):
+    s1 = input()
+    s.append(s1)
+k = int(input())
+for j in range(k):
+    z1 = input()
+    z.append(z1)
+for i in range(len(s)):
+    count = 0
+    for j in range(len(z)):
+        if z[j].lower() in s[i].lower():
+            count +=1
+    if count == len(z):
+        print(s[i])
+
+TEST_4:
+s = [input() for _ in range(int(input()))] #never gonna
+d = [input() for _ in range(int(input()))]    #give you
+for i in s:   #up
+    for j in d: #never gonna
+        if j.lower() not in i.lower():                #let you
+            break               #down
+    else:
+        print(i)
+
+TEST_5:
+#да, я действительно
+#вместо кода
+#написал три #комментария
+

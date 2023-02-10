@@ -1,0 +1,26 @@
+INPUT DATA:
+
+TEST_1:
+What password do you prefer: 9ython or 4uTUMN?
+
+TEST_2:
+Kate doesn’t eat_a_ any kind of meat nor wears she 1i -1) 1 at_a_
+
+TEST_3:
+1Alark decided to stay at home #2aeb-Q): he had a terrible headache.
+
+TEST_4:
+1Elark decided to stay at home #2aeb-.: he had a terrible headache.
+
+TEST_5:
+The professor 0yb]'[ 0yc]'[ 0yD]'[  entered the classroom; he was wearing a white 0yB]'[ shirt, blue jeans and leather moccasins.
+
+TEST_6:
+1er    y) 0id y) 0idky) 
+
+TEST_7:
+1eB=AA 76eBqEE 3A3aOPII 3A3aOPOO 1eB=UU
+
+TEST_8:
+6aR+p. 6y978,)9i659. 0o - )
+

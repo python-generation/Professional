@@ -1,0 +1,74 @@
+INPUT DATA:
+
+TEST_1:
+@prefix('€')
+def get_bonus():
+    return '2000'
+    
+print(get_bonus())
+
+TEST_2:
+@prefix('$$$', to_the_end=True)
+def get_bonus():
+    return '2000'
+       
+print(get_bonus())
+
+TEST_3:
+@prefix(' online-school', to_the_end=True)
+def beegeek():
+    '''beegeek docs'''
+    return 'beegeek'
+       
+
+print(beegeek.__name__)
+print(beegeek.__doc__)
+print(beegeek())
+
+TEST_4:
+@prefix('online-school ')
+def beegeek():
+    '''beegeek docs'''
+    return 'beegeek'
+       
+
+print(beegeek.__name__)
+print(beegeek.__doc__)
+print(beegeek())
+
+TEST_5:
+@prefix('online-school ')
+def make_lower(string, lower=True):
+    '''makes string upper or lower'''
+    if lower:
+        return string.lower()
+    return string.upper()
+       
+
+print(make_lower.__name__)
+print(make_lower.__doc__)
+print(make_lower('beegeek', False))
+
+TEST_6:
+@prefix(' rocks', True)
+def make_lower(string, lower=True):
+    '''makes string upper or lower'''
+    if lower:
+        return string.lower()
+    return string.upper()
+       
+
+print(make_lower.__name__)
+print(make_lower.__doc__)
+print(make_lower('Beegeek'))
+
+TEST_7:
+@prefix('online-school ')
+def make_lower(string, lower=True):
+    if lower:
+        return string.lower()
+    return string.upper()
+
+
+print(make_lower('beegeek', lower=False))
+

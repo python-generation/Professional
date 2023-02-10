@@ -1,0 +1,20 @@
+OUTPUT DATA:
+
+TEST_1:
+1
+
+TEST_2:
+1
+
+TEST_3:
+5
+
+TEST_4:
+665
+
+TEST_5:
+17766
+
+TEST_6:
+2584
+

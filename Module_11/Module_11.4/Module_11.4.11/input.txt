@@ -1,0 +1,17 @@
+INPUT DATA:
+
+TEST_1:
+Why isn’t my progress in the APP synchrONized with my progress in the WEB version?
+
+TEST_2:
+OOO 'BEEGEEK'
+
+TEST_3:
+I will go to the shop aNd you stay At home
+
+TEST_4:
+fjdjRRRRRRRRR, RRRRRRodjdeodj, ---OOOOOOOOO----, ---AAAAAAAA-----, ----ZZZZZ----
+
+TEST_5:
+12A3-4J-A- -
+

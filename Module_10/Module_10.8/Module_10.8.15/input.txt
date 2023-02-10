@@ -1,0 +1,33 @@
+INPUT DATA:
+
+TEST_1:
+func = lambda x: x
+values = tabulate(func)
+
+print(next(values))
+print(next(values))
+
+TEST_2:
+func = lambda x: x + 10
+values = tabulate(func)
+
+print(next(values))
+print(next(values))
+print(next(values))
+
+TEST_3:
+func = lambda x: x ** 2
+values = tabulate(func)
+
+for _ in range(100):
+    print(next(values))
+
+TEST_4:
+def func(n):
+    return 'beegeek' * n
+
+values = tabulate(func)
+
+for _ in range(10):
+    print(next(values))
+

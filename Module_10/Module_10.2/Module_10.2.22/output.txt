@@ -1,0 +1,29 @@
+OUTPUT DATA:
+
+TEST_1:
+(3, 2)
+
+TEST_2:
+(0, 4)
+
+TEST_3:
+(0, 0)
+
+TEST_4:
+None
+
+TEST_5:
+(0, 0)
+
+TEST_6:
+(0, 99)
+
+TEST_7:
+(99, 0)
+
+TEST_8:
+(16, 5)
+
+TEST_9:
+(16, 5)
+

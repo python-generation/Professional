@@ -1,0 +1,26 @@
+INPUT DATA:
+
+TEST_1:
+Hi, your tags <!-bee-> and <--geek--> are incorrect. Correct tags look like <!--beegeek-->
+
+TEST_2:
+<!-- header of page --> <-- incorrect header of page !-->
+
+TEST_3:
+empty comment <!---->
+
+TEST_4:
+comment with digits <!--123401283--> <!--1234--)
+
+TEST_5:
+!<--html teg--> or <!- -fkroenfo--> or <!--fmroegevrn- -> but it's right <!--htmlteg-->
+
+TEST_6:
+<!-- hello my dear friend --> how are u -->
+
+TEST_7:
+guys <!-- Timur Artur Dima --> python <!--dict, vector-->
+
+TEST_8:
+<!-- fine thanks <!-- hello my dear friend --> how are u -->
+

@@ -1,0 +1,41 @@
+OUTPUT DATA:
+
+TEST_1:
+BpOBNpqKg4EgPKxWn8wavcQMOP06nbCwvOdu6CPj11111
+
+TEST_2:
+BTJubHCvbwTQEN2BqQJsgAIDW4bcyFyUp4COdUO4 3791
+
+TEST_3:
+
+
+TEST_4:
+Orxl0dhk0LMzFZkzJCsIDmzwEcbohS4UKjqSP8aQ    1
+
+TEST_5:
+
+
+TEST_6:
+YPpeYdJGsjafMAbfCJAWsPvohWTzYWdKyMrTeX4U135 7
+
+TEST_7:
+
+
+TEST_8:
+
+
+TEST_9:
+
+
+TEST_10:
+
+
+TEST_11:
+
+
+TEST_12:
+
+
+TEST_13:
+
+

@@ -1,0 +1,14 @@
+OUTPUT DATA:
+
+TEST_1:
+apple banana strawberry
+
+TEST_2:
+Priveeeet
+
+TEST_3:
+fuisopf geisslp
+
+TEST_4:
+qwertt
+

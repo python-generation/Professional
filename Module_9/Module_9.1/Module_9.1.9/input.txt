@@ -1,0 +1,32 @@
+INPUT DATA:
+
+TEST_1:
+print(non_negative_even([0, 2, 4, 8, 16]))
+
+TEST_2:
+print(non_negative_even([-8, -4, -2, 0, 2, 4, 8]))
+
+TEST_3:
+print(non_negative_even([0, 0, 0, 0, 0]))
+
+TEST_4:
+print(non_negative_even([1, 123, 42, 14, 53453, 66, 7]))
+
+TEST_5:
+print(non_negative_even([-123, -4234, -5345, -56, -55, -33]))
+
+TEST_6:
+print(non_negative_even([-122, -46, -78, -56]))
+
+TEST_7:
+print(non_negative_even([97, 83, 91, 99, 8777, 9999, 8333, 2333123]))
+
+TEST_8:
+print(non_negative_even([0]))
+
+TEST_9:
+print(non_negative_even([64, 78, 4454, 234, 90, 78, 67676]))
+
+TEST_10:
+print(non_negative_even([64, 78, 4454, 234, 90, 78, 0, 67676]))
+

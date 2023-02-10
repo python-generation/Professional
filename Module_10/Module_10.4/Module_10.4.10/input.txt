@@ -1,0 +1,56 @@
+INPUT DATA:
+
+TEST_1:
+fibonacci = Fibonacci()
+
+print(next(fibonacci))
+
+TEST_2:
+fibonacci = Fibonacci()
+
+print(next(fibonacci))
+print(next(fibonacci))
+print(next(fibonacci))
+print(next(fibonacci))
+
+TEST_3:
+fibonacci = Fibonacci()
+
+print(next(fibonacci))
+print(next(fibonacci))
+print(next(fibonacci))
+print(next(fibonacci))
+print(next(fibonacci))
+print(next(fibonacci))
+print(next(fibonacci))
+print(next(fibonacci))
+
+TEST_4:
+fibonacci = Fibonacci()
+
+for _ in range(50):
+    print(next(fibonacci))
+
+TEST_5:
+fibonacci = Fibonacci()
+
+for _ in range(100):
+    next(fibonacci)
+
+print(next(fibonacci))
+
+TEST_6:
+fibonacci = Fibonacci()
+
+for _ in range(76):
+    next(fibonacci)
+
+next(fibonacci)
+next(fibonacci)
+next(fibonacci)
+next(fibonacci)
+
+print(next(fibonacci))
+print(next(fibonacci))
+print(next(fibonacci))
+

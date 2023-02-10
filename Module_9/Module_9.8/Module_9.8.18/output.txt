@@ -1,0 +1,19 @@
+OUTPUT DATA:
+
+TEST_1:
+<del>Python</del>
+
+TEST_2:
+<i><del>decorators are so cool!</del></i>
+
+TEST_3:
+<small><mark><i><del>ANRIANRIANRI</del></i></mark></small>
+
+TEST_4:
+<mark><mark>doubleitdoubleit</mark></mark>
+
+TEST_5:
+<mark><mark><mark>beegeek</mark></mark></mark>
+beegeek
+beegeek docs
+

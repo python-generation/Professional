@@ -1,0 +1,37 @@
+INPUT DATA:
+
+TEST_1:
+data = [1, 2, 3, 4, 5, 5]
+
+print(hash_as_key(data))
+
+TEST_2:
+data = [-1, -2, -3, -4, -5]
+
+print(hash_as_key(data))
+
+TEST_3:
+data = [11, 22, 33, 44, 55, 66, 77, 88, 99, 111]
+
+print(hash_as_key(data))
+
+TEST_4:
+data = [(1, 2, 3), (1, 2, 3), (0, 0, 0), 10, (144, 75, 60), 20, 30]
+
+print(hash_as_key(data))
+
+TEST_5:
+data = [frozenset((1, 2, 3, 4)), frozenset((4, 5, 6)), frozenset((1, 2, 3, 4)), frozenset((7, 8, 9, 10)), (1, 2, 3, 4), 100, 192, 221, (44, 44, 44), (44, 44, 44, 44), (44, 44, 44, 44)]
+
+print(hash_as_key(data))
+
+TEST_6:
+data = [(1, 2, 3, (100, 200, 300)), (frozenset((90, 100, 110)), 10, 222), ((100, 200, 3300), (100, 100)), 900, 999, 1000, 999999999991, (123123123, 234234234, 2342354536758578), 900, 1000000, 1000]
+
+print(hash_as_key(data))
+
+TEST_7:
+data = [5, 5, 5]
+
+print(hash_as_key(data))
+

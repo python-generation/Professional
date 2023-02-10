@@ -1,0 +1,76 @@
+OUTPUT DATA:
+
+TEST_1:
+2 -> hi, my
+4 -> blue, here
+5 -> never
+
+TEST_2:
+5 -> hello
+6 -> python, stepik
+7 -> beegeek
+
+TEST_3:
+2 -> be, it, it, to, to
+3 -> but, the
+4 -> well, went
+5 -> could, tatty, tried
+6 -> looked, myself, rather
+7 -> comince, magical, outside
+
+TEST_4:
+1 -> a, a, a, a, a, a, a, a, a, a, a, a, a
+
+TEST_5:
+1 -> a
+2 -> aa
+3 -> aaa
+4 -> aaaa
+5 -> aaaaa
+6 -> aaaaaa
+7 -> aaaaaaa
+
+TEST_6:
+1 -> f, x, z
+2 -> hl, pw
+3 -> anz, lab, xcr, yfn, ztw
+4 -> bhol, dcos, gvri, lnqw
+5 -> bxros, mlsuy, pucrf, tgcwe, uynti, xvmft
+6 -> bsxnqd, ubdofz
+7 -> ebkxaqm, zygcpxh
+8 -> dqjsriht, furgibvs, oydntwae, ypdoejks
+9 -> hmyciukvb, spuzkvdah, uczkfqdve, vchmyuqbp
+11 -> kowyegmsihl, wkhbqlatdex
+12 -> hgrfewbctmnv, oxpgsivqrlmj, wnxdsuepbvia
+13 -> dmwpohciqlatf, erkjdctoqglpb, pqycrviultoek, xvijrlcgdmopf
+14 -> aqgmsuziyxpdtj, feralzuowhpcxq, gjeabyqkocsixv, seztmhqnpkgfur, tkzladgrfvhpsw
+15 -> dzqlxmhfkpbvgua, ihlsnoxfzywvarg, rdfaypquviwgtsc, vxnjwmpoahzludq
+
+TEST_7:
+1 -> a, v
+2 -> dj, qs, ul, wv, yg
+3 -> pco
+4 -> fhpu, hixg, lpyr, uiea, yjlc
+5 -> gbqij, goful, lhpcy
+6 -> coepsl, feryju, lnzjvo, owialx, rnogcb, vtyick
+7 -> bdgtvrw, fbtmivc, hytpigj, lsgterh, lwzprie, mguztlp, pmwzits, psuxavl
+8 -> pgbxrwun
+9 -> fuhmneizj, lfhgodvwq, lrfisqgyu, qdoznhyul, qgtkipfdh, ugjhxnzfq, uwqsdnhvk, yfgrdaozp, ynwqkfgtj
+10 -> qizutanpgf, rsvlaxkfen
+11 -> dhskgbrwfpc, dtnbjaemzxk, fhqutmbcogy, gmfbakdhrxv, kmvdjwzuygr, tuirfkoplbn, uyxfrzohkai, yjfelwdspmc, zxtkhrmpgiu
+12 -> embokhvsxpjd, gzawytcijpem, idwayrplkuen, jhnfstmvgxiy, maoprjbivlgz
+13 -> ipbxoretdsvcy, strhfulywjegn, vmjfrlagyetcd
+14 -> jpsrtlbimxgevz, nzckjdimsbptyq, oipmeqdcgsbxfn, ovzlkfxqagmewn, yuvfgwpxoraetl
+15 -> aoglcdnuqvswbxm, azjvrtnqsdmfluy, bvitgrejnklxopa, jibdxnolfpygtch
+16 -> fbvpohzurasqcdwl
+17 -> arsmkzydnhflqijgt, lpeyntxmagdqucfbh, zukayjlnspqbdvgfx
+18 -> haitsrdqfzukopcwjx, hcnpywxvtzqldkioab, lmsvucjqthgzfdneix, ztwahcijuvnqyoplgr
+19 -> kiptxcorheasjfwbnzg, kzowibjmtrvndcqfyhu, mtdvejxbrluagzcsnoh
+20 -> enwxhblfcrkduzmsjpto, kbjlhqaxrswpenfvyimz, kznhdjymwgvxtqfolbrp
+21 -> arvfpgjncolyzbxhiqdku, nwdmrapihkoytuqxbczev, uhcvzmtwiprxbgeqjofnl, uqbmlpizorfkdhyntajgx, vaqmohyerxtlibjfwzdpk
+22 -> mbrpxuochlvwqjakydszfg, rfuavdoqxgjsbpmzhenitl
+23 -> kzowrmexusdvynfiahgbcpl, wyikvqtrhzlcpnujagdombf
+24 -> gltmwavcksqhpzfejnoribyd, xozjihwmgqyctulsnvpkfreb
+25 -> golyibvnjexqthcukrpafmzwd, nqjhrtlyaxoukgvescmpibwfd, yuzbqwvxckjernpisoaftlhgm, ziclgeywfmqhsxvpborunjtda
+26 -> ghuspnjvfcqldiotwmkzayxber, iqoezkfucwvgxpbsylahjrmntd, wjtpgaexufkvihyqmrobzdsnlc
+

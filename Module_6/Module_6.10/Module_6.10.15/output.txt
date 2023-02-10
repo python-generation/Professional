@@ -1,0 +1,20 @@
+OUTPUT DATA:
+
+TEST_1:
+Arthur
+
+TEST_2:
+Timur
+
+TEST_3:
+None
+
+TEST_4:
+Arthur
+
+TEST_5:
+Anri
+
+TEST_6:
+29
+

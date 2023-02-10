@@ -1,0 +1,41 @@
+INPUT DATA:
+
+TEST_1:
+@sandwich
+def add_ingredients(ingredients):
+    print(' | '.join(ingredients))
+
+add_ingredients(['томат', 'салат', 'сыр', 'бекон'])
+
+TEST_2:
+@sandwich
+def beegeek():
+    return 'beegeek'
+    
+print(beegeek())
+
+TEST_3:
+@sandwich
+def add_ingredients(ingredients):
+    for ing in ingredients:
+        spaces = ' ' * ((30 - len(ing)) // 2)
+        print(spaces + ing)
+
+add_ingredients(['томат', 'салат', 'сыр', 'бекон'])
+
+TEST_4:
+@sandwich
+def counter():
+    for i in range(17):
+        print(i)
+
+counter()
+
+TEST_5:
+@sandwich
+def counter(*args, **kwargs):
+    for i in args + tuple(kwargs.keys()) + tuple(kwargs.values()):
+        print(i)
+
+counter(10, 20, 30, sep='40', end='!!!', step='beegeek')
+

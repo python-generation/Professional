@@ -1,0 +1,61 @@
+INPUT DATA:
+
+TEST_1:
+@strip_range(3, 5)
+def beegeek():
+    return 'beegeek'
+    
+print(beegeek())
+
+TEST_2:
+@strip_range(3, 20, '_')
+def beegeek():
+    return 'beegeek'
+    
+print(beegeek())
+
+TEST_3:
+@strip_range(20, 30)
+def beegeek():
+    return 'beegeek'
+    
+print(beegeek())
+
+TEST_4:
+@strip_range(1, 2, '-')
+def beegeek():
+    return 'beegeek'
+    
+print(beegeek())
+
+TEST_5:
+@strip_range(100, 200, '=')
+def beegeek():
+    return 'beegeek'
+    
+print(beegeek())
+
+TEST_6:
+@strip_range(0, 300, '=')
+def beegeek():
+    return 'beegeek'
+    
+print(beegeek())
+
+TEST_7:
+@strip_range(0, 4, '=')
+def beegeek():
+    return 'beegeek'
+    
+print(beegeek())
+
+TEST_8:
+@strip_range(0, 1)
+def beegeek(word, end=" "):
+    """This is... Requiem. What you are seeing is indeed the truth"""
+    return word + end
+
+print(beegeek("beegee", end="k"))
+print(beegeek.__name__)
+print(beegeek.__doc__)
+

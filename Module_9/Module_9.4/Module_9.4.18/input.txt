@@ -1,0 +1,60 @@
+INPUT DATA:
+
+TEST_1:
+text = 'Hi! Will we go together?'
+
+print(remove_marks(text, '!?'))
+print(remove_marks.count)
+
+TEST_2:
+marks = '.,!?'
+text = 'Are you listening? Meet my family! There are my parents, my brother and me.'
+
+for mark in marks:
+    print(remove_marks(text, mark))
+    
+print(remove_marks.count)
+
+TEST_3:
+text = '!Hi!!!! Will we ????go together?????'
+print(remove_marks(text, '!?'))
+
+TEST_4:
+text = '!Hi!!!! Will we ????go together?????'
+
+print(remove_marks(text, '!?'))
+print(remove_marks.count)
+
+TEST_5:
+text = 'Qwerty'
+marks = 'qwerty'
+print(remove_marks(text, marks))
+print(remove_marks.count)
+
+TEST_6:
+text = 'Application for drivers!'
+marks = ''
+print(remove_marks(text, marks))
+print(remove_marks.count)
+
+TEST_7:
+text = 'Application for drivers!'
+marks = ' '
+print(remove_marks(text, marks))
+print(remove_marks.count)
+
+TEST_8:
+text = 'Application for drivers!'
+marks = ' p!'
+print(remove_marks(text, marks))
+print(remove_marks.count)
+
+TEST_9:
+text = '-TTTTTTTtttttttRRRRRRrrrrrr-'
+print(remove_marks(text, 't'))
+print(remove_marks(text, 'r'))
+print(remove_marks(text, 'T'))
+print(remove_marks(text, 'R'))
+print(remove_marks(text, '-'))
+print(remove_marks.count)
+

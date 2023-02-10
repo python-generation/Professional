@@ -1,0 +1,44 @@
+INPUT DATA:
+
+TEST_1:
+bee,geek . Python   ,  C++
+
+TEST_2:
+py py; hi  hi; go-go-go
+
+TEST_3:
+arthur;timur,dima.anri
+
+TEST_4:
+timur   .unknown,   dima   ;   anri
+
+TEST_5:
+python .         stepik          ; python             .             stepik
+
+TEST_6:
+timur,arthur,dima,anri ,   python  ,stepik,  roma , ruslan
+
+TEST_7:
+timur.  arthur   .dima . anri .  python.stepik.roma
+
+TEST_8:
+timur ; arthur   ;dima;  anri   ; python;stepik
+
+TEST_9:
+Yes, but only, what you mean, is what you get;
+
+TEST_10:
+January,February.March;
+
+TEST_11:
+ ; . , 
+
+TEST_12:
+:;*,-.+)=
+
+TEST_13:
+Текст без знаков препинания
+
+TEST_14:
+There, was. an; Old, Man. with; a, beard
+

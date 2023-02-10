@@ -1,0 +1,44 @@
+OUTPUT DATA:
+
+TEST_1:
+Hi Will we go together
+1
+
+TEST_2:
+Are you listening? Meet my family! There are my parents, my brother and me
+Are you listening? Meet my family! There are my parents my brother and me.
+Are you listening? Meet my family There are my parents, my brother and me.
+Are you listening Meet my family! There are my parents, my brother and me.
+4
+
+TEST_3:
+Hi Will we go together
+
+TEST_4:
+Hi Will we go together
+1
+
+TEST_5:
+Q
+1
+
+TEST_6:
+Application for drivers!
+1
+
+TEST_7:
+Applicationfordrivers!
+1
+
+TEST_8:
+Alicationfordrivers
+1
+
+TEST_9:
+-TTTTTTTRRRRRRrrrrrr-
+-TTTTTTTtttttttRRRRRR-
+-tttttttRRRRRRrrrrrr-
+-TTTTTTTtttttttrrrrrr-
+TTTTTTTtttttttRRRRRRrrrrrr
+5
+

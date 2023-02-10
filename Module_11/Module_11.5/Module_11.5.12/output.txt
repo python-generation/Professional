@@ -1,0 +1,14 @@
+OUTPUT DATA:
+
+TEST_1:
+z5Az5A
+
+TEST_2:
+a0Aa0A
+
+TEST_3:
+h0Nh0N
+
+TEST_4:
+uOKuOK
+

@@ -1,0 +1,30 @@
+INPUT DATA:
+
+TEST_1:
+🅐🅑🅒🅓🅔🅕🅖🅗🅘🅙🅚🅛🅜🅝🅞🅟🅠🅡🅢🅣🅤🅥🅦🅧🅨🅩
+I love Python =)
+
+TEST_2:
+😀😄😁😆😉😌😍🥰😘😗😙😚😋😛😝😜🤪🤨😫😩🥺😢😭😤😠😡
+Dont be so sad!
+
+TEST_3:
+ㄅㄆㄇㄈㄉㄊㄋㄌㄍㄎㄏㄐㄑㄒㄓㄔㄕㄖㄗㄘㄙㄚㄛㄜㄝㄞ
+The quick brown fox jumps over the lazy dog
+
+TEST_4:
+ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ12
+The quick brown fox jumps over the lazy dog
+
+TEST_5:
+ㄱㄲㄴㄷㄸㄹㅁㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎㅏㅐㅑㅒㅓㅔㅕ
+!!!The-quick-brown__fox jumps over the lazy dog!!!
+
+TEST_6:
+ሀለሐመሠረሰሸቀበተቸኀነኘአከኸወዐዘዠየደጀገ
+123123The--- quick brown fox jumps over the lazy 44dog999
+
+TEST_7:
+😀😄😁😆😉😌😍🥰😘😗😙😚😋😛😝😜🤪🤨😫😩🥺😢😭😤😠😡
+123456789
+

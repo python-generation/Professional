@@ -1,0 +1,33 @@
+INPUT DATA:
+
+TEST_1:
+<p><a href="https://stepik.org">Stepik</a></p>
+<p><a href="https://beegeek.ru"><b>BEEGEEK</b></a></p>
+
+TEST_2:
+<div id="oldie-warning" class="do-not-print">
+    <p>
+        <strong>Notice:</strong> Your browser is <em>ancient</em>. Please
+        <a href="http://browsehappy.com/">upgrade to a different browser</a> to experience a better web.
+    </p>
+</div>
+
+TEST_3:
+<li class="tier-2 element-3" role="treeitem"><a href="https://wiki.python.org/moin/BeginnersGuide">Beginner&#39;s Guide</a></li>
+<li class="tier-2 element-4" role="treeitem"><a href="https://devguide.python.org/">Developer&#39;s Guide</a></li>
+<li class="tier-2 element-5" role="treeitem"><a href="https://docs.python.org/faq/">FAQ</a></li>
+<li class="tier-2 element-6" role="treeitem"><a href="http://wiki.python.org/moin/Languages">Non-English Docs</a></li>
+<li class="tier-2 element-7" role="treeitem"><a href="http://python.org/dev/peps/">PEP Index</a></li>
+<li class="tier-2 element-8" role="treeitem"><a href="https://wiki.python.org/moin/PythonBooks">Python Books</a></li>
+
+TEST_4:
+<p><a href="https://docs.python.org"><b><h2>docs.python.org</h2></b></a></p>
+
+TEST_5:
+<h2 class="widget-title"><span aria-hidden="true" class="icon-success-stories"></span>Success Stories</h2>
+<p class="give-me-more"><a href="/success-stories/">More</a></p>
+
+<blockquote>
+    <a href="/success-stories/saving-the-world-with-open-data-and-python/">When an Open Data standard is created and promoted, it’s important to think why - what change is this trying to drive? What will people do with this data that they couldn’t do before?</a>
+</blockquote>
+

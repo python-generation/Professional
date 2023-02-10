@@ -1,0 +1,47 @@
+OUTPUT DATA:
+
+TEST_1:
+beebeebee
+
+TEST_2:
+<class 'TypeError'>
+
+TEST_3:
+append_this
+append_this docs
+[1, 2, [3, 4]]
+
+TEST_4:
+append_this
+append_this docs
+<class 'TypeError'>
+
+TEST_5:
+add
+add docs
+ab
+
+TEST_6:
+add
+add docs
+ac
+
+TEST_7:
+add
+add docs
+3
+
+TEST_8:
+add
+add docs
+<class 'TypeError'>
+
+TEST_9:
+beegeek
+
+TEST_10:
+beegeek
+
+TEST_11:
+<class 'TypeError'>
+

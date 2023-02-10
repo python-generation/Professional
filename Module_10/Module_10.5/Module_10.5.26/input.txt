@@ -1,0 +1,53 @@
+INPUT DATA:
+
+TEST_1:
+generator = palindromes()
+
+print(next(generator))
+print(next(generator))
+print(next(generator))
+
+TEST_2:
+generator = palindromes()
+numbers = [next(generator) for _ in range(30)]
+
+print(*numbers)
+
+TEST_3:
+generator = palindromes()
+
+for _ in range(10_000):
+    next(generator)
+
+print(next(generator))
+print(next(generator))
+print(next(generator))
+print(next(generator))
+print(next(generator))
+print(next(generator))
+print(next(generator))
+print(next(generator))
+print(next(generator))
+
+TEST_4:
+generator = palindromes()
+
+for _ in range(1_000):
+    next(generator)
+
+print(next(generator))
+print(next(generator))
+print(next(generator))
+print(next(generator))
+print(next(generator))
+print(next(generator))
+print(next(generator))
+print(next(generator))
+print(next(generator))
+
+TEST_5:
+generator = palindromes()
+
+for _ in range(100):
+    print(next(generator))
+

@@ -1,0 +1,30 @@
+OUTPUT DATA:
+
+TEST_1:
+September 20, 1992
+October 19, 1992
+
+TEST_2:
+
+
+TEST_3:
+
+
+TEST_4:
+May 24, 1992
+
+TEST_5:
+June 23, 1992
+
+TEST_6:
+July 22, 1992
+August 21, 1992
+September 20, 1992
+October 19, 1992
+
+TEST_7:
+June 23, 1992
+
+TEST_8:
+None
+

@@ -1,0 +1,14 @@
+INPUT DATA:
+
+TEST_1:
+print(numbers_sum([1, '2', 3, 4, 'five']))
+
+TEST_2:
+print(numbers_sum(['beegeek', 'stepik', '100']))
+
+TEST_3:
+print(numbers_sum.__doc__)
+
+TEST_4:
+print(numbers_sum([10, 100, 1000, 10000]))
+

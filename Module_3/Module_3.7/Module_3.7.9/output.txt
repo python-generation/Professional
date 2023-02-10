@@ -1,0 +1,23 @@
+OUTPUT DATA:
+
+TEST_1:
+Friday
+
+TEST_2:
+Monday
+
+TEST_3:
+Tuesday
+
+TEST_4:
+Wednesday
+
+TEST_5:
+Thursday
+
+TEST_6:
+Saturday
+
+TEST_7:
+Sunday
+

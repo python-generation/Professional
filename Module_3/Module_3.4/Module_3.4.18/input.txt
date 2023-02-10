@@ -1,0 +1,21 @@
+INPUT DATA:
+
+TEST_1:
+print(num_of_sundays(2021))
+
+TEST_2:
+year = 2000
+print(num_of_sundays(year))
+
+TEST_3:
+print(num_of_sundays(768))
+
+TEST_4:
+print(num_of_sundays(1944))
+
+TEST_5:
+print(num_of_sundays(2022))
+
+TEST_6:
+print(num_of_sundays(2050))
+

@@ -1,0 +1,47 @@
+OUTPUT DATA:
+
+TEST_1:
+beegeek! python.. Python.. stepik
+
+TEST_2:
+hi, hello, HELLO, hello!
+
+TEST_3:
+wow Wow wow WOW
+
+TEST_4:
+ght ghh
+
+TEST_5:
+ops Pops Pop
+
+TEST_6:
+Раз два три четыре пять
+
+TEST_7:
+Да нет да нет да нет да нет да нет да нет да нет
+
+TEST_8:
+Five five Five five Five Four three Three three two one
+
+TEST_9:
+1 22 333 4444
+
+TEST_10:
+Beegeek bEegeek beEgeek beeGeek beegEek beegeEk beegeeK
+
+TEST_11:
+Hickory Dickory Dock
+
+TEST_12:
+До до ре ми фа соль ля си
+
+TEST_13:
+Между нами провода, да, города, да
+
+TEST_14:
+Can't buy me love No, no
+
+TEST_15:
+Ba-Barbara Ann
+

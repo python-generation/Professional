@@ -1,0 +1,26 @@
+INPUT DATA:
+
+TEST_1:
+my numbEr Phone Is +7-903-222-77-77
+
+TEST_2:
+this is digit 10, A in hex 
+
+TEST_3:
+a - 10, B - 11, c - 12, D - 13, E - 14, F - 15, G - 16
+
+TEST_4:
+17 - 11 in HEX
+
+TEST_5:
+let's ignore lower case a b c d e f
+
+TEST_6:
+ABRACADABRA-boooooooom__
+
+TEST_7:
+-1-2-3-0 - it's negative nums,A!
+
+TEST_8:
+1234567890ABCDEF:;<=>?@
+

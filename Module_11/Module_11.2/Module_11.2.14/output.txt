@@ -1,0 +1,32 @@
+OUTPUT DATA:
+
+TEST_1:
+car cat cab
+
+TEST_2:
+car
+
+TEST_3:
+car cat cab
+
+TEST_4:
+
+
+TEST_5:
+car cat cab
+
+TEST_6:
+car
+
+TEST_7:
+
+
+TEST_8:
+cat car cat
+
+TEST_9:
+car cat cab
+
+TEST_10:
+cat
+

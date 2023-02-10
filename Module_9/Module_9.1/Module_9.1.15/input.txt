@@ -1,0 +1,46 @@
+INPUT DATA:
+
+TEST_1:
+print(zip_longest([1, 2, 3, 4, 5], ['a', 'b', 'c'], fill='_'))
+
+TEST_2:
+data = [[1, 2, 3, 4, 5], ['one', 'two', 'three'], ['I', 'II']]
+print(zip_longest(*data))
+
+TEST_3:
+data = [[1, 2, 3, 4, 5], ['one', 'two', 'three', 'four', 'five'], ['I', 'II', 'III', 'IV', 'V']]
+print(zip_longest(*data))
+
+TEST_4:
+data = [[], ['one'], [], ['uno']]
+print(zip_longest(*data))
+
+TEST_5:
+data = [[], ['one'], [], ['uno']]
+print(zip_longest(*data, fill='not known'))
+
+TEST_6:
+data = [[]]
+print(zip_longest(*data, fill='not known'))
+
+TEST_7:
+data = [[]]
+print(zip_longest(*data))
+
+TEST_8:
+data = [[1, 2, 3, 4, 5], ['repeat', 'itertools', 'recursion'], [90, 100, 10, 40]]
+print(zip_longest(*data, fill='add'))
+
+TEST_9:
+data = [[1, 2, 3, 4, 5], ['repeat', 'itertools', 'recursion'], [90, 100, 10, 40]]
+print(zip_longest(*data))
+
+TEST_10:
+data = [['is_lower', 'is_upper'], [True, False, 'string', 'int', 'float', 'double', 'char', 'bool'], [False, False, True, True]]
+print(zip_longest(*data, fill='skip'))
+
+TEST_11:
+data = [['is_lower', 'is_upper'], [True, False, 'string', 'int', 'float', 'double', 'char', 'bool'],
+        [False, False, True, True], [1, 5, 9, 9, 104, -24, 13.4, 'f']]
+print(zip_longest(*data, fill='skip'))
+

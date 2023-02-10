@@ -1,0 +1,47 @@
+OUTPUT DATA:
+
+TEST_1:
+a, b, c
+
+TEST_2:
+x, y, z
+
+TEST_3:
+X, Y, Z, W
+
+TEST_4:
+a, n, d
+
+TEST_5:
+o, r, a, n, d
+
+TEST_6:
+a, b, c, d, e, f, r, y, w
+
+TEST_7:
+a, b, c, d, e, f, g, w
+
+TEST_8:
+a, b, c
+
+TEST_9:
+x, y, z
+
+TEST_10:
+a, b, c, d, e
+
+TEST_11:
+a, c, e
+
+TEST_12:
+a, b, c, d
+
+TEST_13:
+Two Owls, a Hen
+
+TEST_14:
+Two, Owls, a Hen
+
+TEST_15:
+Two, Owls, a Hen
+

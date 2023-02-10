@@ -1,0 +1,47 @@
+INPUT DATA:
+
+TEST_1:
+<p><a href="https://stepik.org">Stepik</a></p>
+<div class="catalog"><a href="https://stepik.org/catalog">Study hard. Teach harder</a></div>
+
+TEST_2:
+<div id="oldie-warning" class="do-not-print">
+    <p>
+        <strong>Notice:</strong> Your browser is <em>ancient</em>. Please
+        <a href="http://browsehappy.com/">upgrade to a different browser</a> to experience a better web.
+    </p>
+</div>
+
+TEST_3:
+<li class="tier-2 element-1" role="treeitem"><a class="text-shrink" title="Make Text Smaller" href="javascript:;">Smaller</a></li>
+<li class="tier-2 element-2" role="treeitem"><a class="text-grow" title="Make Text Larger" href="javascript:;">Larger</a></li>
+<li class="tier-2 element-3" role="treeitem"><a class="text-reset" title="Reset any font size changes I have made" href="javascript:;">Reset</a></li>
+
+TEST_4:
+<a class="button prompt" id="start-shell" data-shell-container="#dive-into-python" href="/shell/"><span class="message">Launch Interactive Shell</span></a>
+
+TEST_5:
+<h2 class="widget-title"><span aria-hidden="true" class="icon-get-started"></span>Get Started</h2>
+<p>Whether you're new to programming or an experienced developer, it's easy to learn and use Python.</p>
+<p><a href="/about/gettingstarted/">Start with our Beginner&rsquo;s Guide</a></p>
+
+TEST_6:
+<div class="python-logo"></div>
+<h2 class="widget-title"><span class="prompt">&gt;&gt;&gt;</span> <a href="/psf/">Python Software Foundation</a></h2>
+<p>The mission of the Python Software Foundation is to promote, protect, and advance the Python programming language<a class="readmore" href="/psf/">Learn more</a></p>
+<p class="click-these"><a class="button" href="/users/membership/">Become a Member</a><a class="button" href="/psf/donations/">Donate to the PSF</a></p>
+
+TEST_7:
+<span aria-hidden="true" class="icon-search"></span>
+<label class="screen-reader-text" for="id-search-field">Search This Site</label>
+
+TEST_8:
+<fieldset title="Search Python.org">
+    <span aria-hidden="true" class="icon-search"></span>
+    <label class="screen-reader-text" for="id-search-field">Search This Site</label>
+    <input id="id-search-field" name="q" type="search" role="textbox" class="search-field" placeholder="Search" value="" tabindex="1">
+    <button type="submit" name="submit" id="submit" class="search-button" title="Submit this Search" tabindex="3">
+        GO
+    </button>
+</fieldset>
+

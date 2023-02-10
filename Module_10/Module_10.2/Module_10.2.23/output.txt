@@ -1,0 +1,41 @@
+OUTPUT DATA:
+
+TEST_1:
+(0, 9)
+
+TEST_2:
+(1, 33)
+
+TEST_3:
+None
+
+TEST_4:
+(9, 9)
+
+TEST_5:
+(1, 100)
+
+TEST_6:
+(1, 100)
+
+TEST_7:
+(-100, 96)
+
+TEST_8:
+(-100, 96)
+
+TEST_9:
+None
+
+TEST_10:
+(69, 69)
+
+TEST_11:
+(0, 99999999)
+
+TEST_12:
+('a', 'cbc')
+
+TEST_13:
+('bbb', 'bbb')
+

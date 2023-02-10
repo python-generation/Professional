@@ -1,0 +1,37 @@
+INPUT DATA:
+
+TEST_1:
+beebee bee
+beegeek
+bee geek bee
+
+TEST_2:
+abigail alex
+clint dwarf
+emily
+gil
+
+TEST_3:
+bee one bee two
+abee beeb
+abeeb bee
+geek
+bee
+geek geek geek
+one geek two geek
+
+TEST_4:
+geekbeegeekbee
+ageek geekb ageekb
+_geek_ _geek geek_
+
+TEST_5:
+_b_e_e_b_e_e_
+BeeBeeBee
+BEEBEEBEE
+b33b33b33
+beebe
+bebee
+b1111ee
+_ geek _
+

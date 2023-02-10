@@ -1,0 +1,32 @@
+OUTPUT DATA:
+
+TEST_1:
+bee
+geek
+
+TEST_2:
+bee
+geek
+beegeek
+
+TEST_3:
+bee
+geek
+stepik
+beegeek
+None
+
+TEST_4:
+10
+20
+30
+add
+add docs
+3
+25
+40
+50
+
+TEST_5:
+i am attribute
+

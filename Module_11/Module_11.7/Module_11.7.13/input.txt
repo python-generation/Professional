@@ -1,0 +1,14 @@
+INPUT DATA:
+
+TEST_1:
+Familiarize
+stepik has such a good ui that it takes no time to familiarise its environment. To familiarize oneself with ui of stepik is easy
+
+TEST_2:
+Gseze
+Gzeze Gsese Gseze Gzese
+
+TEST_3:
+gthese
+gthsese Gthese gthese ggthese ggtheze gtheze
+

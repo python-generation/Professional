@@ -1,0 +1,23 @@
+OUTPUT DATA:
+
+TEST_1:
+(datetime.date(1992, 6, 10), datetime.date(2021, 10, 5))
+
+TEST_2:
+()
+
+TEST_3:
+(datetime.date(2021, 10, 5), datetime.date(2021, 10, 5))
+
+TEST_4:
+(datetime.date(1999, 9, 9), datetime.date(1999, 9, 9))
+
+TEST_5:
+(datetime.date(85, 3, 10), datetime.date(9881, 1, 21))
+
+TEST_6:
+(datetime.date(885, 10, 24), datetime.date(9663, 5, 13))
+
+TEST_7:
+(datetime.date(1, 1, 1), datetime.date(1, 1, 1))
+

@@ -1,0 +1,20 @@
+INPUT DATA:
+
+TEST_1:
+print(fib(1))
+
+TEST_2:
+print(fib(2))
+
+TEST_3:
+print(fib(5))
+
+TEST_4:
+print(fib(10) + fib(15))
+
+TEST_5:
+print(fib(10) + fib(20) + fib(21))
+
+TEST_6:
+print(fib(18))
+

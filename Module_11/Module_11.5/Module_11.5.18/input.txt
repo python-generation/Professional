@@ -1,0 +1,23 @@
+INPUT DATA:
+
+TEST_1:
+One can can become a writer only  only if he is   is talented
+
+TEST_2:
+f fa fa
+
+TEST_3:
+tuk tak
+
+TEST_4:
+What do d you    y o u want      want
+
+TEST_5:
+Ka10sni siw Ka10sni siw sik   sik
+
+TEST_6:
+ffa fa ups      ups
+
+TEST_7:
+a a b  b c   c e f g g
+

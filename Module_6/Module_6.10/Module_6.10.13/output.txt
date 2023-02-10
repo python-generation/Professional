@@ -1,0 +1,23 @@
+OUTPUT DATA:
+
+TEST_1:
+Arthur Timur
+
+TEST_2:
+set()
+
+TEST_3:
+Anri Arthur Timur
+
+TEST_4:
+20 29
+
+TEST_5:
+Moscow
+
+TEST_6:
+set()
+
+TEST_7:
+Almetyevsk Moscow
+

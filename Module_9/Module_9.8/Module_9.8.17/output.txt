@@ -1,0 +1,31 @@
+OUTPUT DATA:
+
+TEST_1:
+€2000
+
+TEST_2:
+2000$$$
+
+TEST_3:
+beegeek
+beegeek docs
+beegeek online-school
+
+TEST_4:
+beegeek
+beegeek docs
+online-school beegeek
+
+TEST_5:
+make_lower
+makes string upper or lower
+online-school BEEGEEK
+
+TEST_6:
+make_lower
+makes string upper or lower
+beegeek rocks
+
+TEST_7:
+online-school BEEGEEK
+

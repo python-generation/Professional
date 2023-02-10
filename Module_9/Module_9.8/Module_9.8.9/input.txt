@@ -1,0 +1,55 @@
+INPUT DATA:
+
+TEST_1:
+@square
+def add(a, b):
+    return a + b
+
+print(add(3, 7))
+
+TEST_2:
+@square
+def add(a, b):
+    '''прекрасная функция'''
+    return a + b
+
+print(add(1, 1))
+print(add.__name__)
+print(add.__doc__)
+
+TEST_3:
+@square
+def beegeek():
+    '''beegeek docs'''
+    return 99
+
+print(beegeek())
+print(beegeek.__name__)
+print(beegeek.__doc__)
+
+TEST_4:
+@square
+def func(x):
+    '''classic f(x)'''
+    return (x + 1) ** 3
+
+print(func(7))
+print(func.__name__)
+print(func.__doc__)
+
+TEST_5:
+@square
+def add(a, b, c, d, e):
+    return a + b + c + d + e
+
+print(add(1, 2, 3, 4, 5))
+print(add.__name__)
+print(add.__doc__)
+
+TEST_6:
+@square
+def add(*args, **kwargs):
+    return sum([*args, *kwargs.values()])
+
+print(add(3, 7, x=10, y=30))
+

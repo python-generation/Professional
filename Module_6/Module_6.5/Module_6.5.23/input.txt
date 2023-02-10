@@ -1,0 +1,31 @@
+INPUT DATA:
+
+TEST_1:
+print(flip_dict({'a': [1, 2], 'b': [3, 1], 'c': [2]}))
+
+TEST_2:
+data = {'Arthur': ['cacao', 'tea', 'juice'], 'Timur': ['coffee', 'tea', 'juice'], 'Anri': ['juice', 'coffee']}
+
+for key, values in flip_dict(data).items():
+    print(f'{key}: {", ".join(values)}')
+
+TEST_3:
+data = {'a': [1, 2, 3], 'b': [4, 5, 6], 'c': [7, 8, 9]}
+
+print(flip_dict(data))
+
+TEST_4:
+data = {'a': [1, 2, 3, 5, 7], 'b': [4, 5, 6, 8, 1, 2], 'c': [7, 8, 9, 3, 2, 4], 'd': [1, 4, 6, 8, 9]}
+
+print(flip_dict(data))
+
+TEST_5:
+data = data = {1: ['a', 'b', 'c'], 2: ['a', 'b', 'c', 'c'], 3: ['c', 'd', 'a'], 4: ['a', 'b', 'r', 'f'], 5: ['y', 'u', 'e', 'w']}
+
+print(flip_dict(data))
+
+TEST_6:
+data = {6: [1, 2, 3], 88: [3, 4, 6], '99': ['a', 'f', '3', 1, 2, 3], 'a': [1, 2, 3]}
+
+print(flip_dict(data))
+

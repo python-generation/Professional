@@ -1,0 +1,29 @@
+OUTPUT DATA:
+
+TEST_1:
+22xAu, 1010x.
+
+TEST_2:
+1010s,
+
+TEST_3:
+30xAs.
+
+TEST_4:
+1010x. 1110x, 1210s.
+
+TEST_5:
+1020s, 10x0u.
+
+TEST_6:
+111Ax. 30xAx. 30x0x,
+
+TEST_7:
+
+
+TEST_8:
+10xAs,
+
+TEST_9:
+111Ax. 10x0u.
+

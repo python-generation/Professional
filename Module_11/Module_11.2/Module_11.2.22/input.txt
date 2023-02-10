@@ -1,0 +1,14 @@
+INPUT DATA:
+
+TEST_1:
+So why does my watch say 91:44? It doesn't matter, I'll be there at 17:30
+
+TEST_2:
+00:00, 00:60, 24:00, 50:39, 17/30
+
+TEST_3:
+Hello(29:37), Hi bro(13:69), How are u(07:35), Fine, thanks(7:35), What about u(19:1), By(20:00)
+
+TEST_4:
+a4:44, ba:oa, 13-33, 18:57, 181:57, 18:571
+

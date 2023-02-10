@@ -1,0 +1,33 @@
+INPUT DATA:
+
+TEST_1:
+dates = ['01.11.2021', '07.11.2021', '04.11.2021', '03.11.2021']
+
+print(fill_up_missing_dates(dates))
+
+TEST_2:
+dates = ['01.11.2021', '04.11.2021', '09.11.2021', '15.11.2021']
+
+print(fill_up_missing_dates(dates))
+
+TEST_3:
+dates = ['15.11.2021', '04.11.2021', '09.11.2021', '01.11.2021']
+
+print(fill_up_missing_dates(dates))
+
+TEST_4:
+dates = ['15.11.2021', '16.11.2021', '17.11.2021', '18.11.2021', '19.11.2021', '20.11.2021']
+print(fill_up_missing_dates(dates))
+
+TEST_5:
+dates = ['20.11.2021', '16.11.2021', '19.11.2021', '18.11.2021', '17.11.2021', '15.11.2021']
+print(fill_up_missing_dates(dates))
+
+TEST_6:
+dates = ['20.07.2021', '16.05.2021', '19.01.2021', '18.11.2021', '17.10.2021', '15.03.2021']
+print(len(fill_up_missing_dates(dates)))
+
+TEST_7:
+dates = ['20.07.2020', '16.05.2021', '19.01.2022', '18.11.2021', '17.10.2021', '15.03.2021']
+print(len(fill_up_missing_dates(dates)))
+

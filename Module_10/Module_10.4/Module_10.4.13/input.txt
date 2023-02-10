@@ -1,0 +1,38 @@
+INPUT DATA:
+
+TEST_1:
+cards = CardDeck()
+
+print(next(cards))
+print(next(cards))
+
+TEST_2:
+cards = list(CardDeck())
+
+print(cards[9])
+print(cards[23])
+print(cards[37])
+print(cards[51])
+
+TEST_3:
+cards = list(CardDeck())
+
+print(cards)
+
+TEST_4:
+cards1 = list(CardDeck())
+cards2 = tuple(CardDeck())
+cards3 = list(CardDeck())
+
+print(cards1)
+print(cards2)
+print(cards3)
+
+TEST_5:
+cards = list(CardDeck())
+
+try:
+    next(cards)
+except:
+    print('Error')
+

@@ -1,0 +1,83 @@
+INPUT DATA:
+
+TEST_1:
+try:
+    print(is_good_password('Short7'))
+except Exception as err:
+    print(type(err))
+
+TEST_2:
+print(is_good_password('еПQSНгиfУЙ70qE'))
+
+TEST_3:
+try:
+    print(is_good_password('41157081231232'))
+except Exception as err:
+    print(type(err))
+
+TEST_4:
+try:
+    print(is_good_password('МойПарольСамыйЛучший111'))
+except Exception as err:
+    print(type(err))
+
+TEST_5:
+try:
+    print(is_good_password('4abcdABC'))
+except Exception as err:
+    print(type(err))
+
+TEST_6:
+try:
+    print(is_good_password('4abcdABC8'))
+except Exception as err:
+    print(type(err))
+
+TEST_7:
+try:
+    print(is_good_password('abc!@#%$#%#$%^&dABC8'))
+except Exception as err:
+    print(type(err))
+
+TEST_8:
+try:
+    print(is_good_password('!@#$%^&*()_+'))
+except Exception as err:
+    print(type(err))
+
+TEST_9:
+try:
+    print(is_good_password('abc12345678ansdfjkasdkjfbsdk'))
+except Exception as err:
+    print(type(err))
+
+TEST_10:
+try:
+    print(is_good_password('sjkdfsjkdfhjksdfhjkSDFSDAFSADFSADfsdajf'))
+except Exception as err:
+    print(type(err))
+
+TEST_11:
+try:
+    print(is_good_password('qwertyтимур696969'))
+except Exception as err:
+    print(type(err))
+
+TEST_12:
+try:
+    print(is_good_password('1234567890'))
+except Exception as err:
+    print(type(err))
+
+TEST_13:
+try:
+    print(is_good_password('123456789A'))
+except Exception as err:
+    print(type(err))
+
+TEST_14:
+try:
+    print(is_good_password('123456789a'))
+except Exception as err:
+    print(type(err))
+

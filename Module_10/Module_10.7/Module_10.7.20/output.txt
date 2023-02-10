@@ -1,0 +1,38 @@
+OUTPUT DATA:
+
+TEST_1:
+1 2 3
+
+TEST_2:
+b e e g e e k
+
+TEST_3:
+100 99 98 97 96 95 94 93 92 91 90 89 88 87 86 85 84 83 82 81 80 79 78 77
+
+TEST_4:
+J H F J G S H G K J F D J S G R I Y T E R Y O W P Q E R K E L F S L D F M N M N B M V C N M L G Q W E O O T I Y O E Y T K L D J H M V X C M K A S D
+
+TEST_5:
+J S K F J S D I F j
+
+TEST_6:
+
+
+TEST_7:
+
+
+TEST_8:
+q w e r e t q w e w e r q w e q w e r e w r
+
+TEST_9:
+b
+e
+e
+Error
+
+TEST_10:
+bee geek
+
+TEST_11:
+[]
+

@@ -1,0 +1,17 @@
+INPUT DATA:
+
+TEST_1:
+nothing.txt
+
+TEST_2:
+grades.csv
+
+TEST_3:
+sample.csv
+
+TEST_4:
+english.txt
+
+TEST_5:
+math.tex
+

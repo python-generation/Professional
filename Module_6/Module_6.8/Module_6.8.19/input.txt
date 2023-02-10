@@ -1,0 +1,47 @@
+INPUT DATA:
+
+TEST_1:
+print(scrabble('bbbbbeeeeegggggggeeeeeekkkkk', 'Beegeek'))
+
+TEST_2:
+print(scrabble('begk', 'beegeek'))
+
+TEST_3:
+print(scrabble('beegeek', 'beegeek'))
+
+TEST_4:
+print(scrabble('gEEkBEE', 'beegeek'))
+
+TEST_5:
+print(scrabble('ssttppeekkii', 'stepik'))
+
+TEST_6:
+print(scrabble('SSttpp123125eekki122i', 'stepik'))
+
+TEST_7:
+print(scrabble('123125122', 'Arthur'))
+
+TEST_8:
+print(scrabble('stepik', 'STEPIK'))
+
+TEST_9:
+print(scrabble('STEPIK', 'stepik'))
+
+TEST_10:
+print(scrabble('StepiK', 'sTEPIk'))
+
+TEST_11:
+print(scrabble('beegee', 'beegeek'))
+
+TEST_12:
+print(scrabble('beegeekbeegeekbeegeek', 'beegeekbeegeekbeegeekbeegeek'))
+
+TEST_13:
+print(scrabble('b1e2e3g4e___e___k', 'BeegeeK'))
+
+TEST_14:
+print(scrabble('BEEGEEK', 'BEEGEEKK'))
+
+TEST_15:
+print(scrabble('BEEGEEK', 'BEEGEEKBEEGEEK'))
+

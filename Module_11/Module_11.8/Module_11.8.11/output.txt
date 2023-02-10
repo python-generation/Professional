@@ -1,0 +1,35 @@
+OUTPUT DATA:
+
+TEST_1:
+<kw>, <kw>, <kw>, <kw>, <kw>, <kw>
+
+TEST_2:
+<kw> <kw> <kw> - that's the question
+
+TEST_3:
+<kw> <kw> <kw> - that <kw> the question
+
+TEST_4:
+<kw> to do it <kw> you can
+
+TEST_5:
+No white whale on the globe local end
+
+TEST_6:
+<kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw>
+
+TEST_7:
+Мой дядя самых честных правил
+
+TEST_8:
+123 on 456 <kw> <kw> - <kw> <kw> 789
+
+TEST_9:
+<kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw> <kw>
+
+TEST_10:
+1 <kw> 2 <kw> 3 <kw> 4 <kw> 5 <kw> 6 <kw> 7 <kw> 8 <kw> 9
+
+TEST_11:
+<kw> <kw> <kw> <kw> <kw> <kw>
+

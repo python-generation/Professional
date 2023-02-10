@@ -1,0 +1,143 @@
+INPUT DATA:
+
+TEST_1:
+"""hello everyone
+welcome to my project"""
+
+import math  # importing a useful math module
+
+# let's take a look at some functions
+
+def circle_area(radius):
+    """coming soon"""
+    return math.pi * r ** 2  # my favorite formula
+    
+def triangle_area(base, height):
+    """the function takes
+    the base and height
+    of a triangle and
+    returns its area"""
+    return 0.5 * base * height
+
+TEST_2:
+try:
+    # hashlib is pretty heavy to load, try lean internal module first
+    from _sha512 import sha512 as _sha512
+except ImportError:
+    # fallback to official implementation
+    from hashlib import sha512 as _sha512
+
+TEST_3:
+class Random(_random.Random):
+    """Random number generator base class used by bound module functions.
+    Used to instantiate instances of Random to get generators that don't
+    share state.
+    Class Random can also be subclassed if you want to use a different basic
+    generator of your own devising: in that case, override the following
+    methods:  random(), seed(), getstate(), and setstate().
+    Optionally, implement a getrandbits() method so that randrange()
+    can cover arbitrarily large ranges."""
+
+    VERSION = 3  # used by getstate/setstate
+
+    def __init__(self, x=None):
+        """Initialize an instance.
+        Optional argument x controls seeding, as for Random.seed()."""
+
+        self.seed(x)
+        self.gauss_next = None
+
+TEST_4:
+def __init_subclass__(cls, /, **kwargs):
+    """Control how subclasses generate random integers.
+    The algorithm a subclass can use depends on the random() and/or
+    getrandbits() implementation available to it and determines
+    whether it can generate random integers from arbitrarily large
+    ranges."""
+
+    for c in cls.__mro__:
+        if '_randbelow' in c.__dict__:
+            # just inherit it
+            break
+        if 'getrandbits' in c.__dict__:
+            cls._randbelow = cls._randbelow_with_getrandbits
+            break
+        if 'random' in c.__dict__:
+            """hi there"""
+            cls._randbelow = cls._randbelow_without_getrandbits
+            break
+
+TEST_5:
+def randbytes(self, n):
+    """Generate n random bytes."""
+    return self.getrandbits(n * 8).to_bytes(n, 'little')
+
+## -------------------- integer methods  -------------------
+
+def randrange(self, start, stop=None, step=_ONE):
+    """Choose a random item from range(stop) or range(start, stop[, step]).
+    Roughly equivalent to ``choice(range(start, stop, step))`` but
+    supports arbitrarily large ranges and is optimized for common cases."""
+
+    # This code is a bit messy to make it fast for the
+    # common case while still doing adequate error checking.
+    istart = _index(start)
+    if stop is None:
+        # We don't check for "step != 1" because it hasn't been
+        # type checked and converted to an integer yet.
+        if step is not _ONE:
+            raise TypeError("Missing a non-None stop argument")
+        if istart > 0:
+            return self._randbelow(istart)
+        raise ValueError("empty range for randrange()")
+
+TEST_6:
+# ----------------------------------------------------------------------
+# Create one instance, seeded from current time, and export its methods
+# as module-level functions.  The functions share state across all uses
+# (both in the user's code and in the Python libraries), but that's fine
+# for most programs and is easier for the casual user than making them
+# instantiate their own Random() instance.
+
+_inst = Random()
+
+TEST_7:
+MINYEAR = 1
+MAXYEAR = 9999
+_MAXORDINAL = 3652059
+
+TEST_8:
+_DI400Y = _days_before_year(401)  # number of days in 400 years
+_DI100Y = _days_before_year(101)  #    "    "   "   " 100   "
+_DI4Y   = _days_before_year(5)  #    "    "   "   "   4   "
+
+# A 4-year cycle has an extra leap day over what we'd get from pasting
+# together 4 single years.
+assert _DI4Y == 4 * 365 + 1
+
+# Similarly, a 400-year cycle has an extra leap day over what we'd get from
+# pasting together 4 100-year cycles.
+assert _DI400Y == 4 * _DI100Y + 1
+
+TEST_9:
+def _format_time(hh, mm, ss, us, timespec='auto'):
+    specs = {
+        'hours': '{:02d}',
+        'minutes': '{:02d}:{:02d}',
+        'seconds': '{:02d}:{:02d}:{:02d}',
+        'milliseconds': '{:02d}:{:02d}:{:02d}.{:03d}',
+        'microseconds': '{:02d}:{:02d}:{:02d}.{:06d}'
+    }
+
+    if timespec == 'auto':
+        # Skip trailing microseconds when us==0.
+        timespec = 'microseconds' if us else 'seconds'
+    elif timespec == 'milliseconds':
+        us //= 1000
+    try:
+        fmt = specs[timespec]
+    except KeyError:
+        raise ValueError('Unknown timespec value')
+    else:
+        return fmt.format(hh, mm, ss, us)
+

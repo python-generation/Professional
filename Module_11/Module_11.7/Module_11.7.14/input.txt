@@ -1,0 +1,14 @@
+INPUT DATA:
+
+TEST_1:
+Odour
+the odour coming out of the left over food was intolerable. Ammonia has a very pungent odor
+
+TEST_2:
+hour
+a lot of Hour or hor
+
+TEST_3:
+uour
+ghour uuour uourr uour uorik uor uuor uorr Uor Uour
+

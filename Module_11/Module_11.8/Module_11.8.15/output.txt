@@ -1,0 +1,96 @@
+OUTPUT DATA:
+
+TEST_1:
+
+import math
+
+
+def circle_area(radius):
+    return math.pi * r ** 2
+    
+def triangle_area(base, height):
+    return 0.5 * base * height
+
+TEST_2:
+try:
+    from _sha512 import sha512 as _sha512
+except ImportError:
+    from hashlib import sha512 as _sha512
+
+TEST_3:
+class Random(_random.Random):
+
+    VERSION = 3
+
+    def __init__(self, x=None):
+
+        self.seed(x)
+        self.gauss_next = None
+
+TEST_4:
+def __init_subclass__(cls, /, **kwargs):
+
+    for c in cls.__mro__:
+        if '_randbelow' in c.__dict__:
+            break
+        if 'getrandbits' in c.__dict__:
+            cls._randbelow = cls._randbelow_with_getrandbits
+            break
+        if 'random' in c.__dict__:
+            cls._randbelow = cls._randbelow_without_getrandbits
+            break
+
+TEST_5:
+def randbytes(self, n):
+    return self.getrandbits(n * 8).to_bytes(n, 'little')
+
+
+def randrange(self, start, stop=None, step=_ONE):
+    
+    istart = _index(start)
+    if stop is None:
+        if step is not _ONE:
+            raise TypeError("Missing a non-None stop argument")
+        if istart > 0:
+            return self._randbelow(istart)
+        raise ValueError("empty range for randrange()")
+
+TEST_6:
+
+_inst = Random()
+
+TEST_7:
+MINYEAR = 1
+MAXYEAR = 9999
+_MAXORDINAL = 3652059
+
+TEST_8:
+_DI400Y = _days_before_year(401)
+_DI100Y = _days_before_year(101)
+_DI4Y   = _days_before_year(5)
+
+assert _DI4Y == 4 * 365 + 1
+
+assert _DI400Y == 4 * _DI100Y + 1
+
+TEST_9:
+def _format_time(hh, mm, ss, us, timespec='auto'):
+    specs = {
+        'hours': '{:02d}',
+        'minutes': '{:02d}:{:02d}',
+        'seconds': '{:02d}:{:02d}:{:02d}',
+        'milliseconds': '{:02d}:{:02d}:{:02d}.{:03d}',
+        'microseconds': '{:02d}:{:02d}:{:02d}.{:06d}'
+    }
+
+    if timespec == 'auto':
+        timespec = 'microseconds' if us else 'seconds'
+    elif timespec == 'milliseconds':
+        us //= 1000
+    try:
+        fmt = specs[timespec]
+    except KeyError:
+        raise ValueError('Unknown timespec value')
+    else:
+        return fmt.format(hh, mm, ss, us)
+

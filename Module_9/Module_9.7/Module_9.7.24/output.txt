@@ -1,0 +1,41 @@
+OUTPUT DATA:
+
+TEST_1:
+55
+
+TEST_2:
+<class 'ValueError'>
+
+TEST_3:
+<class 'TypeError'>
+
+TEST_4:
+<class 'TypeError'>
+
+TEST_5:
+<class 'TypeError'>
+
+TEST_6:
+4905
+
+TEST_7:
+<class 'ValueError'>
+
+TEST_8:
+<class 'ValueError'>
+
+TEST_9:
+60
+
+TEST_10:
+<class 'ValueError'>
+
+TEST_11:
+<class 'TypeError'>
+
+TEST_12:
+<class 'TypeError'>
+
+TEST_13:
+<class 'TypeError'>
+

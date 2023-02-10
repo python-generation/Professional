@@ -1,0 +1,26 @@
+INPUT DATA:
+
+TEST_1:
+print(is_power(512))
+
+TEST_2:
+print(is_power(15))
+
+TEST_3:
+print(is_power(1))
+
+TEST_4:
+print(is_power(2))
+
+TEST_5:
+print(is_power(100))
+
+TEST_6:
+print(is_power(128))
+
+TEST_7:
+print(is_power(1024))
+
+TEST_8:
+print(is_power(1111111))
+

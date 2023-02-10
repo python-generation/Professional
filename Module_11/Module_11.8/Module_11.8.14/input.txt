@@ -1,0 +1,47 @@
+INPUT DATA:
+
+TEST_1:
+beegeek,beegeek,beegeek! python python.. Python.. stepik?stepik?stepik
+
+TEST_2:
+hi, hi, hi, hello, hello, HELLO, HELLO, HELLO, HELLO, hello!
+
+TEST_3:
+wow Wow wow WOW
+
+TEST_4:
+ght ght ghh ghh---   ghh
+
+TEST_5:
+ops ops --- ops Pops Pop Pop Pop
+
+TEST_6:
+Раз два два три три три четыре четыре четыре четыре пять пять пять пять пять
+
+TEST_7:
+Да нет да нет да нет да нет да нет да нет да нет
+
+TEST_8:
+Five five Five five Five Four Four Four Four three Three three two two one
+
+TEST_9:
+1 1 1 1 1 22 22 22 22 333 333 333 4444
+
+TEST_10:
+Beegeek bEegeek beEgeek beeGeek beegEek beegeEk beegeeK
+
+TEST_11:
+Hickory Hickory Dickory Dickory Dock
+
+TEST_12:
+До до ре ре ми ми фа фа соль соль ля ля си си
+
+TEST_13:
+Между нами провода, да, да, города, да, да, да, да
+
+TEST_14:
+Can't buy me love No, no, no, no
+
+TEST_15:
+Ba-Ba-Ba-Ba-Barbara Ann
+

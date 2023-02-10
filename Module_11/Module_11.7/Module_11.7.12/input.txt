@@ -1,0 +1,22 @@
+INPUT DATA:
+
+TEST_1:
+foo bar (foo) bar foo-bar foo_bar foo'bar bar-foo bar, foo.
+foo
+
+TEST_2:
+Sunday, Monday, Tuesday, Wednesday
+day
+
+TEST_3:
+Hhelo Hey Human hacker
+H
+
+TEST_4:
+Hello hello helo he1lo hy 
+hello
+
+TEST_5:
+brain--brain--brain
+brain
+

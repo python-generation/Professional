@@ -1,0 +1,31 @@
+INPUT DATA:
+
+TEST_1:
+print(get_digits(16733))
+
+TEST_2:
+print(get_digits(13.909934))
+
+TEST_3:
+annotations = get_digits.__annotations__
+
+print(annotations['return'])
+
+TEST_4:
+annotations = get_digits.__annotations__
+
+print(annotations['number'])
+
+TEST_5:
+print(get_digits(848234124.73275))
+
+TEST_6:
+print(get_digits(2))
+
+TEST_7:
+print(get_digits(1234567890987654321))
+
+TEST_8:
+print(*get_digits.__annotations__.keys())
+print(*get_digits.__annotations__.values())
+

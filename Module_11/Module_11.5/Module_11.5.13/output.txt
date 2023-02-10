@@ -1,0 +1,14 @@
+OUTPUT DATA:
+
+TEST_1:
+okokokok
+
+TEST_2:
+okokok
+
+TEST_3:
+okokokok okokokok
+
+TEST_4:
+okokok
+

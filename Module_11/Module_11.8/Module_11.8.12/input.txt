@@ -1,0 +1,47 @@
+INPUT DATA:
+
+TEST_1:
+This is Python
+
+TEST_2:
+Hi, everyone. Lets start a lesson!
+
+TEST_3:
+Jhn HFUEUF   eiebuu JKG11f finei QQP Pppppp
+
+TEST_4:
+To be, or not to be, that is the question
+
+TEST_5:
+А! У! О! Уф... Да Нет
+
+TEST_6:
+Мой дядя самых честных правил, когда не в шутку занемог
+
+TEST_7:
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+
+TEST_8:
+Оченьдлинноеслово
+
+TEST_9:
+123 456 789
+
+TEST_10:
+Не слышны в саду даже шорохи, все здесь замерло до утра.
+
+TEST_11:
+One-Two_Three
+
+TEST_12:
+Раз,два,три,четыре,пять,вышел_зайчик_погулять
+
+TEST_13:
+вдруг:охотник%выбегает*прямовзайчика$стреляет
+
+TEST_14:
+пиф"паф@ойойой'умирает!зайчик,мой
+
+TEST_15:
+There was an Old Man with a beard
+

@@ -1,0 +1,32 @@
+INPUT DATA:
+
+TEST_1:
+car cat cab
+
+TEST_2:
+Car cAt caB caaaaaat carrrrrr-kar
+
+TEST_3:
+Cart carcat caBriolet Cabriolet cabriolet
+
+TEST_4:
+ca.r ca.t ca_b
+
+TEST_5:
+cacarrcataficab
+
+TEST_6:
+ca car
+
+TEST_7:
+c a r t b C A R T B
+
+TEST_8:
+cat on the car ride on the bike with Dog-cat or Cat-dog
+
+TEST_9:
+carc_rcatBcab
+
+TEST_10:
+print(cet, cer, c.b, cub, cat)
+

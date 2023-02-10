@@ -1,0 +1,95 @@
+INPUT DATA:
+
+TEST_1:
+def success(login):
+    print(f'Привет, {login}!')
+
+def failure(login, text):
+    print(f'{login}, попробуйте снова. Ошибка: {text}')
+
+verification('timyrik20', 'Beegeek314', success, failure)
+
+TEST_2:
+def success(login):
+    print(f'Здравствуйте, {login}!')
+
+def failure(login, text):
+    print(f'{login}, попробуйте снова. Текст ошибки: {text}')
+
+verification('Ruslan_Chaniev', 'stepikstepik2', success, failure)
+
+TEST_3:
+def success(login):
+    print(f'Здравствуйте, {login}!')
+
+def failure(login, text):
+    print(f'{login}, попробуйте снова. Текст ошибки: {text}')
+
+verification('Arthur_Davletov', 'HELLO_WORLD', success, failure)
+
+TEST_4:
+def success(login):
+    print(f'Здравствуйте, {login}!')
+
+
+def failure(login, text):
+    print(f'{login}, попробуйте снова. Текст ошибки: {text}')
+
+
+verification('Arthur_Davletov', '797777777777', success, failure)
+
+TEST_5:
+def success(login):
+    print(f'Здравствуйте, {login}!')
+
+
+def failure(login, text):
+    print(f'{login}, попробуйте снова. Текст ошибки: {text}')
+
+
+verification('Arthur_Davletov', 'Python777', success, failure)
+
+TEST_6:
+def success(login):
+    print(f'Здравствуйте, {login}!')
+
+
+def failure(login, text):
+    print(f'{login}, попробуйте снова. Текст ошибки: {text}')
+
+
+verification('Arthur_Davletov', 'qwerty', success, failure)
+
+TEST_7:
+def success(login):
+    print(f'Здравствуйте, {login}!')
+
+
+def failure(login, text):
+    print(f'{login}, попробуйте снова. Текст ошибки: {text}')
+
+
+verification('Arthur_Davletov', 'мойпароль123', success, failure)
+
+TEST_8:
+def success(login):
+    print(f'Здравствуйте, {login}!')
+
+
+def failure(login, text):
+    print(f'{login}, попробуйте снова. Текст ошибки: {text}')
+
+
+verification('Arthur_Davletov', 'мойпарольbee123', success, failure)
+
+TEST_9:
+def success(login):
+    print(f'Здравствуйте, {login}!')
+
+
+def failure(login, text):
+    print(f'{login}, попробуйте снова. Текст ошибки: {text}')
+
+
+verification('Arthur_Davletov', 'мойпарольBEE123', success, failure)
+

@@ -1,0 +1,26 @@
+INPUT DATA:
+
+TEST_1:
+51tePIK
+
+TEST_2:
+79
+
+TEST_3:
+stePIK
+
+TEST_4:
+__12aioaiaodndsndondkdkOPa
+
+TEST_5:
+123privetKAKtut
+
+TEST_6:
+123privetKAK
+
+TEST_7:
+00pythonONE
+
+TEST_8:
+.,(ifndOORNEODNE
+

@@ -1,0 +1,26 @@
+INPUT DATA:
+
+TEST_1:
+print(get_fast_pow(2, 10))
+
+TEST_2:
+print(get_fast_pow(5, 2))
+
+TEST_3:
+print(get_fast_pow(2, 100))
+
+TEST_4:
+print(get_fast_pow(2, 1000))
+
+TEST_5:
+print(get_fast_pow(11, 199))
+
+TEST_6:
+print(get_fast_pow(99, 99))
+
+TEST_7:
+print(get_fast_pow(10, 10000))
+
+TEST_8:
+print(get_fast_pow(69, 0))
+

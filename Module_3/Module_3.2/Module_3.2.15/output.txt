@@ -1,0 +1,14 @@
+OUTPUT DATA:
+
+TEST_1:
+True
+
+TEST_2:
+False
+
+TEST_3:
+False
+
+TEST_4:
+False
+

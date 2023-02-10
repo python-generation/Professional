@@ -1,0 +1,17 @@
+INPUT DATA:
+
+TEST_1:
+Hello.How are you today?
+
+TEST_2:
+I read the letter.Stood up.Sat down.Pondered for a minute.Then reread the letter again.
+
+TEST_3:
+123.456 xxx.xxx uuuuabc.123uuuuu WWW.OOO
+
+TEST_4:
+???.??? 1!+.aA@....... aaa.bbbbbb aaaaa.fff
+
+TEST_5:
+abc.........bcdfd   .   
+

@@ -1,0 +1,41 @@
+INPUT DATA:
+
+TEST_1:
+100
+i'm number!
+10
+[1, 99]
+1.1
+{'math', 'physics'}
+
+TEST_2:
+10
+10
+
+TEST_3:
+abc
+cda
+xyz
+
+TEST_4:
+[][das]d[as[d
+af[a[f[a[
+43n 2r akfasdas
+2054kro fsdf
+asmd1i9343
+dasdklfns adsad
+[]a{DS+d[=[342
+aspdpasdk10i1
+1
+2
+3
+asdasd
+
+TEST_5:
+asd asd
+ asdas141
+ 345 fsdf sdf
+ a294i32jrlksf
+[]1[3]12[3]2[]3[1
+90-90-9=-==p
+

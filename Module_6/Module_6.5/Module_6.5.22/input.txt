@@ -1,0 +1,101 @@
+INPUT DATA:
+
+TEST_1:
+result = wins([('Тимур', 'Артур'), ('Тимур', 'Дима'), ('Дима', 'Артур')])
+
+for winner, losers in sorted(result.items()):
+    print(winner, '->', *sorted(losers))
+
+TEST_2:
+result = wins([('Артур', 'Дима'), ('Артур', 'Тимур'), ('Артур', 'Анри'), ('Дима', 'Артур')])
+
+for winner, losers in sorted(result.items()):
+    print(winner, '->', *sorted(losers))
+
+TEST_3:
+result = wins([('Артур', 'Дима'), ('Артур', 'Тимур'), ('Артур', 'Анри'), ('Артур', 'Дима')])
+
+for winner, losers in sorted(result.items()):
+    print(winner, '->', *sorted(losers))
+
+TEST_4:
+result = wins([('Артур', 'Дима'), ('Дима', 'Тимур'),
+               ('Тимур', 'Анри'), ('Анри', 'Артур')])
+
+for winner, losers in sorted(result.items()):
+    print(winner, '->', *sorted(losers))
+
+TEST_5:
+result = wins([('Артур', 'Дима'), ('Дима', 'Тимур'),
+               ('Тимур', 'Анри'), ('Анри', 'Алина'),
+               ('Алина', 'Илья'), ('Илья', 'Артур')])
+
+for winner, losers in sorted(result.items()):
+    print(winner, '->', *sorted(losers))
+
+TEST_6:
+result = wins([('Артур', 'Дима'), ('Артур', 'Тимур'),
+               ('Артур', 'Анри'), ('Артур', 'Алина'),
+               ('Артур', 'Илья'), ('Артур', 'Элина')])
+
+for winner, losers in sorted(result.items()):
+    print(winner, '->', *sorted(losers))
+
+TEST_7:
+result = wins([('Артур', 'Дима'), ('Артур', 'Тимур'),
+               ('Артур', 'Анри'), ('Артур', 'Алина'),
+               ('Артур', 'Илья'), ('Элина', 'Артур')])
+
+for winner, losers in sorted(result.items()):
+    print(winner, '->', *sorted(losers))
+
+TEST_8:
+result = wins([('Артур', 'Дима'), ('Артур', 'Тимур'),
+               ('Артур', 'Анри'), ('Артур', 'Алина'),
+               ('Элина', 'Дима'), ('Элина', 'Тимур'),
+               ('Элина', 'Анри'), ('Элина', 'Алина')])
+
+for winner, losers in sorted(result.items()):
+    print(winner, '->', *sorted(losers))
+
+TEST_9:
+result = wins([('Артур', 'Дима'), ('Дима', 'Артур'),
+               ('Артур', 'Алина'), ('Алина', 'Артур'),
+               ('Тимур', 'Элина'), ('Элина', 'Тимур'),
+               ('Элина', 'Анри'), ('Анри', 'Элина')])
+
+for winner, losers in sorted(result.items()):
+    print(winner, '->', *sorted(losers))
+
+TEST_10:
+result = wins([('Артур', 'Дима'), ('Дима', 'Артур'),
+               ('Тимур', 'Элина'), ('Элина', 'Тимур'),
+               ('Алина', 'Анри'), ('Анри', 'Алина')])
+
+for winner, losers in sorted(result.items()):
+    print(winner, '->', *sorted(losers))
+
+TEST_11:
+result = wins([('Артур', 'Дима'), ('Дима', 'Артур'),
+               ('Артур', 'Тимур'), ('Тимур', 'Артур'),
+               ('Тимур', 'Дима'), ('Дима', 'Тимур')])
+               
+for winner, losers in sorted(result.items()):
+    print(winner, '->', *sorted(losers))
+
+TEST_12:
+result = wins([('Артур', 'Дима'), ('Дима', 'Элина'),
+               ('Артур', 'Тимур'), ('Тимур', 'Анри'),
+               ('Тимур', 'Элина'), ('Элина', 'Тимур'),
+               ('Элина', 'Артур'), ('Анри', 'Илья'),
+               ('Элина', 'Анри'), ('Анри', 'Герман')])
+
+for winner, losers in sorted(result.items()):
+    print(winner, '->', *sorted(losers))
+
+TEST_13:
+result = wins([('Тимур', 'Артур'), ('Тимур', 'Дима'), ('Дима', 'Артур')])
+
+for losers in result.values():
+    print(type(losers) == set)
+

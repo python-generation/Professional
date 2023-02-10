@@ -1,0 +1,35 @@
+OUTPUT DATA:
+
+TEST_1:
+[(1, 'a'), (2, 'b'), (3, 'c'), (4, '_'), (5, '_')]
+
+TEST_2:
+[(1, 'one', 'I'), (2, 'two', 'II'), (3, 'three', None), (4, None, None), (5, None, None)]
+
+TEST_3:
+[(1, 'one', 'I'), (2, 'two', 'II'), (3, 'three', 'III'), (4, 'four', 'IV'), (5, 'five', 'V')]
+
+TEST_4:
+[(None, 'one', None, 'uno')]
+
+TEST_5:
+[('not known', 'one', 'not known', 'uno')]
+
+TEST_6:
+[]
+
+TEST_7:
+[]
+
+TEST_8:
+[(1, 'repeat', 90), (2, 'itertools', 100), (3, 'recursion', 10), (4, 'add', 40), (5, 'add', 'add')]
+
+TEST_9:
+[(1, 'repeat', 90), (2, 'itertools', 100), (3, 'recursion', 10), (4, None, 40), (5, None, None)]
+
+TEST_10:
+[('is_lower', True, False), ('is_upper', False, False), ('skip', 'string', True), ('skip', 'int', True), ('skip', 'float', 'skip'), ('skip', 'double', 'skip'), ('skip', 'char', 'skip'), ('skip', 'bool', 'skip')]
+
+TEST_11:
+[('is_lower', True, False, 1), ('is_upper', False, False, 5), ('skip', 'string', True, 9), ('skip', 'int', True, 9), ('skip', 'float', 'skip', 104), ('skip', 'double', 'skip', -24), ('skip', 'char', 'skip', 13.4), ('skip', 'bool', 'skip', 'f')]
+

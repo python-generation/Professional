@@ -1,0 +1,43 @@
+OUTPUT DATA:
+
+TEST_1:
+smaerd ym fo lla ekaT
+sgniw ruoy htob ffo ekaT
+erif no meht tes dnA
+erif no meht teS
+
+TEST_2:
+nnif
+ekaj
+enilecram
+
+TEST_3:
+a
+b
+c
+d
+e
+f
+g
+
+TEST_4:
+54321 ytrewq
+
+TEST_5:
+
+
+TEST_6:
+54321
+dcba
+op
+
+TEST_7:
+deed
+nun
+level
+peep
+deified
+noon
+sagas
+keegeeb
+

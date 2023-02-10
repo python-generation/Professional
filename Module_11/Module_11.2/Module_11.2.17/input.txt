@@ -1,0 +1,29 @@
+INPUT DATA:
+
+TEST_1:
+My name is t1mUR and I am a1iVE!
+
+TEST_2:
+I read the l1eTTer
+
+TEST_3:
+Stood u1pPP
+
+TEST_4:
+S2aTT down
+
+TEST_5:
+Pon9dERed for a minute chhEE
+
+TEST_6:
+Then reread the letter again.
+
+TEST_7:
+Yesterday’s music '12a7zDEpp' festival was g2REAt
+
+TEST_8:
+We will tell you #9a_aFF a2aA,. when we are ready for #$a11a2zRT
+
+TEST_9:
+a1zAZ ZA3ZA z1zAZ
+
