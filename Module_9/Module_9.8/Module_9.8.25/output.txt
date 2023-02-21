@@ -1,0 +1,50 @@
+# OUTPUT DATA:
+
+# TEST_1:
+<class '__main__.MaxRetriesException'>
+
+# TEST_2:
+beegeek
+
+# TEST_3:
+<class '__main__.MaxRetriesException'>
+
+# TEST_4:
+beegeek
+
+# TEST_5:
+<class '__main__.MaxRetriesException'>
+
+# TEST_6:
+<class '__main__.MaxRetriesException'>
+
+# TEST_7:
+<class '__main__.MaxRetriesException'>
+
+# TEST_8:
+40
+
+# TEST_9:
+50
+
+# TEST_10:
+<class '__main__.MaxRetriesException'>
+
+# TEST_11:
+6
+
+# TEST_12:
+<class '__main__.MaxRetriesException'>
+
+# TEST_13:
+7
+
+# TEST_14:
+13
+
+# TEST_15:
+calculate
+Calculate something
+2005
+
+
