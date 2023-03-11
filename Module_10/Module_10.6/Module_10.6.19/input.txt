@@ -11,7 +11,7 @@ qubes = [1, 8, 27]
 print(*interleave(numbers, squares, qubes))
 
 # TEST_3:
-numbers1 = tuple(range(10))
+numbers1 = tuple(range(1, 10))
 numbers2 = list(range(10, 20))
 numbers3 = tuple(range(20, 30))
 numbers4 = tuple(range(30, 40))
