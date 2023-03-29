@@ -26,8 +26,8 @@ sort_priority(numbers, (98, 97, 100, 5, -9, -34))
 print(numbers)
 
 # TEST_5:
-numbers = list(range(0, 100, 5))
-sort_priority(numbers, {1, 90, 95, 25, 55, 64})
+data = list(range(0, 100, 5))
+sort_priority(data, {1, 90, 95, 25, 55, 64})
 
-print(numbers)
+print(data)
 
