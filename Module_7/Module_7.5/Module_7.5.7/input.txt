@@ -33,3 +33,6 @@ print(is_good_password('qwertyтимур696969'))
 # TEST_11:
 print(is_good_password('1234567890'))
 
+# TEST_12:
+print(is_good_password('HELLO1234'))
+
