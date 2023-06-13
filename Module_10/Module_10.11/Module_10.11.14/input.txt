@@ -35,3 +35,8 @@ groups = group_anagrams(['клоун', 'яяя', 'жжж', 'бббб', 'куло
 
 print(*groups)
 
+# TEST_8:
+groups = group_anagrams(['катет', 'кета'])
+
+print(*groups)
+
