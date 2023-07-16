@@ -1,35 +1,26 @@
 # INPUT DATA:
 
 # TEST_1:
-print(convert('BEEgeek'))
+print_given(1, [1, 2, 3], 'three', two=2)
 
 # TEST_2:
-print(convert('pyTHON'))
+print_given('apple', 'cherry', 'watermelon')
 
 # TEST_3:
-print(convert('pi31415!'))
+print_given(b=2, d=4, c=3, a=1)
 
 # TEST_4:
-print(convert('ABCDEF'))
+print_given()
 
 # TEST_5:
-print(convert('abcdef'))
+print_given(map, range, filter)
 
 # TEST_6:
-print(convert('12345!?'))
+print_given([1, 2, 3, 4], ('a', 'b', 'c', 'd'), name='Timur', age=29, city='Moscow')
 
 # TEST_7:
-print(convert('PI31415!'))
+print_given({1: 1, 2: 2, 3: 3}, [1, 2, 3, 4], (0, 0), zxc=123, abc=321, asd=987, iop=765)
 
 # TEST_8:
-print(convert('ABCdef'))
-
-# TEST_9:
-print(convert('ABCdef123'))
-
-# TEST_10:
-print(convert('AbCdEf12345'))
-
-# TEST_11:
-print(convert('dEfAbC'))
+print(print_given())
 

@@ -1,53 +1,33 @@
 # INPUT DATA:
 
 # TEST_1:
-print(choose_plural(21, ('пример', 'примера', 'примеров')))
+words = ['россия', 'Австрия', 'австралия', 'РумыниЯ', 'Украина', 'КИТай', 'УЗБЕКИСТАН']
+
+print(spell(*words))
 
 # TEST_2:
-print(choose_plural(92, ('гвоздь', 'гвоздя', 'гвоздей')))
+print(spell('Математика', 'История', 'химия', 'биология', 'Информатика'))
 
 # TEST_3:
-print(choose_plural(8, ('яблоко', 'яблока', 'яблок')))
+words = ['fruit', 'football', 'February', 'forest', 'Family']
+print(spell(*words))
 
 # TEST_4:
-print(choose_plural(111223, ('копейка', 'копейки', 'копеек')))
+print(spell())
 
 # TEST_5:
-print(choose_plural(763434, ('рубль', 'рубля', 'рублей')))
+words = ['a', 'aa', 'aaa', 'aaaa', 'aaaaa']
+print(spell(*words))
 
 # TEST_6:
-print(choose_plural(512312, ('цент', 'цента', 'центов')))
+words = ['aaaaa', 'aaaaa', 'aaaaa', 'aaaaa', 'aaaaa']
+print(spell(*words))
 
 # TEST_7:
-print(choose_plural(59, ('помидор', 'помидора', 'помидоров')))
+words = ['a']
+print(spell(*words))
 
 # TEST_8:
-print(choose_plural(23424157, ('огурец', 'огурца', 'огурцов')))
-
-# TEST_9:
-print(choose_plural(240, ('курица', 'курицы', 'куриц')))
-
-# TEST_10:
-print(choose_plural(49324, ('плюмбус', 'плюмбуса', 'плюмбусов')))
-
-# TEST_11:
-print(choose_plural(505, ('утка', 'утки', 'уток')))
-
-# TEST_12:
-print(choose_plural(666, ('шкаф', 'шкафа', 'шкафов')))
-
-# TEST_13:
-print(choose_plural(11, ('стул', 'стула', 'стульев')))
-
-# TEST_14:
-print(choose_plural(3458438435812, ('доллар', 'доллара', 'долларов')))
-
-# TEST_15:
-print(choose_plural(2, ('пример', 'примера', 'примеров')))
-
-# TEST_16:
-print(choose_plural(111, ('пример', 'примера', 'примеров')))
-
-# TEST_17:
-print(choose_plural(1223123111, ('пример', 'примера', 'примеров')))
+words = ['a', 'ab', 'abc', 'abcd', 'ба', 'аб', 'абвгдеЁёёЁЁжбБбБввВ', 'ёёё', 'Ёаaа']
+print(spell(*words))
 

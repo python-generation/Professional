@@ -1,35 +1,26 @@
 # OUTPUT DATA:
 
 # TEST_1:
-True
+[]
 
 # TEST_2:
-True
+[6, 0, 10, -20]
 
 # TEST_3:
-False
+[-7, 67, -9, -29]
 
 # TEST_4:
-True
+[2]
 
 # TEST_5:
-False
+[2, 2, 2, 2, 0, 2]
 
 # TEST_6:
-False
+[-1, 1248234832443]
 
 # TEST_7:
-False
+[1]
 
 # TEST_8:
-False
-
-# TEST_9:
-True
-
-# TEST_10:
-False
-
-# TEST_11:
-False
+[1, 3, 5, 7, 9]
 

@@ -1,27 +1,31 @@
 # INPUT DATA:
 
 # TEST_1:
-print(likes(['Дима', 'Алиса']))
+word = 'abba'
+anagrams = ['aabb', 'abcd', 'bbaa', 'dada']
+
+print(filter_anagrams(word, anagrams))
 
 # TEST_2:
-print(likes(['Эндрю', 'Тоби', 'Том']))
+print(filter_anagrams('отсечка', ['сеточка', 'стоечка', 'тесачок', 'чесотка']))
 
 # TEST_3:
-print(likes([]))
+print(filter_anagrams('tommarvoloriddle', ['iamlordvoldemort', 'iamdevolremort', 'mortmortmortmort', 'remortvolremort']))
 
 # TEST_4:
-print(likes(['Том']))
+print(filter_anagrams('стекло', []))
 
 # TEST_5:
-print(likes(['Эндрю', 'Тоби', 'Том', 'Артур']))
+print(filter_anagrams('крона', ['кротко', 'укроп', 'норка']))
 
 # TEST_6:
-print(likes(['Эндрю', 'Тоби', 'Том', 'Артур', 'Тимур']))
+print(filter_anagrams('чулки', ['лучик', 'чутко', 'кочка']))
 
 # TEST_7:
-print(likes(['Артур', 'Тимур', 'Руслан', 'Анри', 'Дима', 'Алиса']))
+print(filter_anagrams('клоун', ['колдун', 'кулон', 'уклон', 'кол']))
 
 # TEST_8:
-names = [str(i) * 3 for i in range(100)]
-print(likes(names))
+word = 'abba'
+anagrams = ['aaab', 'dbcd', 'bdaa', 'badb']
+print(filter_anagrams(word, anagrams))
 

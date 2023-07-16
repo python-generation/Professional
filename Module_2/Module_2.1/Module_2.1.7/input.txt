@@ -1,26 +1,35 @@
 # INPUT DATA:
 
 # TEST_1:
-print_given(1, [1, 2, 3], 'three', two=2)
+print(is_valid('4367'))
 
 # TEST_2:
-print_given('apple', 'cherry', 'watermelon')
+print(is_valid('92134'))
 
 # TEST_3:
-print_given(b=2, d=4, c=3, a=1)
+print(is_valid('89abc1'))
 
 # TEST_4:
-print_given()
+print(is_valid('900876'))
 
 # TEST_5:
-print_given(map, range, filter)
+print(is_valid('49 83'))
 
 # TEST_6:
-print_given([1, 2, 3, 4], ('a', 'b', 'c', 'd'), name='Timur', age=29, city='Moscow')
+print(is_valid('467'))
 
 # TEST_7:
-print_given({1: 1, 2: 2, 3: 3}, [1, 2, 3, 4], (0, 0), zxc=123, abc=321, asd=987, iop=765)
+print(is_valid('4323423424467'))
 
 # TEST_8:
-print(print_given())
+print(is_valid('3 7 0'))
+
+# TEST_9:
+print(is_valid('0000'))
+
+# TEST_10:
+print(is_valid(''))
+
+# TEST_11:
+print(is_valid('aaaa'))
 

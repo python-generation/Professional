@@ -1,31 +1,35 @@
 # INPUT DATA:
 
 # TEST_1:
-word = 'abba'
-anagrams = ['aabb', 'abcd', 'bbaa', 'dada']
-
-print(filter_anagrams(word, anagrams))
+print(convert('BEEgeek'))
 
 # TEST_2:
-print(filter_anagrams('отсечка', ['сеточка', 'стоечка', 'тесачок', 'чесотка']))
+print(convert('pyTHON'))
 
 # TEST_3:
-print(filter_anagrams('tommarvoloriddle', ['iamlordvoldemort', 'iamdevolremort', 'mortmortmortmort', 'remortvolremort']))
+print(convert('pi31415!'))
 
 # TEST_4:
-print(filter_anagrams('стекло', []))
+print(convert('ABCDEF'))
 
 # TEST_5:
-print(filter_anagrams('крона', ['кротко', 'укроп', 'норка']))
+print(convert('abcdef'))
 
 # TEST_6:
-print(filter_anagrams('чулки', ['лучик', 'чутко', 'кочка']))
+print(convert('12345!?'))
 
 # TEST_7:
-print(filter_anagrams('клоун', ['колдун', 'кулон', 'уклон', 'кол']))
+print(convert('PI31415!'))
 
 # TEST_8:
-word = 'abba'
-anagrams = ['aaab', 'dbcd', 'bdaa', 'badb']
-print(filter_anagrams(word, anagrams))
+print(convert('ABCdef'))
+
+# TEST_9:
+print(convert('ABCdef123'))
+
+# TEST_10:
+print(convert('AbCdEf12345'))
+
+# TEST_11:
+print(convert('dEfAbC'))
 
