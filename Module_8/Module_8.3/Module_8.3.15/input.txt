@@ -27,3 +27,6 @@ print(is_palindrome('aa'))
 # TEST_9:
 print(is_palindrome('ab'))
 
+# TEST_10:
+print(is_palindrome('abcca'))
+
