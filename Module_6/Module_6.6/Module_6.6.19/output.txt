@@ -1,18 +1,29 @@
 # OUTPUT DATA:
 
 # TEST_1:
-[2014, 2013, 2011, 2011, 2010, 2010, 2008, 2008, 2007, 2006, 2006, 2006, 2006, 2005, 2004, 2004, 2004, 2004, 2003, 2001, 2001, 2000, 1999, 1999, 1997, 1994, 1990]
+OrderedDict([('Anabel', 17), ('Brian', 40), ('Carol', 16), ('Dustin', 29)])
 
 # TEST_2:
-['24', 'Big Love', 'Boardwalk Empire', 'Boston Legal', 'Breaking Bad', 'CSI: Crime Scene Investigations', 'Damages', 'Deadwood', 'Dexter', 'Downton Abbey', 'ER', 'Friday Night Lights', 'Game of Thrones', "Grey's Anatomy", 'Heroes', 'Homeland', 'House', 'House of Cards', 'Joan of Arcadia', 'Law & Order', 'Lost', 'Six Feet Under', 'The Practice', 'The Sopranos', 'The West Wing', 'True Blood', 'True Detective']
+('Mercury', 1) ('Venus', 2) ('Earth', 3) ('Mars', 4)
 
 # TEST_3:
-[1990, 1994, 1997, 1999, 1999, 2000, 2001, 2001, 2003, 2004, 2004, 2004, 2004, 2005, 2006, 2006, 2006, 2006, 2007, 2008, 2008, 2010, 2010, 2011, 2011, 2013, 2014]
+('a', 11) ('b', 2) ('c', 34) ('d', 4) ('e', 59) ('f', 600) ('g', 7)
 
 # TEST_4:
-['Arthur']
-[1]
+('aq', 1) ('qb', 2) ('rc', 3) ('ed', 4) ('we', 5) ('wf', 6) ('ag', 7)
 
 # TEST_5:
-['True Detective', 'True Blood', 'The West Wing', 'The Sopranos', 'The Practice', 'Six Feet Under', 'Lost', 'Law & Order', 'Joan of Arcadia', 'House of Cards', 'House', 'Homeland', 'Heroes', "Grey's Anatomy", 'Game of Thrones', 'Friday Night Lights', 'ER', 'Downton Abbey', 'Dexter', 'Deadwood', 'Damages', 'CSI: Crime Scene Investigations', 'Breaking Bad', 'Boston Legal', 'Boardwalk Empire', 'Big Love', '24']
+('a', 11) ('b', 2) ('c', 34) ('d', 4) ('e', 59) ('f', 600) ('g', 7)
+
+# TEST_6:
+('e', 11) ('b', 22) ('d', 33) ('c', 44) ('g', 66) ('f', 77) ('i', 88) ('a', 99) ('h', 99)
+
+# TEST_7:
+('a', 99) ('b', 22) ('c', 44) ('d', 33) ('e', 11) ('f', 77) ('g', 66) ('h', 99) ('i', 88)
+
+# TEST_8:
+('a', 99) ('b', 22) ('c', 44) ('d', 33) ('e', 11) ('f', 77) ('g', 66) ('h', 99) ('i', 88)
+
+# TEST_9:
+('e', 11) ('b', 22) ('g', 33) ('c', 33) ('d', 33) ('k', 44) ('f', 77) ('i', 88) ('a', 99) ('h', 99)
 
