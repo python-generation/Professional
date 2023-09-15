@@ -11,30 +11,30 @@ iterator = iter('stepik')
 print(*pairwise(iterator))
 
 # TEST_3:
+print(list(pairwise([])))
+
+# TEST_4:
 data = map(abs, range(-100, 100))
 
 print(*pairwise(data))
 
-# TEST_4:
+# TEST_5:
 data = map(str.upper, 'jhfjgshgkjfdjsgriyteryowpqerkelfsldfmnmnbmvcnmlgqweootiyoeytkldjhmvxcmkasd')
 
 print(*pairwise(data))
 
-# TEST_5:
+# TEST_6:
 data = 'JSKFJSDIFjejfkdjKJFIOJfkgkSDJGIEJGsklGDnvmmcvlwoqeriwjndSKF'
 
 print(*pairwise(data))
 
-# TEST_6:
+# TEST_7:
 iterator = pairwise('A')
 
 print(next(iterator))
 
-# TEST_7:
+# TEST_8:
 data = ['bee', 'geek', 'stepik', 'python']
 
 print(*pairwise(data))
-
-# TEST_8:
-print(list(pairwise([])))
 
