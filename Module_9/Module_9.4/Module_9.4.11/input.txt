@@ -12,3 +12,6 @@ print(numbers_sum.__doc__)
 # TEST_4:
 print(numbers_sum([10, 100, 1000, 10000]))
 
+# TEST_5:
+print(numbers_sum(['beegeek', 11, 'stepik', 28.5, '100', 11.2]))
+
