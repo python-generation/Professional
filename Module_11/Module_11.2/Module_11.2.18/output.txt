@@ -24,3 +24,9 @@
 # TEST_8:
 0o - )
 
+# TEST_9:
+9ei@c9
+
+# TEST_10:
+4i#UKs
+
