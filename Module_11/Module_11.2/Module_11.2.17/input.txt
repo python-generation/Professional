@@ -27,3 +27,15 @@ We will tell you #9a_aFF a2aA,. when we are ready for #$a11a2zRT
 # TEST_9:
 a1zAZ ZA3ZA z1zAZ
 
+# TEST_10:
+01bCD a1bcd abCDE a4b12 xYfB2 x!cYZ dABCD 3m3YZ b!9QR
+
+# TEST_11:
+xX9A! s5m!C z1t$D b2!CD aB6$E 0d2AA a0kAB z9cCD m2dYZ
+
+# TEST_12:
+a0bCD b1cEF c2dGH d3eIJ e4fKL
+
+# TEST_13:
+f5gMN g6hOP h7iQR i8jST j9kUV
+
