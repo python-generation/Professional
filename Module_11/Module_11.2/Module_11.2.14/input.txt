@@ -30,3 +30,6 @@ carc_rcatBcab
 # TEST_10:
 print(cet, cer, c.b, cub, cat)
 
+# TEST_11:
+caR cAR CAR CAr Car caT cAT CAT CAt Cat caB cAB CAB CAb Cab cAr cAt cAb
+
