@@ -40,3 +40,8 @@ iterator = iter('beegeek')
 
 print(*grouper(iterator, 20))
 
+# TEST_9:
+numbers = [1, 2, 3, 4, 5, 6]
+
+print(next(grouper(numbers, 2)))
+

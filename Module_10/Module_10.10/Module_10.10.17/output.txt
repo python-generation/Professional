@@ -24,3 +24,6 @@
 # TEST_8:
 ('b', 'e', 'e', 'g', 'e', 'e', 'k', None, None, None, None, None, None, None, None, None, None, None, None, None)
 
+# TEST_9:
+(1, 2)
+
