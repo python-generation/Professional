@@ -39,3 +39,6 @@
 # TEST_13:
 <class 'TypeError'>
 
+# TEST_14:
+<class 'TypeError'>
+

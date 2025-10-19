@@ -121,3 +121,14 @@ try:
 except Exception as err:
     print(type(err))
 
+# TEST_14:
+@takes_positive
+def positive_sum(*args):
+    return sum(args)
+
+
+try:
+    print(positive_sum(-1, 2, 3, 4.2))
+except Exception as err:
+    print(type(err))
+
