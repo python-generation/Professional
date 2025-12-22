@@ -59,3 +59,10 @@ print(beegeek("beegee", end="k"))
 print(beegeek.__name__)
 print(beegeek.__doc__)
 
+# TEST_9:
+@strip_range(12, 15)
+def beegeek():
+    return 'beegeek_new_beegeek'
+
+print(beegeek())
+
