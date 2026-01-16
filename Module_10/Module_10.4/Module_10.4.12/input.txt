@@ -49,3 +49,15 @@ try:
 except StopIteration:
     print('Error')
 
+# TEST_6:
+my_dict = dict(one=1, two=2, three=3, four=4)
+
+dict_iterator = DictItemsIterator(my_dict)
+
+print(next(dict_iterator))
+print(next(dict_iterator))
+
+new_iterator = iter(dict_iterator)
+
+print(next(new_iterator))
+
