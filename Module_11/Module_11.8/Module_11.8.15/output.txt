@@ -46,7 +46,7 @@ def randbytes(self, n):
 
 
 def randrange(self, start, stop=None, step=_ONE):
-    
+
     istart = _index(start)
     if stop is None:
         if step is not _ONE:
