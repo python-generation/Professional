@@ -11,7 +11,7 @@ import math  # importing a useful math module
 def circle_area(radius):
     """coming soon"""
     return math.pi * r ** 2  # my favorite formula
-    
+
 def triangle_area(base, height):
     """the function takes
     the base and height
