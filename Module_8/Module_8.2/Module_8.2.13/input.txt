@@ -15,3 +15,6 @@ print_digits(84293825)
 # TEST_5:
 print_digits(9999999999)
 
+# TEST_6:
+print_digits(20770)
+
