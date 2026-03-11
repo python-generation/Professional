@@ -40,7 +40,17 @@ span: aria-hidden, class
 # TEST_8:
 button: class, id, name, tabindex, title, type
 fieldset: title
-input: class, id, name, placeholder, role, tabindex, type, value
 label: class, for
 span: aria-hidden, class
+
+# TEST_9:
+a: href, rel, target
+
+# TEST_10:
+div: class, id, style
+
+# TEST_11:
+a: href, rel, target
+div: class, data-role, id
+img: alt, height, src, width
 

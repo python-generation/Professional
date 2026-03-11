@@ -39,9 +39,26 @@
 <fieldset title="Search Python.org">
     <span aria-hidden="true" class="icon-search"></span>
     <label class="screen-reader-text" for="id-search-field">Search This Site</label>
-    <input id="id-search-field" name="q" type="search" role="textbox" class="search-field" placeholder="Search" value="" tabindex="1">
     <button type="submit" name="submit" id="submit" class="search-button" title="Submit this Search" tabindex="3">
         GO
     </button>
 </fieldset>
+
+# TEST_9:
+<a href="link" target="_blank"></a>
+<a target="_blank" rel="nofollow"></a>
+
+# TEST_10:
+<div id="main" class="container"></div>
+<div style="color:red"></div>
+<div class="footer"></div>
+
+# TEST_11:
+<div id="main" class="container" data-role="page"></div>
+<a href="https://example.com" target="_blank" rel="noopener"></a>
+<img src="img.png" alt="image" width="200" height="100">
+
+<div class="footer"></div>
+<a href="https://example.com"></a>
+<img src="icon.png">
 
