@@ -44,3 +44,11 @@ def beegeek(*args, **kwargs):
     
 beegeek(1, 1, 1, sep=1, end=2, step=3)
 
+# TEST_7:
+@do_twice
+def beegeek():
+    print('beegeek')
+    return 'beegeek'
+
+print(beegeek())
+
