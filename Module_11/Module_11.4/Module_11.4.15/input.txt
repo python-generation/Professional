@@ -36,3 +36,5 @@ aAzZs
 # TEST_12:
 House
 
+# TEST_13:
+Chess 2
