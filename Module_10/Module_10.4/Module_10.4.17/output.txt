@@ -102,3 +102,8 @@ Error
 # TEST_34:
 Error
 
+# TEST_35:
+[]
+
+# TEST_36:
+[]

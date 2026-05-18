@@ -186,3 +186,12 @@ try:
 except StopIteration:
     print('Error')
 
+# TEST_35:
+xrange = Xrange(5, 0, 1)
+
+print(list(xrange))
+
+# TEST_36:
+xrange = Xrange(0, 5, -1)
+
+print(list(xrange))
